@@ -1,0 +1,16 @@
+{
+  "muted": false,
+  "fly": false,
+  "god": false,
+  "nick": "",
+  "lastSeen": {
+    "dim": "minecraft:the_end",
+    "x": -26,
+    "y": 52,
+    "z": -252,
+    "time": 1613162346752
+  },
+  "recording": 0,
+  "teleportHistory": [],
+  "homes": {}
+}

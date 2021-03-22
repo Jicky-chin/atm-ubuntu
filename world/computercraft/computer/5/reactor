@@ -1,0 +1,21 @@
+reactorId = "1"
+modem = peripheral.wrap("top")
+reactor = peripheral.wrap("back")
+
+modemExists = true;
+
+modem.open(1)
+modem.transmit(1,1, "connected: " .. reactorId);
+
+while modemExists do
+  os.sleep(2)
+
+    print(modem.transmit)
+    
+  if modem.transmit then
+    value = reactor.getFuelAmount()
+    modem.transmit(1,1,"Reactor fuel amount: " .. value);
+  else
+    modemExists = false
+  end
+end

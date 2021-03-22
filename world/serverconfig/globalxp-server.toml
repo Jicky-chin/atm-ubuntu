@@ -1,0 +1,13 @@
+#The amount of XP needed for the comparator to output a redstone signal of strength one. By default, the signal will be at full strength if the block has 30 levels stored.
+#Range: 0 ~ 143165576
+xpForComparator = 93
+#Whether the XP Block will pickup any XP orbs around it
+pickupXP = true
+#The range in blocks around the XP Block in which XP orbs will be picked up
+#Range: 0.0 ~ 50.0
+pickupRange = 3.0
+#Setting this to true will remove only as much XP from the block at a time as is needed for the player to reach their next level. Setting to false will retrieve all stored XP at once.
+retrieve_until_next_level = true
+#Setting this to true will store only as much XP from the player's XP bar until reaching the previous level, meaning only one level at maximum will be added to the block's storage at a time. Setting to false will store all the XP the player has.
+store_until_previous_level = false
+
