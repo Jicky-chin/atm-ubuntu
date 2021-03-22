@@ -1,0 +1,224 @@
+To refresh this file, delete it and run /reload command again! Last updated: Mar 22, 2021 4:55:04 PM
+
+#iceandfire:dragon_targets
+- minecraft:cow
+- minecraft:sheep
+- minecraft:pig
+- minecraft:chicken
+- minecraft:fox
+- minecraft:horse
+- minecraft:mooshroom
+- minecraft:ocelot
+- minecraft:llama
+- minecraft:panda
+- minecraft:parrot
+- minecraft:polar_bear
+- minecraft:rabbit
+- minecraft:trader_llama
+- minecraft:wolf
+- minecraft:cat
+- minecraft:pillager
+- minecraft:cat
+- minecraft:strider
+- minecraft:piglin
+- minecraft:hoglin
+- minecraft:zoglin
+
+#botania:cocoon/common_aquatic
+- minecraft:cod
+- minecraft:salmon
+- minecraft:tropical_fish
+- minecraft:pufferfish
+- minecraft:squid
+- quark:crab?
+
+#iceandfire:scares_cockatrices
+
+#minecraft:impact_projectiles
+- #minecraft:arrows
+- minecraft:snowball
+- minecraft:fireball
+- minecraft:small_fireball
+- minecraft:egg
+- minecraft:trident
+- minecraft:dragon_fireball
+- minecraft:wither_skull
+- mekanism:flame
+
+#botania:cocoon/common
+- minecraft:pig
+- minecraft:cow
+- minecraft:chicken
+- minecraft:rabbit
+- minecraft:sheep
+
+#minecraft:beehive_inhabitors
+- minecraft:bee
+- resourcefulbees:blazing_bee
+- resourcefulbees:magma_bee
+- resourcefulbees:ender_bee
+- resourcefulbees:dragonic_bee
+- resourcefulbees:vibranium_bee
+- resourcefulbees:netherite_bee
+- resourcefulbees:skeleton_bee
+- resourcefulbees:platinum_bee
+- resourcefulbees:kitten_bee
+- resourcefulbees:tin_bee
+- resourcefulbees:fluorite_bee
+- resourcefulbees:lapis_bee
+- resourcefulbees:zinc_bee
+- resourcefulbees:obsidian_bee
+- resourcefulbees:withered_bee
+- resourcefulbees:water_bee
+- resourcefulbees:warm_bee
+- resourcefulbees:coal_bee
+- resourcefulbees:silver_bee
+- resourcefulbees:uranium_bee
+- resourcefulbees:emerald_bee
+- resourcefulbees:redstone_bee
+- resourcefulbees:creeper_bee
+- resourcefulbees:crimson_iron_bee
+- resourcefulbees:unobtainium_bee
+- resourcefulbees:aquamarine_bee
+- resourcefulbees:aluminum_bee
+- resourcefulbees:allthemodium_bee
+- resourcefulbees:rocky_bee
+- resourcefulbees:gold_bee
+- resourcefulbees:lava_bee
+- resourcefulbees:ghost_bee
+- resourcefulbees:mason_bee
+- resourcefulbees:zombie_bee
+- resourcefulbees:copper_bee
+- resourcefulbees:rgbee_bee
+- resourcefulbees:slimy_bee
+- resourcefulbees:guardian_bee
+- resourcefulbees:leafcutter_bee
+- resourcefulbees:nickel_bee
+- resourcefulbees:lumber_bee
+- resourcefulbees:osmium_bee
+- resourcefulbees:quartz_bee
+- resourcefulbees:lead_bee
+- resourcefulbees:uraninite_bee
+- resourcefulbees:diamond_bee
+- resourcefulbees:mana_bee
+- resourcefulbees:glowing_bee
+- resourcefulbees:cobbee_bee
+- resourcefulbees:certus_bee
+- resourcefulbees:sandy_bee
+- resourcefulbees:oreo_bee
+- resourcefulbees:iron_bee
+- resourcefulbees:wither_bee
+- resourcefulbees:spider_bee
+- resourcefulbees:icey_bee
+
+#forge:creepers
+- minecraft:creeper
+- mekanismadditions:baby_creeper
+
+#iceandfire:chickens
+- minecraft:chicken
+
+#minecraft:skeletons
+- minecraft:skeleton
+- minecraft:stray
+- minecraft:wither_skeleton
+- mekanismadditions:baby_skeleton
+- mekanismadditions:baby_stray
+- mekanismadditions:baby_wither_skeleton
+
+#iceandfire:fear_dragons
+- minecraft:cow
+- minecraft:sheep
+- minecraft:pig
+- minecraft:chicken
+- minecraft:cat
+- minecraft:fox
+- minecraft:horse
+- minecraft:mooshroom
+- minecraft:ocelot
+- minecraft:llama
+- minecraft:panda
+- minecraft:parrot
+- minecraft:polar_bear
+- minecraft:rabbit
+- minecraft:strider
+- minecraft:trader_llama
+- minecraft:wolf
+- minecraft:hoglin
+
+#forge:endermen
+- minecraft:enderman
+- mekanismadditions:baby_enderman
+
+#iceandfire:villagers
+- minecraft:villager
+- minecraft:wandering_trader
+
+#iceandfire:lightning_dragon_targets
+- #iceandfire:dragon_targets
+
+#botania:cocoon/rare_aquatic
+- minecraft:dolphin
+
+#forbidden_arcanus:quantum_catcher_blacklisted
+- minecraft:wither
+- minecraft:elder_guardian
+- minecraft:ender_dragon
+
+#minecraft:arrows
+- minecraft:arrow
+- minecraft:spectral_arrow
+
+#botania:cocoon/rare
+- minecraft:horse
+- minecraft:donkey
+- minecraft:wolf
+- minecraft:ocelot
+- minecraft:cat
+- minecraft:parrot
+- minecraft:llama
+- minecraft:fox
+- minecraft:panda
+- minecraft:turtle
+- quark:frog?
+
+#iceandfire:sheep
+- minecraft:sheep
+
+#iceandfire:fire_dragon_targets
+- #iceandfire:dragon_targets
+
+#botania:shaded_mesa_blacklist
+- minecraft:ender_dragon
+- minecraft:wither
+- minecraft:item_frame
+- minecraft:end_crystal
+- minecraft:painting
+- botania:corporea_spark
+- botania:doppleganger
+- botania:flame_ring
+- botania:magic_landmine
+- botania:magic_missile
+- botania:mana_burst
+- botania:pink_wither
+- botania:spark
+- botania:player_mover
+
+#minecraft:raiders
+- minecraft:evoker
+- minecraft:pillager
+- minecraft:ravager
+- minecraft:vindicator
+- minecraft:illusioner
+- minecraft:witch
+
+#industrialforegoing:mob_imprisonment_tool_blacklist
+
+#iceandfire:ice_dragon_targets
+- #iceandfire:dragon_targets
+- minecraft:turtle
+- minecraft:dolphin
+- minecraft:cod
+- minecraft:pufferfish
+- minecraft:salmon
+- minecraft:tropical_fish

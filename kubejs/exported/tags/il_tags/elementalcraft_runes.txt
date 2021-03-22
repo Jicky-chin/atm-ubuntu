@@ -1,0 +1,16 @@
+To refresh this file, delete it and run /reload command again! Last updated: Mar 22, 2021 4:55:29 PM
+
+#elementalcraft:luck_runes
+- elementalcraft:claptrap
+- elementalcraft:bombadil
+- elementalcraft:tzeentch
+
+#elementalcraft:element_preservation_runes
+- elementalcraft:manx
+- elementalcraft:jita
+- elementalcraft:tano
+
+#elementalcraft:speed_runes
+- elementalcraft:wii
+- elementalcraft:fus
+- elementalcraft:zod
