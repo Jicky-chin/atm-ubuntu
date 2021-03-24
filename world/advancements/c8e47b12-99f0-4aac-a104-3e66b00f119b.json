@@ -2812,6 +2812,12 @@
     },
     "done": true
   },
+  "rftoolsdim:recipes/rftoolsdim/dimensional_block": {
+    "criteria": {
+      "shard": "2021-03-23 20:19:30 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2021-02-01 17:53:24 -0500"
@@ -2881,6 +2887,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2021-02-04 18:40:33 -0500"
+    },
+    "done": true
+  },
+  "rftoolsdim:recipes/rftoolsdim/dimensional_blank_block": {
+    "criteria": {
+      "shard": "2021-03-23 20:19:30 -0400"
     },
     "done": true
   },
@@ -6401,6 +6413,12 @@
     },
     "done": true
   },
+  "rftoolsdim:recipes/rftoolsdim/dimensional_cross_block": {
+    "criteria": {
+      "shard": "2021-03-23 20:19:30 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2021-02-01 22:40:06 -0500"
@@ -9660,6 +9678,12 @@
     },
     "done": true
   },
+  "rftoolsdim:recipes/rftoolsdim/dimensional_cross2_block": {
+    "criteria": {
+      "shard": "2021-03-23 20:19:30 -0400"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_inverted_pink": {
     "criteria": {
       "has_ingot_iron_compressed": "2021-02-06 12:13:29 -0500"
@@ -10114,6 +10138,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2021-01-31 03:11:10 -0500"
+    },
+    "done": true
+  },
+  "rftoolsdim:recipes/rftoolsdim/dimensional_pattern2_block": {
+    "criteria": {
+      "shard": "2021-03-23 20:19:30 -0400"
     },
     "done": true
   },
@@ -13910,6 +13940,12 @@
     },
     "done": true
   },
+  "rftoolsdim:recipes/rftoolsdim/dimensional_pattern1_block": {
+    "criteria": {
+      "shard": "2021-03-23 20:19:30 -0400"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/alu_scaffolding_standard": {
     "criteria": {
       "has_alu_ingot": "2021-01-31 03:40:11 -0500"
@@ -13985,6 +14021,12 @@
   "botania:recipes/botania/livingwood_planks_slab": {
     "criteria": {
       "has_item": "2021-02-17 20:38:27 -0500"
+    },
+    "done": true
+  },
+  "rftoolsdim:recipes/rftoolsdim/part_memory_0": {
+    "criteria": {
+      "shard": "2021-03-23 20:19:30 -0400"
     },
     "done": true
   },
@@ -14645,6 +14687,12 @@
     },
     "done": true
   },
+  "rftoolsdim:recipes/rftoolsdim/empty_dimlet": {
+    "criteria": {
+      "shard": "2021-03-23 20:19:30 -0400"
+    },
+    "done": true
+  },
   "appliedenergistics2:main/glass_cable": {
     "criteria": {
       "certus": "2021-02-03 03:52:21 -0500"
@@ -14726,6 +14774,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/tesla_coil": {
     "criteria": {
       "has_capacitor_hv": "2021-03-11 16:55:21 -0500"
+    },
+    "done": true
+  },
+  "rftoolsdim:recipes/rftoolsdim/part_energy_0": {
+    "criteria": {
+      "shard": "2021-03-23 20:19:30 -0400"
     },
     "done": true
   },
@@ -16003,6 +16057,12 @@
   "botania:recipes/misc/dye_purple": {
     "criteria": {
       "has_item": "2021-02-19 14:34:22 -0500"
+    },
+    "done": true
+  },
+  "rftoolsdim:recipes/rftoolsdim/dimensional_small_blocks": {
+    "criteria": {
+      "shard": "2021-03-23 20:19:30 -0400"
     },
     "done": true
   },

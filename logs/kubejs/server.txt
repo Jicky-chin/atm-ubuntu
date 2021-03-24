@@ -1,151 +1,151 @@
-[17:04:04] [INFO] Loaded script server_scripts:tags.js in 0.109 s
-[17:04:04] [INFO] Loaded script server_scripts:removals.js in 0.017 s
-[17:04:04] [INFO] Loaded script server_scripts:unify.js in 0.037 s
-[17:04:04] [INFO] Loaded script server_scripts:envirotech.js in 0.035 s
-[17:04:04] [INFO] Loaded script server_scripts:recipes.js in 0.052 s
-[17:04:04] [INFO] Loaded script server_scripts:ma_recipes.js in 0.006 s
-[17:04:04] [INFO] Loaded script server_scripts:upgrade.js in 0.006 s
-[17:04:04] [INFO] Loaded script server_scripts:rbee_recipes.js in 0.006 s
-[17:04:04] [INFO] Loaded script server_scripts:u_recipes.js in 0.008 s
-[17:04:04] [INFO] Loaded script server_scripts:cloche.js in 0.015 s
-[17:04:04] [INFO] Loaded script server_scripts:custom_stuff_recipes.js in 0.008 s
-[17:04:04] [INFO] Loaded script server_scripts:banned_items.js in 0.004 s
-[17:04:04] [INFO] Loaded script server_scripts:ct_recipes.js in 0.014 s
-[17:04:04] [INFO] Loaded script server_scripts:xreliquary_tome.js in 0.001 s
-[17:04:04] [INFO] Loaded script server_scripts:botany_pots.js in 0.049 s
-[17:04:04] [INFO] Loaded script server_scripts:modify_recipes.js in 0.017 s
-[17:04:04] [INFO] Loaded 16/16 KubeJS server scripts in 0.4 s
-[17:04:04] [INFO] Scripts loaded
-[17:04:05] [INFO] Scanning recipes...
-[17:04:14] [INFO] [blocks] Found 1114 tags, added 1841 objects, removed 38 objects
-[17:04:20] [INFO] [items] Found 2845 tags, added 1442 objects, removed 23 objects
-[17:04:20] [INFO] [fluids] Found 57 tags, added 1 objects, removed 0 objects
-[17:04:20] [INFO] [entity_types] Found 23 tags, added 0 objects, removed 0 objects
-[17:04:20] [INFO] [tunnel_types] Found 0 tags, added 0 objects, removed 0 objects
-[17:04:20] [INFO] [recipe_layer_serializers] Found 0 tags, added 0 objects, removed 0 objects
-[17:04:20] [INFO] [potions] Found 0 tags, added 0 objects, removed 0 objects
-[17:04:20] [INFO] [pigments] Found 0 tags, added 0 objects, removed 0 objects
-[17:04:20] [INFO] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
-[17:04:20] [INFO] [tile_entity_types] Found 3 tags, added 0 objects, removed 0 objects
-[17:04:20] [INFO] [infuse_types] Found 8 tags, added 0 objects, removed 0 objects
-[17:04:20] [INFO] [gases] Found 5 tags, added 0 objects, removed 0 objects
-[17:04:20] [INFO] [slurries] Found 2 tags, added 0 objects, removed 0 objects
-[17:04:21] [WARN] Failed to parse recipe 'emojiful:void[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:21] [WARN] Failed to parse recipe emojiful:void[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:21] [WARN] Failed to parse recipe 'emojiful:sawmill[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:21] [WARN] Failed to parse recipe emojiful:sawmill[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:22] [WARN] Failed to parse recipe 'emojiful:pedestal_green[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:22] [WARN] Failed to parse recipe emojiful:pedestal_green[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:22] [WARN] Failed to parse recipe 'thermal:machine/plugins/pam/hc2trees/insolator_hc2_pams_maple_sapling[thermal:insolator]': {"item":"pamhc2trees:mapleitem","chance":4.0} is not a valid result!
-[17:04:22] [WARN] Failed to parse recipe 'emojiful:quarry[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:22] [WARN] Failed to parse recipe emojiful:quarry[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:22] [WARN] Failed to parse recipe 'rats:dragon_wing_iaf[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'iceandfire:dragon_bone'
-[17:04:22] [WARN] Failed to parse recipe rats:dragon_wing_iaf[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item tag 'iceandfire:dragon_bone'
-[17:04:22] [WARN] Failed to parse recipe 'emojiful:xpconverter[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:22] [WARN] Failed to parse recipe emojiful:xpconverter[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:22] [WARN] Failed to parse recipe 'emojiful:attacker[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:22] [WARN] Failed to parse recipe emojiful:attacker[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:22] [WARN] Failed to parse recipe 'absentbydesign:stairs_smooth_stone_sc[minecraft:stonecutting]': "absentbydesign:smooth_stone" is not a valid result!
-[17:04:22] [WARN] Failed to parse recipe 'emojiful:guide[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:22] [WARN] Failed to parse recipe emojiful:guide[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:22] [WARN] Failed to parse recipe 'emojiful:xptank[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:22] [WARN] Failed to parse recipe emojiful:xptank[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:22] [WARN] Failed to parse recipe emojiful:range[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:22] [WARN] Failed to parse recipe 'emojiful:range[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:23] [WARN] Failed to parse recipe 'biomesoplenty:soil/ash[botanypots:soil]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:ash_block'
-[17:04:23] [WARN] Failed to parse recipe biomesoplenty:soil/ash[botanypots:soil]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:ash_block'
-[17:04:23] [WARN] Failed to parse recipe 'emojiful:rftank[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:23] [WARN] Failed to parse recipe emojiful:rftank[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:23] [WARN] Failed to parse recipe 'emojiful:export[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:23] [WARN] Failed to parse recipe emojiful:export[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:23] [WARN] Failed to parse recipe 'emojiful:fluidimport[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:23] [WARN] Failed to parse recipe emojiful:fluidimport[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:23] [WARN] Failed to parse recipe 'emojiful:fertilizer[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:23] [WARN] Failed to parse recipe emojiful:fertilizer[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:23] [WARN] Failed to parse recipe 'emojiful:planter[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:23] [WARN] Failed to parse recipe emojiful:planter[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:23] [WARN] Failed to parse recipe 'emojiful:capacity[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:23] [WARN] Failed to parse recipe emojiful:capacity[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:23] [WARN] Failed to parse recipe 'emojiful:hiveharvester[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:23] [WARN] Failed to parse recipe emojiful:hiveharvester[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:23] [WARN] Failed to parse recipe 'emojiful:pedestal_blue[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:23] [WARN] Failed to parse recipe emojiful:pedestal_blue[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:23] [WARN] Failed to parse recipe 'emojiful:advanced[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:23] [WARN] Failed to parse recipe emojiful:advanced[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:24] [WARN] Failed to parse recipe 'emojiful:upgradetool[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:24] [WARN] Failed to parse recipe emojiful:upgradetool[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:24] [WARN] Failed to parse recipe 'emojiful:chopper[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:24] [WARN] Failed to parse recipe emojiful:chopper[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:24] [WARN] Failed to parse recipe 'emojiful:itemtank[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:24] [WARN] Failed to parse recipe emojiful:itemtank[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:24] [WARN] Failed to parse recipe emojiful:xpmagnet[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:24] [WARN] Failed to parse recipe 'emojiful:xpmagnet[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:24] [WARN] Failed to parse recipe 'emojiful:breaker[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:24] [WARN] Failed to parse recipe emojiful:breaker[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:24] [WARN] Failed to parse recipe 'thermal:machine/plugins/byg/insolator_byg_araucaria_sapling[thermal:insolator]': {"item":"byg:araucaria_log","chance":6.0} is not a valid result!
-[17:04:24] [WARN] Failed to parse recipe 'emojiful:speed[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:24] [WARN] Failed to parse recipe emojiful:speed[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:24] [WARN] Failed to parse recipe 'emojiful:pedestal_red[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:24] [WARN] Failed to parse recipe emojiful:pedestal_red[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:24] [WARN] Failed to parse recipe 'emojiful:linkingtool[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:24] [WARN] Failed to parse recipe emojiful:linkingtool[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:24] [WARN] Failed to parse recipe 'emojiful:rfimport[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:24] [WARN] Failed to parse recipe emojiful:rfimport[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:24] [WARN] Failed to parse recipe 'emojiful:placer[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:24] [WARN] Failed to parse recipe emojiful:placer[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:24] [WARN] Failed to parse recipe 'emojiful:toolswapper[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:24] [WARN] Failed to parse recipe emojiful:toolswapper[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:24] [WARN] Failed to parse recipe 'botanytrees:pamhc2trees/maple_sapling[botanypots:crop]'! Falling back to vanilla: com.google.gson.JsonParseException: Could not find minecraft:block with ID pamhc2trees:maplesyrup_sapling
-[17:04:24] [WARN] Failed to parse recipe botanytrees:pamhc2trees/maple_sapling[botanypots:crop]: com.google.gson.JsonParseException: Could not find minecraft:block with ID pamhc2trees:maplesyrup_sapling
-[17:04:24] [WARN] Failed to parse recipe emojiful:magnet[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:24] [WARN] Failed to parse recipe 'emojiful:magnet[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:24] [WARN] Failed to parse recipe 'pamhc2foodextended:cottoncandyitem[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodextended:cottoncandyitem'
-[17:04:24] [WARN] Failed to parse recipe pamhc2foodextended:cottoncandyitem[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodextended:cottoncandyitem'
-[17:04:24] [WARN] Failed to parse recipe 'emojiful:pedestal[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:24] [WARN] Failed to parse recipe emojiful:pedestal[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:24] [WARN] Failed to parse recipe 'emojiful:import[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:24] [WARN] Failed to parse recipe emojiful:import[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:24] [WARN] Failed to parse recipe 'emojiful:dropper[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:24] [WARN] Failed to parse recipe emojiful:dropper[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:25] [WARN] Failed to parse recipe 'emojiful:xpenchanter[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:25] [WARN] Failed to parse recipe emojiful:xpenchanter[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:25] [WARN] Failed to parse recipe 'emojiful:crusher[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:25] [WARN] Failed to parse recipe emojiful:crusher[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:25] [WARN] Failed to parse recipe 'emojiful:xpanvil[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:25] [WARN] Failed to parse recipe emojiful:xpanvil[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:25] [WARN] Failed to parse recipe 'emojiful:fluidtank[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:25] [WARN] Failed to parse recipe emojiful:fluidtank[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:25] [WARN] Failed to parse recipe 'emojiful:area[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:25] [WARN] Failed to parse recipe emojiful:area[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:25] [WARN] Failed to parse recipe 'emojiful:cobblegen[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:25] [WARN] Failed to parse recipe emojiful:cobblegen[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:25] [WARN] Failed to parse recipe 'biomesoplenty:crops/cattail[botanypots:crop]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:tall_cattail'
-[17:04:25] [WARN] Failed to parse recipe biomesoplenty:crops/cattail[botanypots:crop]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:tall_cattail'
-[17:04:25] [WARN] Failed to parse recipe 'emojiful:crafter[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:25] [WARN] Failed to parse recipe emojiful:crafter[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:25] [WARN] Failed to parse recipe 'emojiful:rfexport[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:25] [WARN] Failed to parse recipe emojiful:rfexport[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:25] [WARN] Failed to parse recipe 'thermal:machine/plugins/pam/hc2trees/insolator_hc2_paperbark_sapling[thermal:insolator]': {"item":"pamhc2trees:paperbarkitem","chance":4.0} is not a valid result!
-[17:04:25] [WARN] Failed to parse recipe 'emojiful:pump[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:25] [WARN] Failed to parse recipe emojiful:pump[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:25] [WARN] Failed to parse recipe 'emojiful:furnace[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:25] [WARN] Failed to parse recipe emojiful:furnace[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:25] [WARN] Failed to parse recipe 'emojiful:recycler[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:25] [WARN] Failed to parse recipe emojiful:recycler[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:25] [WARN] Failed to parse recipe 'emojiful:fluidexport[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:25] [WARN] Failed to parse recipe emojiful:fluidexport[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:26] [WARN] Failed to parse recipe 'emojiful:drain[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:26] [WARN] Failed to parse recipe emojiful:drain[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:26] [WARN] Failed to parse recipe 'emojiful:xpdropper[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:26] [WARN] Failed to parse recipe emojiful:xpdropper[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:26] [WARN] Failed to parse recipe 'thermal:machine/plugins/byg/sawmill_byg_palo_verde_logs[thermal:sawmill]': {"item":"byg:palo_verde_planks","count":6} is not a valid result!
-[17:04:26] [WARN] Failed to parse recipe 'emojiful:harvester[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:26] [WARN] Failed to parse recipe emojiful:harvester[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:26] [WARN] Failed to parse recipe 'thermal:machine/plugins/biomesoplenty/insolator_bop_wilted_lilly_flower[thermal:insolator]': {"item":"biomesoplenty:wilted_lilly"} is not a valid ingredient!
-[17:04:26] [WARN] Failed to parse recipe 'emojiful:teleporter[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:26] [WARN] Failed to parse recipe emojiful:teleporter[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:26] [WARN] Failed to parse recipe 'emojiful:fan[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
-[17:04:26] [WARN] Failed to parse recipe emojiful:fan[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
-[17:04:36] [WARN] Error parsing recipe immersivepetroleum:distillationtower/oilcracking[immersivepetroleum:distillation]: {"type":"immersivepetroleum:distillation","byproducts":[{"item":"immersivepetroleum:bitumen"}],"results":[{"fluid":"immersivepetroleum:lubricant","amount":9},{"fluid":"immersivepetroleum:diesel","amount":27},{"fluid":"immersivepetroleum:gasoline","amount":39}],"input":{"tag":"forge:crude_oil","amount":75},"energy":2048}: java.lang.IllegalArgumentException: Unexpected json object.
-[17:04:42] [INFO] [functions] Found 0 tags, added 0 objects, removed 0 objects
-[17:04:48] [INFO] [il_tags/elementalcraft_runes] Found 3 tags, added 0 objects, removed 0 objects
+[21:44:38] [INFO] Loaded script server_scripts:tags.js in 0.081 s
+[21:44:38] [INFO] Loaded script server_scripts:removals.js in 0.011 s
+[21:44:38] [INFO] Loaded script server_scripts:unify.js in 0.033 s
+[21:44:38] [INFO] Loaded script server_scripts:envirotech.js in 0.03 s
+[21:44:38] [INFO] Loaded script server_scripts:recipes.js in 0.046 s
+[21:44:38] [INFO] Loaded script server_scripts:ma_recipes.js in 0.005 s
+[21:44:38] [INFO] Loaded script server_scripts:upgrade.js in 0.006 s
+[21:44:38] [INFO] Loaded script server_scripts:rbee_recipes.js in 0.006 s
+[21:44:38] [INFO] Loaded script server_scripts:u_recipes.js in 0.009 s
+[21:44:38] [INFO] Loaded script server_scripts:cloche.js in 0.015 s
+[21:44:38] [INFO] Loaded script server_scripts:custom_stuff_recipes.js in 0.008 s
+[21:44:38] [INFO] Loaded script server_scripts:banned_items.js in 0.004 s
+[21:44:38] [INFO] Loaded script server_scripts:ct_recipes.js in 0.015 s
+[21:44:38] [INFO] Loaded script server_scripts:xreliquary_tome.js in 0.002 s
+[21:44:38] [INFO] Loaded script server_scripts:botany_pots.js in 0.022 s
+[21:44:38] [INFO] Loaded script server_scripts:modify_recipes.js in 0.013 s
+[21:44:38] [INFO] Loaded 16/16 KubeJS server scripts in 0.32 s
+[21:44:38] [INFO] Scripts loaded
+[21:44:38] [INFO] Scanning recipes...
+[21:44:47] [INFO] [blocks] Found 1114 tags, added 1841 objects, removed 38 objects
+[21:44:52] [INFO] [items] Found 2845 tags, added 1442 objects, removed 23 objects
+[21:44:52] [INFO] [fluids] Found 57 tags, added 1 objects, removed 0 objects
+[21:44:52] [INFO] [entity_types] Found 23 tags, added 0 objects, removed 0 objects
+[21:44:52] [INFO] [tunnel_types] Found 0 tags, added 0 objects, removed 0 objects
+[21:44:52] [INFO] [recipe_layer_serializers] Found 0 tags, added 0 objects, removed 0 objects
+[21:44:52] [INFO] [potions] Found 0 tags, added 0 objects, removed 0 objects
+[21:44:52] [INFO] [pigments] Found 0 tags, added 0 objects, removed 0 objects
+[21:44:52] [INFO] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
+[21:44:52] [INFO] [tile_entity_types] Found 3 tags, added 0 objects, removed 0 objects
+[21:44:52] [INFO] [slurries] Found 2 tags, added 0 objects, removed 0 objects
+[21:44:52] [INFO] [infuse_types] Found 8 tags, added 0 objects, removed 0 objects
+[21:44:52] [INFO] [gases] Found 5 tags, added 0 objects, removed 0 objects
+[21:44:52] [WARN] Failed to parse recipe 'emojiful:void[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:52] [WARN] Failed to parse recipe emojiful:void[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:52] [WARN] Failed to parse recipe 'emojiful:sawmill[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:52] [WARN] Failed to parse recipe emojiful:sawmill[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:53] [WARN] Failed to parse recipe 'emojiful:pedestal_green[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:53] [WARN] Failed to parse recipe emojiful:pedestal_green[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:53] [WARN] Failed to parse recipe 'thermal:machine/plugins/pam/hc2trees/insolator_hc2_pams_maple_sapling[thermal:insolator]': {"item":"pamhc2trees:mapleitem","chance":4.0} is not a valid result!
+[21:44:53] [WARN] Failed to parse recipe 'emojiful:quarry[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:53] [WARN] Failed to parse recipe emojiful:quarry[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:53] [WARN] Failed to parse recipe 'rats:dragon_wing_iaf[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'iceandfire:dragon_bone'
+[21:44:53] [WARN] Failed to parse recipe rats:dragon_wing_iaf[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item tag 'iceandfire:dragon_bone'
+[21:44:53] [WARN] Failed to parse recipe 'emojiful:xpconverter[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:53] [WARN] Failed to parse recipe emojiful:xpconverter[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:53] [WARN] Failed to parse recipe 'emojiful:attacker[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:53] [WARN] Failed to parse recipe emojiful:attacker[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:53] [WARN] Failed to parse recipe 'absentbydesign:stairs_smooth_stone_sc[minecraft:stonecutting]': "absentbydesign:smooth_stone" is not a valid result!
+[21:44:53] [WARN] Failed to parse recipe 'emojiful:guide[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:53] [WARN] Failed to parse recipe emojiful:guide[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:53] [WARN] Failed to parse recipe 'emojiful:xptank[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:53] [WARN] Failed to parse recipe emojiful:xptank[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:53] [WARN] Failed to parse recipe 'emojiful:range[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:53] [WARN] Failed to parse recipe emojiful:range[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:54] [WARN] Failed to parse recipe 'biomesoplenty:soil/ash[botanypots:soil]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:ash_block'
+[21:44:54] [WARN] Failed to parse recipe biomesoplenty:soil/ash[botanypots:soil]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:ash_block'
+[21:44:54] [WARN] Failed to parse recipe 'emojiful:rftank[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:54] [WARN] Failed to parse recipe emojiful:rftank[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:54] [WARN] Failed to parse recipe 'emojiful:export[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:54] [WARN] Failed to parse recipe emojiful:export[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:54] [WARN] Failed to parse recipe 'emojiful:fluidimport[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:54] [WARN] Failed to parse recipe emojiful:fluidimport[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:54] [WARN] Failed to parse recipe 'emojiful:fertilizer[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:54] [WARN] Failed to parse recipe emojiful:fertilizer[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:54] [WARN] Failed to parse recipe 'emojiful:planter[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:54] [WARN] Failed to parse recipe emojiful:planter[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:54] [WARN] Failed to parse recipe 'emojiful:capacity[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:54] [WARN] Failed to parse recipe emojiful:capacity[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:54] [WARN] Failed to parse recipe 'emojiful:hiveharvester[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:54] [WARN] Failed to parse recipe emojiful:hiveharvester[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:54] [WARN] Failed to parse recipe 'emojiful:pedestal_blue[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:54] [WARN] Failed to parse recipe emojiful:pedestal_blue[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:54] [WARN] Failed to parse recipe 'emojiful:advanced[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:54] [WARN] Failed to parse recipe emojiful:advanced[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:54] [WARN] Failed to parse recipe 'emojiful:upgradetool[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:54] [WARN] Failed to parse recipe emojiful:upgradetool[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:54] [WARN] Failed to parse recipe 'emojiful:chopper[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:54] [WARN] Failed to parse recipe emojiful:chopper[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:54] [WARN] Failed to parse recipe 'emojiful:itemtank[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:54] [WARN] Failed to parse recipe emojiful:itemtank[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:54] [WARN] Failed to parse recipe 'emojiful:xpmagnet[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:54] [WARN] Failed to parse recipe emojiful:xpmagnet[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:54] [WARN] Failed to parse recipe 'emojiful:breaker[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:54] [WARN] Failed to parse recipe emojiful:breaker[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:54] [WARN] Failed to parse recipe 'thermal:machine/plugins/byg/insolator_byg_araucaria_sapling[thermal:insolator]': {"item":"byg:araucaria_log","chance":6.0} is not a valid result!
+[21:44:55] [WARN] Failed to parse recipe 'emojiful:speed[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:55] [WARN] Failed to parse recipe emojiful:speed[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:55] [WARN] Failed to parse recipe 'emojiful:pedestal_red[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:55] [WARN] Failed to parse recipe emojiful:pedestal_red[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:55] [WARN] Failed to parse recipe 'emojiful:linkingtool[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:55] [WARN] Failed to parse recipe emojiful:linkingtool[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:55] [WARN] Failed to parse recipe 'emojiful:rfimport[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:55] [WARN] Failed to parse recipe emojiful:rfimport[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:55] [WARN] Failed to parse recipe 'emojiful:placer[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:55] [WARN] Failed to parse recipe emojiful:placer[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:55] [WARN] Failed to parse recipe 'emojiful:toolswapper[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:55] [WARN] Failed to parse recipe emojiful:toolswapper[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:55] [WARN] Failed to parse recipe 'botanytrees:pamhc2trees/maple_sapling[botanypots:crop]'! Falling back to vanilla: com.google.gson.JsonParseException: Could not find minecraft:block with ID pamhc2trees:maplesyrup_sapling
+[21:44:55] [WARN] Failed to parse recipe botanytrees:pamhc2trees/maple_sapling[botanypots:crop]: com.google.gson.JsonParseException: Could not find minecraft:block with ID pamhc2trees:maplesyrup_sapling
+[21:44:55] [WARN] Failed to parse recipe 'emojiful:magnet[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:55] [WARN] Failed to parse recipe emojiful:magnet[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:55] [WARN] Failed to parse recipe 'pamhc2foodextended:cottoncandyitem[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodextended:cottoncandyitem'
+[21:44:55] [WARN] Failed to parse recipe pamhc2foodextended:cottoncandyitem[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodextended:cottoncandyitem'
+[21:44:55] [WARN] Failed to parse recipe 'emojiful:pedestal[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:55] [WARN] Failed to parse recipe emojiful:pedestal[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:55] [WARN] Failed to parse recipe 'emojiful:import[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:55] [WARN] Failed to parse recipe emojiful:import[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:55] [WARN] Failed to parse recipe 'emojiful:dropper[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:55] [WARN] Failed to parse recipe emojiful:dropper[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:55] [WARN] Failed to parse recipe 'emojiful:xpenchanter[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:55] [WARN] Failed to parse recipe emojiful:xpenchanter[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:55] [WARN] Failed to parse recipe 'emojiful:crusher[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:55] [WARN] Failed to parse recipe emojiful:crusher[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:55] [WARN] Failed to parse recipe 'emojiful:xpanvil[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:55] [WARN] Failed to parse recipe emojiful:xpanvil[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:55] [WARN] Failed to parse recipe 'emojiful:fluidtank[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:55] [WARN] Failed to parse recipe emojiful:fluidtank[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:55] [WARN] Failed to parse recipe 'emojiful:area[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:55] [WARN] Failed to parse recipe emojiful:area[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:56] [WARN] Failed to parse recipe 'emojiful:cobblegen[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:56] [WARN] Failed to parse recipe emojiful:cobblegen[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:56] [WARN] Failed to parse recipe 'biomesoplenty:crops/cattail[botanypots:crop]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:tall_cattail'
+[21:44:56] [WARN] Failed to parse recipe biomesoplenty:crops/cattail[botanypots:crop]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:tall_cattail'
+[21:44:56] [WARN] Failed to parse recipe 'emojiful:crafter[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:56] [WARN] Failed to parse recipe emojiful:crafter[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:56] [WARN] Failed to parse recipe 'emojiful:rfexport[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:56] [WARN] Failed to parse recipe emojiful:rfexport[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:56] [WARN] Failed to parse recipe 'thermal:machine/plugins/pam/hc2trees/insolator_hc2_paperbark_sapling[thermal:insolator]': {"item":"pamhc2trees:paperbarkitem","chance":4.0} is not a valid result!
+[21:44:56] [WARN] Failed to parse recipe 'emojiful:pump[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:56] [WARN] Failed to parse recipe emojiful:pump[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:56] [WARN] Failed to parse recipe 'emojiful:furnace[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:56] [WARN] Failed to parse recipe emojiful:furnace[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:56] [WARN] Failed to parse recipe 'emojiful:recycler[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:56] [WARN] Failed to parse recipe emojiful:recycler[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:56] [WARN] Failed to parse recipe 'emojiful:fluidexport[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:56] [WARN] Failed to parse recipe emojiful:fluidexport[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:56] [WARN] Failed to parse recipe 'emojiful:drain[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:56] [WARN] Failed to parse recipe emojiful:drain[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:56] [WARN] Failed to parse recipe 'emojiful:xpdropper[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:56] [WARN] Failed to parse recipe emojiful:xpdropper[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:56] [WARN] Failed to parse recipe 'thermal:machine/plugins/byg/sawmill_byg_palo_verde_logs[thermal:sawmill]': {"item":"byg:palo_verde_planks","count":6} is not a valid result!
+[21:44:56] [WARN] Failed to parse recipe 'emojiful:harvester[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:56] [WARN] Failed to parse recipe emojiful:harvester[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:56] [WARN] Failed to parse recipe 'thermal:machine/plugins/biomesoplenty/insolator_bop_wilted_lilly_flower[thermal:insolator]': {"item":"biomesoplenty:wilted_lilly"} is not a valid ingredient!
+[21:44:56] [WARN] Failed to parse recipe 'emojiful:teleporter[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:56] [WARN] Failed to parse recipe emojiful:teleporter[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:44:56] [WARN] Failed to parse recipe 'emojiful:fan[emojiful:emoji_recipe]'! Falling back to vanilla: Unknown recipe type!
+[21:44:56] [WARN] Failed to parse recipe emojiful:fan[emojiful:emoji_recipe]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+[21:45:06] [WARN] Error parsing recipe immersivepetroleum:distillationtower/oilcracking[immersivepetroleum:distillation]: {"type":"immersivepetroleum:distillation","byproducts":[{"item":"immersivepetroleum:bitumen"}],"results":[{"fluid":"immersivepetroleum:lubricant","amount":9},{"fluid":"immersivepetroleum:diesel","amount":27},{"fluid":"immersivepetroleum:gasoline","amount":39}],"input":{"tag":"forge:crude_oil","amount":75},"energy":2048}: java.lang.IllegalArgumentException: Unexpected json object.
+[21:45:12] [INFO] [functions] Found 0 tags, added 0 objects, removed 0 objects
+[21:45:17] [INFO] [il_tags/elementalcraft_runes] Found 3 tags, added 0 objects, removed 0 objects
