@@ -77,7 +77,7 @@
 		[elementalcraft.shrines.oreShrine]
 			#The range of the Ore Shrine.
 			#Range: 0 ~ 100
-			oreShrineRange = 6
+			oreShrineRange = 12
 			#The amount of element consumed by the Ore Shrine.
 			#Range: 0 ~ 10000
 			oreShrineConsumeAmount = 2000

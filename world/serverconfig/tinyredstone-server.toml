@@ -1,0 +1,11 @@
+
+#Feature Settings
+[feature]
+	#Should it be possible to export or import the blueprint as json? (default:true)
+	json_blueprint = true
+
+#Performance Settings
+[performance]
+	#Should redstone torches output light to the surrounding area? (default:false)
+	torch_light = false
+

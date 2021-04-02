@@ -1,4 +1,4 @@
-To refresh this file, delete it and run /reload command again! Last updated: Mar 22, 2021 4:55:04 PM
+To refresh this file, delete it and run /reload command again! Last updated: Mar 23, 2021 9:18:00 PM
 
 #forge:oxygen
 - mekanism:oxygen
@@ -58,6 +58,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - mekanism:flowing_steam
 - biggerreactors:fluid_irradiated_steam
 
+#forge:experience
+- cofh_core:experience
+
 #forge:slime
 - cyclic:slime
 
@@ -87,6 +90,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 
 #forge:creosote
 - immersiveengineering:creosote
+- thermal:creosote
 
 #appliedenergistics2:blacklisted/fluid_annihilation_plane
 
@@ -112,6 +116,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 #forge:crude_oil
 - pneumaticcraft:oil
 - immersivepetroleum:oil
+- thermal:crude_oil
 
 #forge:herbicide
 - immersiveengineering:herbicide
@@ -161,6 +166,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 
 #forge:potion
 - immersiveengineering:potion
+- cofh_core:potion
 
 #forge:sulfur_trioxide
 - mekanism:sulfur_trioxide
@@ -212,8 +218,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 #forge:latex
 - industrialforegoing:latex
 - industrialforegoing:latex_fluid
+- thermal:latex
 
 #forge:honey
+- cofh_core:honey
 - resourcefulbees:honey
 - resourcefulbees:catnip_honey
 - cyclic:honey

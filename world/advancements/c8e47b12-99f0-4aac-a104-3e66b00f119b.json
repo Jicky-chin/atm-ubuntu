@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/spawner_mover": {
+    "criteria": {
+      "has_item": "2021-03-28 19:46:53 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
       "has_planks": "2021-01-31 21:33:04 -0500"
@@ -353,6 +359,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/black_hole_talisman": {
+    "criteria": {
+      "has_item": "2021-03-28 19:46:53 -0400"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_gabbro_from_gabbro_stonecutting": {
     "criteria": {
       "has_gabbro": "2021-02-01 15:00:51 -0500"
@@ -419,6 +431,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/lens_warp": {
+    "criteria": {
+      "has_item": "2021-03-27 15:14:08 -0400"
+    },
+    "done": true
+  },
   "woot:recipes/woot/si_plate": {
     "criteria": {
       "cobblestone": "2021-01-31 03:11:10 -0500"
@@ -428,6 +446,12 @@
   "mcwroofs:recipes/gutter_middle_red": {
     "criteria": {
       "has_planks": "2021-02-02 19:38:24 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/cosmetic_black_tie": {
+    "criteria": {
+      "has_item": "2021-03-28 20:08:46 -0400"
     },
     "done": true
   },
@@ -707,6 +731,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/shimmerwood_planks": {
+    "criteria": {
+      "has_alt_item": "2021-03-28 18:45:25 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/hellbark_trapdoor": {
     "criteria": {
       "has_planks": "2021-02-22 14:14:36 -0500"
@@ -797,6 +827,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/laputa_shard": {
+    "criteria": {
+      "has_item": "2021-03-28 19:46:53 -0400"
+    },
+    "done": true
+  },
   "silentgear:survival_tool": {
     "criteria": {
       "knife": "2021-02-01 23:18:02 -0500"
@@ -839,6 +875,12 @@
     },
     "done": true
   },
+  "mythicbotany:recipes/mythicbotany/mana_collector": {
+    "criteria": {
+      "has_item": "2021-03-28 19:48:50 -0400"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/charging_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2021-02-01 16:02:13 -0500"
@@ -854,6 +896,12 @@
   "botania:recipes/botania/lens_firework": {
     "criteria": {
       "has_item": "2021-02-19 18:43:49 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/cosmetic_puffy_scarf": {
+    "criteria": {
+      "has_item": "2021-03-28 20:08:46 -0400"
     },
     "done": true
   },
@@ -878,6 +926,12 @@
   "mcwdoors:recipes/jungle/jungle_stable_head_door": {
     "criteria": {
       "has_planks": "2021-02-01 17:08:46 -0500"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/railing_blackstone_wall": {
+    "criteria": {
+      "has_planks": "2021-03-31 17:20:33 -0400"
     },
     "done": true
   },
@@ -941,9 +995,21 @@
     },
     "done": true
   },
+  "resourcefulbees:resourcefulbees/collect_bee": {
+    "criteria": {
+      "collect_bee": "2021-03-27 00:02:12 -0400"
+    },
+    "done": true
+  },
   "usefulrailroads:recipes/intersection_rail": {
     "criteria": {
       "has_minecart": "2021-02-06 19:12:40 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/gaia_ingot": {
+    "criteria": {
+      "has_item": "2021-03-28 19:46:53 -0400"
     },
     "done": true
   },
@@ -956,6 +1022,12 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2021-02-01 16:02:13 -0500"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/modern_red_sandstone_wall": {
+    "criteria": {
+      "has_planks": "2021-03-29 12:55:22 -0400"
     },
     "done": true
   },
@@ -1031,6 +1103,18 @@
     },
     "done": true
   },
+  "resourcefulbees:resourcefulbees/wax": {
+    "criteria": {
+      "wax": "2021-03-23 22:24:08 -0400"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/cosmetic_red_glasses": {
+    "criteria": {
+      "has_item": "2021-03-28 20:08:46 -0400"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/acacia_log_bridge_middle": {
     "criteria": {
       "has_planks": "2021-01-31 21:33:04 -0500"
@@ -1103,6 +1187,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2021-03-28 19:33:49 -0400"
+    },
+    "done": true
+  },
   "botania:recipes/botania/manasteel_chestplate": {
     "criteria": {
       "has_item": "2021-02-03 22:26:15 -0500"
@@ -1124,6 +1214,12 @@
   "repurposed_structures:temple/temple_nether_soul": {
     "criteria": {
       "in_temple_nether_soul": "2021-03-12 21:57:42 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/cloud_pendant": {
+    "criteria": {
+      "has_item": "2021-03-28 20:08:46 -0400"
     },
     "done": true
   },
@@ -1196,6 +1292,12 @@
   "minecraft:recipes/decorations/yellow_glazed_terracotta": {
     "criteria": {
       "has_yellow_terracotta": "2021-03-02 21:30:15 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/dragonstone_block": {
+    "criteria": {
+      "has_item": "2021-03-27 15:17:47 -0400"
     },
     "done": true
   },
@@ -2074,6 +2176,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/cosmetic_ancient_mask": {
+    "criteria": {
+      "has_item": "2021-03-28 20:08:46 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2021-01-31 03:20:59 -0500"
@@ -2482,6 +2590,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/cosmetic_clock_eye": {
+    "criteria": {
+      "has_item": "2021-03-28 20:08:46 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2021-02-01 15:00:25 -0500"
@@ -2548,6 +2662,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/compressed_iron_chestplate": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2021-03-29 13:53:24 -0400"
+    },
+    "done": true
+  },
   "computercraft:recipes/computercraft/disk_13": {
     "criteria": {
       "has_drive": "2021-03-03 19:09:29 -0500"
@@ -2581,6 +2701,12 @@
   "computercraft:recipes/computercraft/disk_11": {
     "criteria": {
       "has_drive": "2021-03-03 19:09:29 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/fabulous_pool_upgrade": {
+    "criteria": {
+      "has_alt_item": "2021-03-28 18:45:25 -0400"
     },
     "done": true
   },
@@ -2728,6 +2854,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/cosmetic_botanist_emblem": {
+    "criteria": {
+      "has_item": "2021-03-28 20:08:46 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2021-01-31 21:24:34 -0500"
@@ -2761,6 +2893,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2021-02-17 22:27:31 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/flask": {
+    "criteria": {
+      "has_item": "2021-03-28 18:45:39 -0400"
     },
     "done": true
   },
@@ -2833,6 +2971,12 @@
   "botania:recipes/botania/mana_pylon": {
     "criteria": {
       "has_item": "2021-02-19 14:12:51 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/rainbow_rod": {
+    "criteria": {
+      "has_item": "2021-03-27 15:17:47 -0400"
     },
     "done": true
   },
@@ -2947,6 +3091,12 @@
   "silentgear:recipes/silentgear/binding_blueprint": {
     "criteria": {
       "has_item": "2021-02-01 23:17:01 -0500"
+    },
+    "done": true
+  },
+  "mythicbotany:recipes/mythicbotany/alfsteel_ingot_from_nuggets": {
+    "criteria": {
+      "has_item": "2021-03-28 19:27:12 -0400"
     },
     "done": true
   },
@@ -3160,6 +3310,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woot/fluid_conv_1": {
+    "criteria": {
+      "cobblestone": "2021-03-24 19:26:38 -0400"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_gabbro": {
     "criteria": {
       "has_gabbro": "2021-02-01 15:00:51 -0500"
@@ -3223,6 +3379,12 @@
   "appliedenergistics2:main/network_tool": {
     "criteria": {
       "network_tool": "2021-03-08 10:08:32 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/bifrost_pane": {
+    "criteria": {
+      "has_item": "2021-03-28 18:46:07 -0400"
     },
     "done": true
   },
@@ -3502,6 +3664,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/pixie_ring": {
+    "criteria": {
+      "has_item": "2021-03-27 15:14:08 -0400"
+    },
+    "done": true
+  },
   "rftoolsbase:recipes/rftoolsbase/filter_module": {
     "criteria": {
       "hopper": "2021-02-05 03:08:27 -0500"
@@ -3670,6 +3838,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/compressed_iron_helmet": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2021-03-29 13:53:24 -0400"
+    },
+    "done": true
+  },
   "botania:recipes/botania/pink_shiny_flower": {
     "criteria": {
       "has_item": "2021-02-01 15:42:33 -0500"
@@ -3691,6 +3865,12 @@
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_iron_ore": "2021-01-31 03:11:38 -0500"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_uranium": {
+    "criteria": {
+      "has_plate_uranium": "2021-03-27 12:41:41 -0400"
     },
     "done": true
   },
@@ -3754,6 +3934,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/cosmetic_kamui_eye": {
+    "criteria": {
+      "has_item": "2021-03-28 20:08:46 -0400"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/print_barred": {
     "criteria": {
       "has_planks": "2021-02-05 21:33:50 -0500"
@@ -3808,9 +3994,21 @@
     },
     "done": true
   },
+  "botania:recipes/botania/gravity_rod": {
+    "criteria": {
+      "has_item": "2021-03-27 15:17:47 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2021-02-16 15:09:18 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/bifrost_perm": {
+    "criteria": {
+      "has_item": "2021-03-28 18:45:25 -0400"
     },
     "done": true
   },
@@ -3925,6 +4123,12 @@
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_brick": "2021-02-03 23:23:55 -0500"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/oak_picket_fence": {
+    "criteria": {
+      "has_planks": "2021-03-27 12:10:48 -0400"
     },
     "done": true
   },
@@ -4171,6 +4375,12 @@
   "create:recipes/create.palettes/mossy_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-03-03 15:19:41 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/world_seed": {
+    "criteria": {
+      "has_item": "2021-03-27 15:17:47 -0400"
     },
     "done": true
   },
@@ -4456,6 +4666,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/cosmetic_thinking_hand": {
+    "criteria": {
+      "has_item": "2021-03-28 20:08:46 -0400"
+    },
+    "done": true
+  },
   "usefulrailroads:recipes/direction_rail": {
     "criteria": {
       "has_minecart": "2021-02-06 19:12:40 -0500"
@@ -4477,6 +4693,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2021-01-31 03:09:56 -0500"
+    },
+    "done": true
+  },
+  "rftoolsdim:recipes/rftoolsdim/uncommon_lost_knowledge": {
+    "criteria": {
+      "knowlege": "2021-03-23 22:37:08 -0400"
     },
     "done": true
   },
@@ -4576,6 +4798,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/cosmetic_engineer_goggles": {
+    "criteria": {
+      "has_item": "2021-03-28 20:08:46 -0400"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/dried_sinew": {
     "criteria": {
       "has_item": "2021-02-13 00:03:07 -0500"
@@ -4672,6 +4900,12 @@
     },
     "done": true
   },
+  "mythicbotany:recipes/mythicbotany/alfsteel_block_from_ingots": {
+    "criteria": {
+      "has_item": "2021-03-28 19:05:10 -0400"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/netcable_yellow_dye": {
     "criteria": {
       "chest": "2021-01-31 03:21:04 -0500"
@@ -4717,6 +4951,12 @@
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2021-01-31 03:08:36 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/cosmetic_wicked_eyepatch": {
+    "criteria": {
+      "has_item": "2021-03-28 20:08:46 -0400"
     },
     "done": true
   },
@@ -4801,6 +5041,12 @@
   "pneumaticcraft:recipes/thermo_plant/ethanol_from_sweet_berries": {
     "criteria": {
       "thermopneumatic_processing_plant": "2021-02-23 23:16:23 -0500"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/modern_blackstone_wall": {
+    "criteria": {
+      "has_planks": "2021-03-31 17:20:33 -0400"
     },
     "done": true
   },
@@ -4939,6 +5185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_scute": "2021-03-28 20:20:26 -0400"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/birch/birch_japanese2_door": {
     "criteria": {
       "has_planks": "2021-01-31 20:50:28 -0500"
@@ -4966,6 +5218,18 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-02-01 22:31:34 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/crystal_bow": {
+    "criteria": {
+      "has_item": "2021-03-27 15:17:47 -0400"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/slab_recombine/shimmerrock": {
+    "criteria": {
+      "has_item": "2021-03-28 18:46:41 -0400"
     },
     "done": true
   },
@@ -5038,6 +5302,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_iron_hammering": {
     "criteria": {
       "has_iron_ingot": "2021-01-31 03:20:59 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/skydirt_rod": {
+    "criteria": {
+      "has_item": "2021-03-27 15:14:08 -0400"
     },
     "done": true
   },
@@ -5264,6 +5534,12 @@
   "woot:recipes/woot/cell_3": {
     "criteria": {
       "cobblestone": "2021-01-31 03:11:10 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/cosmetic_black_bowtie": {
+    "criteria": {
+      "has_item": "2021-03-28 20:08:46 -0400"
     },
     "done": true
   },
@@ -5507,6 +5783,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/cosmetic_anaglyph_glasses": {
+    "criteria": {
+      "has_item": "2021-03-28 20:08:46 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2021-02-01 17:15:37 -0500"
@@ -5516,6 +5798,12 @@
   "apotheosis:enchanting/seashelf": {
     "criteria": {
       "seashelf": "2021-02-13 02:04:25 -0500"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/oak_wired_fence": {
+    "criteria": {
+      "has_planks": "2021-03-27 12:10:48 -0400"
     },
     "done": true
   },
@@ -5558,12 +5846,6 @@
   "pneumaticcraft:recipes/pneumaticcraft/flippers_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2021-02-01 16:02:13 -0500"
-    },
-    "done": true
-  },
-  "aiotbotania:recipes/aiotbotania/manasteel_hoe": {
-    "criteria": {
-      "has_material": "2021-02-03 22:26:15 -0500"
     },
     "done": true
   },
@@ -5723,6 +6005,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/cosmetic_thick_eyebrows": {
+    "criteria": {
+      "has_item": "2021-03-28 20:08:46 -0400"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/connector_yellow_dye": {
     "criteria": {
       "chest": "2021-01-31 03:21:04 -0500"
@@ -5738,6 +6026,12 @@
   "mcwdoors:recipes/birch/birch_nether_door": {
     "criteria": {
       "has_planks": "2021-01-31 20:50:28 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/unholy_cloak": {
+    "criteria": {
+      "has_item": "2021-03-28 19:46:53 -0400"
     },
     "done": true
   },
@@ -5804,6 +6098,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2021-01-31 22:32:12 -0500"
+    },
+    "done": true
+  },
+  "botania:main/gaia_guardian_kill": {
+    "criteria": {
+      "guardian": "2021-03-28 19:46:52 -0400"
     },
     "done": true
   },
@@ -5921,6 +6221,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/cosmetic_groucho_glasses": {
+    "criteria": {
+      "has_item": "2021-03-28 20:08:46 -0400"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/plastic_brick_light_gray": {
     "criteria": {
       "has_plastic": "2021-02-23 23:26:45 -0500"
@@ -6035,6 +6341,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/conversions/dragonstone_block_deconstruct": {
+    "criteria": {
+      "has_item": "2021-03-27 15:17:47 -0400"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/capacitor_hv": {
     "criteria": {
       "has_aluminum_ingot": "2021-01-31 03:40:11 -0500"
@@ -6116,6 +6428,12 @@
   "pneumaticcraft:tp_plant": {
     "criteria": {
       "refinery": "2021-02-23 23:16:23 -0500"
+    },
+    "done": true
+  },
+  "mythicbotany:recipes/mythicbotany/alfsteel_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2021-03-28 19:05:10 -0400"
     },
     "done": true
   },
@@ -6401,6 +6719,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/cosmetic_polka_dotted_bows": {
+    "criteria": {
+      "has_item": "2021-03-28 20:08:46 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2021-02-03 19:28:12 -0500"
@@ -6446,6 +6770,12 @@
   "dimstorage:recipes/dimstorage_tab/dim_core": {
     "criteria": {
       "diamond": "2021-02-01 16:00:57 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/shimmerrock_stairs": {
+    "criteria": {
+      "has_item": "2021-03-28 18:46:41 -0400"
     },
     "done": true
   },
@@ -6911,6 +7241,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/compressed_iron_leggings": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2021-03-29 13:53:24 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-01-31 21:24:45 -0500"
@@ -6974,6 +7310,12 @@
   "appliedenergistics2:main/charger": {
     "criteria": {
       "certus": "2021-02-03 03:33:17 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/cobweb": {
+    "criteria": {
+      "has_item": "2021-03-28 20:08:46 -0400"
     },
     "done": true
   },
@@ -7121,6 +7463,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/manaweave_cloth": {
+    "criteria": {
+      "has_item": "2021-03-28 20:08:46 -0400"
+    },
+    "done": true
+  },
   "apotheosis:affix/chests": {
     "criteria": {
       "sword": "2021-02-06 21:59:45 -0500"
@@ -7160,6 +7508,12 @@
   "silentgear:recipes/silentgear/crimson_iron_nugget": {
     "criteria": {
       "has_item": "2021-02-01 22:50:11 -0500"
+    },
+    "done": true
+  },
+  "tmechworks:recipes/aluminum_ingot_from_blasting": {
+    "criteria": {
+      "has_aluminum_ore": "2021-03-23 22:01:45 -0400"
     },
     "done": true
   },
@@ -7253,6 +7607,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/huge_tank": {
+    "criteria": {
+      "has_advanced_pressure_tube": "2021-03-29 14:20:13 -0400"
+    },
+    "done": true
+  },
   "botania:recipes/botania/aura_ring": {
     "criteria": {
       "has_item": "2021-02-17 22:41:47 -0500"
@@ -7322,6 +7682,12 @@
   "botania:recipes/botania/vine_ball": {
     "criteria": {
       "has_item": "2021-02-02 17:59:36 -0500"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/oak_horse_fence": {
+    "criteria": {
+      "has_planks": "2021-03-27 12:10:48 -0400"
     },
     "done": true
   },
@@ -7505,6 +7871,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/cosmetic_cat_ears": {
+    "criteria": {
+      "has_item": "2021-03-28 20:08:46 -0400"
+    },
+    "done": true
+  },
   "botania:recipes/botania/cyan_shiny_flower": {
     "criteria": {
       "has_item": "2021-02-01 13:57:38 -0500"
@@ -7601,6 +7973,12 @@
     },
     "done": true
   },
+  "mythicbotany:recipes/mythicbotany/alfsteel_armor_upgrade": {
+    "criteria": {
+      "has_item": "2021-03-28 19:05:10 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_stairs": {
     "criteria": {
       "has_planks": "2021-02-01 22:37:07 -0500"
@@ -7634,6 +8012,12 @@
   "mcwtrpdoors:recipes/oak/oak_four_panel_trapdoor": {
     "criteria": {
       "has_planks": "2021-01-31 18:07:05 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/cosmetic_tiny_potato_mask": {
+    "criteria": {
+      "has_item": "2021-03-28 20:08:46 -0400"
     },
     "done": true
   },
@@ -8009,6 +8393,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/cosmetic_red_ribbons": {
+    "criteria": {
+      "has_item": "2021-03-28 20:08:46 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2021-02-01 23:36:18 -0500"
@@ -8273,6 +8663,12 @@
     },
     "done": true
   },
+  "mcwfences:recipes/oak_stockade_fence": {
+    "criteria": {
+      "has_planks": "2021-03-27 12:10:48 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-31 04:21:40 -0500"
@@ -8333,6 +8729,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/cosmetic_witch_pin": {
+    "criteria": {
+      "has_item": "2021-03-28 20:08:46 -0400"
+    },
+    "done": true
+  },
   "appliedenergistics2:recipes/appliedenergistics2/shaped/slabs/smooth_sky_stone_block": {
     "criteria": {
       "has_smooth_sky_stone_block": "2021-02-02 19:10:30 -0500"
@@ -8360,6 +8762,12 @@
   "botania:main/apothecary_pickup": {
     "criteria": {
       "lexicon": "2021-02-17 20:33:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woot/squeezer_1": {
+    "criteria": {
+      "cobblestone": "2021-03-24 19:26:38 -0400"
     },
     "done": true
   },
@@ -8402,6 +8810,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2021-02-08 17:37:03 -0500"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/oak_highley_gate": {
+    "criteria": {
+      "has_planks": "2021-03-27 12:10:48 -0400"
     },
     "done": true
   },
@@ -8657,6 +9071,12 @@
     },
     "done": true
   },
+  "botania:challenge/gaia_guardian_hardmode": {
+    "criteria": {
+      "guardian": "2021-03-28 19:51:41 -0400"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/brown_striped_awning": {
     "criteria": {
       "has_planks": "2021-01-31 03:47:39 -0500"
@@ -8792,6 +9212,12 @@
   "botania:recipes/botania/thunder_sword": {
     "criteria": {
       "has_terrasteel": "2021-02-19 15:03:23 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/cosmetic_blue_butterfly": {
+    "criteria": {
+      "has_item": "2021-03-28 20:08:46 -0400"
     },
     "done": true
   },
@@ -9065,6 +9491,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/spectral_platform": {
+    "criteria": {
+      "has_item": "2021-03-27 15:14:08 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2021-01-31 21:24:34 -0500"
@@ -9293,6 +9725,12 @@
     },
     "done": true
   },
+  "jumbofurnace:obtain_jumbo_furnace": {
+    "criteria": {
+      "obtain_jumbo_furnace": "2021-03-24 11:40:35 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2021-02-04 18:35:08 -0500"
@@ -9308,6 +9746,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_red_flower": "2021-01-31 03:58:00 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/super_travel_belt": {
+    "criteria": {
+      "has_item": "2021-03-28 19:46:53 -0400"
     },
     "done": true
   },
@@ -9444,6 +9888,12 @@
     },
     "done": true
   },
+  "tmechworks:recipes/copper_ingot_from_smelting": {
+    "criteria": {
+      "has_copper_ore": "2021-03-23 22:01:45 -0400"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/red_seat": {
     "criteria": {
       "has_wool": "2021-01-31 03:47:39 -0500"
@@ -9465,6 +9915,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2021-02-06 18:57:26 -0500"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/misc/core_angel": {
+    "criteria": {
+      "has_item": "2021-03-27 16:24:18 -0400"
     },
     "done": true
   },
@@ -9501,6 +9957,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/reinforced_brick_stairs": {
     "criteria": {
       "has_ingot_iron_compressed": "2021-02-06 12:13:29 -0500"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_cube": {
+    "criteria": {
+      "hasPlanks": "2021-03-27 12:10:48 -0400"
     },
     "done": true
   },
@@ -9570,6 +10032,12 @@
     },
     "done": true
   },
+  "rftoolsdim:recipes/rftoolsdim/legendary_lost_knowledge": {
+    "criteria": {
+      "knowlege": "2021-03-23 22:37:08 -0400"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/arrow_template": {
     "criteria": {
       "has_item": "2021-02-01 23:18:46 -0500"
@@ -9579,6 +10047,12 @@
   "botania:recipes/botania/mana_fluxfield": {
     "criteria": {
       "has_item": "2021-02-02 05:24:45 -0500"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/compressed_iron_boots": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2021-03-29 13:53:24 -0400"
     },
     "done": true
   },
@@ -9708,6 +10182,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/cosmetic_googly_eyes": {
+    "criteria": {
+      "has_item": "2021-03-28 20:08:46 -0400"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2021-01-31 03:20:59 -0500"
@@ -9795,6 +10275,12 @@
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2021-02-01 16:58:11 -0500"
+    },
+    "done": true
+  },
+  "resourcefulbees:resourcefulbees/bee_jar": {
+    "criteria": {
+      "bee_jar": "2021-03-27 00:01:25 -0400"
     },
     "done": true
   },
@@ -10243,6 +10729,12 @@
     },
     "done": true
   },
+  "constructionwand:recipes/misc/core_destruction": {
+    "criteria": {
+      "has_item": "2021-03-28 19:33:29 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2021-02-09 18:32:31 -0500"
@@ -10381,9 +10873,9 @@
     },
     "done": true
   },
-  "aiotbotania:recipes/aiotbotania/elementium_hoe": {
+  "botania:recipes/botania/gaia_spreader": {
     "criteria": {
-      "has_material": "2021-02-19 18:43:49 -0500"
+      "has_item": "2021-03-28 19:46:53 -0400"
     },
     "done": true
   },
@@ -10489,6 +10981,12 @@
     },
     "done": true
   },
+  "tmechworks:recipes/copper_ingot_from_blasting": {
+    "criteria": {
+      "has_copper_ore": "2021-03-23 22:01:45 -0400"
+    },
+    "done": true
+  },
   "apotheosis:affix/rare": {
     "criteria": {
       "sword": "2021-02-06 21:10:35 -0500"
@@ -10516,6 +11014,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_orange": {
     "criteria": {
       "has_ingot_iron_compressed": "2021-02-06 12:13:29 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/cosmetic_devil_tail": {
+    "criteria": {
+      "has_item": "2021-03-28 20:08:46 -0400"
     },
     "done": true
   },
@@ -10684,6 +11188,12 @@
   "minecraft:recipes/transportation/hopper_minecart": {
     "criteria": {
       "has_minecart": "2021-02-06 19:12:40 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/balance_cloak": {
+    "criteria": {
+      "has_item": "2021-03-28 19:46:53 -0400"
     },
     "done": true
   },
@@ -10951,6 +11461,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/super_lava_pendant": {
+    "criteria": {
+      "has_item": "2021-03-28 19:46:53 -0400"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/capacitor_mv": {
     "criteria": {
       "has_lead_ingot": "2021-01-31 17:38:15 -0500"
@@ -10960,6 +11476,12 @@
   "botania:recipes/botania/spark_upgrade_dispersive": {
     "criteria": {
       "has_alt_item": "2021-02-19 14:24:19 -0500"
+    },
+    "done": true
+  },
+  "resourcefulbees:resourcefulbees/centrifuge_controller": {
+    "criteria": {
+      "centrifuge_controller": "2021-03-26 23:43:09 -0400"
     },
     "done": true
   },
@@ -10996,6 +11518,12 @@
   "woot:recipes/woot/pink_dyecasing": {
     "criteria": {
       "cobblestone": "2021-01-31 03:11:10 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/elementium_hoe": {
+    "criteria": {
+      "has_item": "2021-03-27 15:13:02 -0400"
     },
     "done": true
   },
@@ -11173,6 +11701,12 @@
   "mcwwindows:recipes/stone/granite_window2_2tall": {
     "criteria": {
       "has_planks": "2021-03-03 15:19:41 -0500"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/railing_red_sandstone_wall": {
+    "criteria": {
+      "has_planks": "2021-03-29 12:55:22 -0400"
     },
     "done": true
   },
@@ -11650,6 +12184,12 @@
     },
     "done": true
   },
+  "tmechworks:recipes/aluminum_ingot_from_smelting": {
+    "criteria": {
+      "has_aluminum_ore": "2021-03-23 22:01:45 -0400"
+    },
+    "done": true
+  },
   "create:recipes/create.base/smelting/zinc_ingot_from_ore": {
     "criteria": {
       "has_item": "2021-01-31 17:20:27 -0500"
@@ -11731,6 +12271,12 @@
   "biomesoplenty:recipes/transportation/palm_boat": {
     "criteria": {
       "in_water": "2021-01-31 03:08:36 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/missile_rod": {
+    "criteria": {
+      "has_item": "2021-03-28 19:46:53 -0400"
     },
     "done": true
   },
@@ -11875,6 +12421,12 @@
   "ironchest:recipes/ironchest/upgrades/diamond_to_obsidian_chest_upgrade": {
     "criteria": {
       "has_glass": "2021-01-31 21:24:34 -0500"
+    },
+    "done": true
+  },
+  "resourcefulbees:resourcefulbees/elite_centrifuge_controller": {
+    "criteria": {
+      "elite_centrifuge_controller": "2021-03-26 23:23:43 -0400"
     },
     "done": true
   },
@@ -12046,9 +12598,21 @@
     },
     "done": true
   },
+  "botania:challenge/loki_ring": {
+    "criteria": {
+      "ring": "2021-03-28 19:53:35 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2021-02-05 21:26:13 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/cosmetic_four_leaf_clover": {
+    "criteria": {
+      "has_item": "2021-03-28 20:08:46 -0400"
     },
     "done": true
   },
@@ -12115,6 +12679,12 @@
   "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
     "criteria": {
       "has_netherite_block": "2021-02-17 15:58:04 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/cosmetic_hyper_plus": {
+    "criteria": {
+      "has_item": "2021-03-28 20:08:46 -0400"
     },
     "done": true
   },
@@ -12188,6 +12758,12 @@
   "pneumaticcraft:recipes/thermo_plant/ethanol_from_poisonous_potato": {
     "criteria": {
       "thermopneumatic_processing_plant": "2021-02-23 23:16:23 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/cosmetic_orange_shades": {
+    "criteria": {
+      "has_item": "2021-03-28 20:08:46 -0400"
     },
     "done": true
   },
@@ -13055,6 +13631,18 @@
     },
     "done": true
   },
+  "industrialforegoing:recipes/industrialforegoing_core/plastic": {
+    "criteria": {
+      "has_plastic": "2021-03-29 12:28:01 -0400"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/cosmetic_alien_antenna": {
+    "criteria": {
+      "has_item": "2021-03-28 20:08:46 -0400"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/paved_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-02-01 22:31:34 -0500"
@@ -13070,6 +13658,18 @@
   "pneumaticcraft:recipes/misc/paper_from_tag_filter": {
     "criteria": {
       "has_paper": "2021-02-01 17:37:58 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/elf_glass_pane": {
+    "criteria": {
+      "has_item": "2021-03-28 18:45:39 -0400"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/cosmetic_eyepatch": {
+    "criteria": {
+      "has_item": "2021-03-28 20:08:46 -0400"
     },
     "done": true
   },
@@ -13121,6 +13721,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/astrolabe": {
+    "criteria": {
+      "has_item": "2021-03-28 19:46:53 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2021-01-31 03:08:36 -0500"
@@ -13157,6 +13763,12 @@
     },
     "done": true
   },
+  "jumbofurnace:assemble_jumbo_furnace": {
+    "criteria": {
+      "assemble_jumbo_furnace": "2021-03-24 11:39:52 -0400"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2021-01-31 03:47:39 -0500"
@@ -13178,6 +13790,18 @@
   "pneumaticcraft:recipes/pneumaticcraft/camo_applicator": {
     "criteria": {
       "has_ingot_iron_compressed": "2021-02-06 12:13:29 -0500"
+    },
+    "done": true
+  },
+  "shrink:recipes/shrink/shrinking_device": {
+    "criteria": {
+      "has_enderpearls": "2021-03-23 22:37:21 -0400"
+    },
+    "done": true
+  },
+  "botania:main/tiara_wings": {
+    "criteria": {
+      "tiara": "2021-03-28 20:06:15 -0400"
     },
     "done": true
   },
@@ -13487,6 +14111,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/flighttiara_0": {
+    "criteria": {
+      "has_item": "2021-03-28 19:46:53 -0400"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/weathered_limestone_pillar": {
     "criteria": {
       "has_ingredient": "2021-02-01 16:03:07 -0500"
@@ -13505,15 +14135,39 @@
     },
     "done": true
   },
+  "botania:recipes/botania/flighttiara_4": {
+    "criteria": {
+      "has_item": "2021-03-28 20:06:15 -0400"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/flighttiara_3": {
+    "criteria": {
+      "has_item": "2021-03-28 20:06:15 -0400"
+    },
+    "done": true
+  },
   "apotheosis:enchanting/quanta0": {
     "criteria": {
       "enchanted_item": "2021-02-02 17:37:02 -0500"
     },
     "done": true
   },
+  "botania:recipes/botania/flighttiara_2": {
+    "criteria": {
+      "has_item": "2021-03-28 20:06:15 -0400"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/redstone_information": {
     "criteria": {
       "redstone": "2021-02-01 17:53:24 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/flighttiara_1": {
+    "criteria": {
+      "has_item": "2021-03-28 20:06:15 -0400"
     },
     "done": true
   },
@@ -13532,6 +14186,30 @@
     },
     "done": true
   },
+  "botania:recipes/botania/flighttiara_8": {
+    "criteria": {
+      "has_item": "2021-03-28 20:06:15 -0400"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/flighttiara_7": {
+    "criteria": {
+      "has_item": "2021-03-28 20:06:15 -0400"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/flighttiara_6": {
+    "criteria": {
+      "has_item": "2021-03-28 20:06:15 -0400"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/flighttiara_5": {
+    "criteria": {
+      "has_item": "2021-03-28 20:06:15 -0400"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/rope_spruce_bridge_end": {
     "criteria": {
       "has_planks": "2021-02-01 17:47:07 -0500"
@@ -13547,6 +14225,12 @@
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2021-02-03 23:23:55 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/manasteel_hoe": {
+    "criteria": {
+      "has_item": "2021-03-27 15:00:31 -0400"
     },
     "done": true
   },
@@ -13571,6 +14255,18 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2021-02-02 17:42:54 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/diva_charm": {
+    "criteria": {
+      "has_item": "2021-03-28 19:46:53 -0400"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/fabulous_pool": {
+    "criteria": {
+      "has_alt_item": "2021-03-28 18:45:25 -0400"
     },
     "done": true
   },
@@ -13934,6 +14630,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/cosmetic_lusitanic_shield": {
+    "criteria": {
+      "has_item": "2021-03-28 20:08:46 -0400"
+    },
+    "done": true
+  },
   "botania:recipes/botania/terra_pick": {
     "criteria": {
       "has_item": "2021-02-19 15:03:23 -0500"
@@ -14174,6 +14876,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/cosmetic_pink_flower_bud": {
+    "criteria": {
+      "has_item": "2021-03-28 20:08:46 -0400"
+    },
+    "done": true
+  },
   "repurposed_structures:mansions": {
     "criteria": {
       "always": "2021-03-02 15:02:17 -0500"
@@ -14279,6 +14987,12 @@
   "silentgear:recipes/silentgear/grip_blueprint": {
     "criteria": {
       "has_item": "2021-02-01 23:17:01 -0500"
+    },
+    "done": true
+  },
+  "astralsorcery:rock_crystals": {
+    "criteria": {
+      "rock_crystal_in_inventory": "2021-03-24 10:50:23 -0400"
     },
     "done": true
   },
@@ -14444,6 +15158,12 @@
   "botania:recipes/botania/alchemy_catalyst": {
     "criteria": {
       "has_alt_item": "2021-02-11 16:51:48 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/shimmerrock_slab": {
+    "criteria": {
+      "has_item": "2021-03-28 18:46:41 -0400"
     },
     "done": true
   },
@@ -14705,6 +15425,12 @@
     },
     "done": true
   },
+  "industrialforegoing:recipes/industrialforegoing_core/dryrubber": {
+    "criteria": {
+      "has_item": "2021-03-29 12:26:20 -0400"
+    },
+    "done": true
+  },
   "botania:recipes/botania/petal_pink": {
     "criteria": {
       "has_item": "2021-02-01 15:42:33 -0500"
@@ -14828,6 +15554,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2021-01-31 03:11:10 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/cosmetic_devil_horns": {
+    "criteria": {
+      "has_item": "2021-03-28 20:08:46 -0400"
     },
     "done": true
   },
@@ -15017,6 +15749,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/shimmerrock": {
+    "criteria": {
+      "has_alt_item": "2021-03-28 18:45:25 -0400"
+    },
+    "done": true
+  },
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2021-02-16 20:07:50 -0500"
@@ -15090,6 +15828,7 @@
       "honey_bottle": "2021-02-01 13:38:41 -0500",
       "sweet_berries": "2021-02-04 20:22:35 -0500",
       "cooked_beef": "2021-01-31 18:28:04 -0500",
+      "chorus_fruit": "2021-03-28 18:03:14 -0400",
       "beef": "2021-01-31 18:26:35 -0500",
       "baked_potato": "2021-03-12 18:12:23 -0500",
       "porkchop": "2021-03-12 18:21:49 -0500",
@@ -15217,6 +15956,12 @@
   "botania:recipes/botania/flower_bag": {
     "criteria": {
       "has_item": "2021-01-31 03:47:47 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/holy_cloak": {
+    "criteria": {
+      "has_item": "2021-03-28 19:46:53 -0400"
     },
     "done": true
   },
@@ -15442,6 +16187,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woot/ench_squeezer_1": {
+    "criteria": {
+      "cobblestone": "2021-03-24 19:26:38 -0400"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/dolomite_pillar_from_dolomite_stonecutting": {
     "criteria": {
       "has_dolomite": "2021-02-01 15:06:30 -0500"
@@ -15541,6 +16292,12 @@
   "create:recipes/create.palettes/fancy_gabbro_bricks_from_gabbro_stonecutting": {
     "criteria": {
       "has_gabbro": "2021-02-01 15:00:51 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/cosmetic_questgiver_mark": {
+    "criteria": {
+      "has_item": "2021-03-28 20:08:46 -0400"
     },
     "done": true
   },
@@ -15778,6 +16535,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/light_relay": {
+    "criteria": {
+      "has_item": "2021-03-27 15:17:47 -0400"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/warped/warped_glass_trapdoor": {
     "criteria": {
       "has_planks": "2021-02-01 22:36:24 -0500"
@@ -15805,6 +16568,12 @@
   "mcwwindows:recipes/windows/dark_oak_window": {
     "criteria": {
       "has_planks": "2021-03-05 22:54:07 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/cosmetic_eerie_mask": {
+    "criteria": {
+      "has_item": "2021-03-28 20:08:46 -0400"
     },
     "done": true
   },
@@ -15853,6 +16622,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-01-31 03:31:06 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mana_bomb": {
+    "criteria": {
+      "has_item": "2021-03-28 19:46:53 -0400"
     },
     "done": true
   },
@@ -16222,6 +16997,12 @@
     },
     "done": true
   },
+  "rftoolsdim:recipes/rftoolsdim/rare_lost_knowledge": {
+    "criteria": {
+      "knowlege": "2021-03-23 22:37:08 -0400"
+    },
+    "done": true
+  },
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2021-01-31 03:00:24 -0500"
@@ -16462,6 +17243,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/cosmetic_unicorn_horn": {
+    "criteria": {
+      "has_item": "2021-03-28 20:08:46 -0400"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/cloche": {
     "criteria": {
       "has_electron_tube": "2021-02-16 22:04:13 -0500"
@@ -16597,6 +17384,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2021-02-01 22:45:17 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woot/infuser_1": {
+    "criteria": {
+      "cobblestone": "2021-03-24 19:26:38 -0400"
     },
     "done": true
   },
@@ -16849,6 +17642,12 @@
   "create:recipes/create.base/crafting/kinetics/fluid_pipe": {
     "criteria": {
       "has_item": "2021-01-31 03:38:01 -0500"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/super_cloud_pendant": {
+    "criteria": {
+      "has_alt_item": "2021-03-28 19:46:53 -0400"
     },
     "done": true
   },

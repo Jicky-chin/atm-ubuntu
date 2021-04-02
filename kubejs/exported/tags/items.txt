@@ -1,4 +1,4 @@
-To refresh this file, delete it and run /reload command again! Last updated: Mar 22, 2021 4:54:59 PM
+To refresh this file, delete it and run /reload command again! Last updated: Mar 23, 2021 9:17:55 PM
 
 #darkutils:trap
 - darkutils:rune_slowness
@@ -607,6 +607,124 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 #forge:cocoapowder
 - #forge:cocoapowder/cocoapowder
 
+#cfm:storage
+- cfm:oak_cabinet
+- cfm:spruce_cabinet
+- cfm:birch_cabinet
+- cfm:jungle_cabinet
+- cfm:acacia_cabinet
+- cfm:dark_oak_cabinet
+- cfm:stone_cabinet
+- cfm:granite_cabinet
+- cfm:diorite_cabinet
+- cfm:andesite_cabinet
+- cfm:stripped_oak_cabinet
+- cfm:stripped_spruce_cabinet
+- cfm:stripped_birch_cabinet
+- cfm:stripped_jungle_cabinet
+- cfm:stripped_acacia_cabinet
+- cfm:stripped_dark_oak_cabinet
+- cfm:oak_bedside_cabinet
+- cfm:spruce_bedside_cabinet
+- cfm:birch_bedside_cabinet
+- cfm:jungle_bedside_cabinet
+- cfm:acacia_bedside_cabinet
+- cfm:dark_oak_bedside_cabinet
+- cfm:stone_bedside_cabinet
+- cfm:granite_bedside_cabinet
+- cfm:diorite_bedside_cabinet
+- cfm:andesite_bedside_cabinet
+- cfm:stripped_oak_bedside_cabinet
+- cfm:stripped_spruce_bedside_cabinet
+- cfm:stripped_birch_bedside_cabinet
+- cfm:stripped_jungle_bedside_cabinet
+- cfm:stripped_acacia_bedside_cabinet
+- cfm:stripped_dark_oak_bedside_cabinet
+- cfm:oak_desk_cabinet
+- cfm:spruce_desk_cabinet
+- cfm:birch_desk_cabinet
+- cfm:jungle_desk_cabinet
+- cfm:acacia_desk_cabinet
+- cfm:dark_oak_desk_cabinet
+- cfm:stone_desk_cabinet
+- cfm:granite_desk_cabinet
+- cfm:diorite_desk_cabinet
+- cfm:andesite_desk_cabinet
+- cfm:stripped_oak_desk_cabinet
+- cfm:stripped_spruce_desk_cabinet
+- cfm:stripped_birch_desk_cabinet
+- cfm:stripped_jungle_desk_cabinet
+- cfm:stripped_acacia_desk_cabinet
+- cfm:stripped_dark_oak_desk_cabinet
+- cfm:oak_crate
+- cfm:spruce_crate
+- cfm:birch_crate
+- cfm:jungle_crate
+- cfm:acacia_crate
+- cfm:dark_oak_crate
+- cfm:stripped_oak_crate
+- cfm:stripped_spruce_crate
+- cfm:stripped_birch_crate
+- cfm:stripped_jungle_crate
+- cfm:stripped_acacia_crate
+- cfm:stripped_dark_oak_crate
+- cfm:oak_mail_box
+- cfm:spruce_mail_box
+- cfm:birch_mail_box
+- cfm:jungle_mail_box
+- cfm:acacia_mail_box
+- cfm:dark_oak_mail_box
+- cfm:stripped_oak_mail_box
+- cfm:stripped_spruce_mail_box
+- cfm:stripped_birch_mail_box
+- cfm:stripped_jungle_mail_box
+- cfm:stripped_acacia_mail_box
+- cfm:stripped_dark_oak_mail_box
+- cfm:white_cooler
+- cfm:orange_cooler
+- cfm:magenta_cooler
+- cfm:light_blue_cooler
+- cfm:yellow_cooler
+- cfm:lime_cooler
+- cfm:pink_cooler
+- cfm:gray_cooler
+- cfm:light_gray_cooler
+- cfm:cyan_cooler
+- cfm:purple_cooler
+- cfm:blue_cooler
+- cfm:brown_cooler
+- cfm:green_cooler
+- cfm:red_cooler
+- cfm:black_cooler
+- cfm:oak_kitchen_drawer
+- cfm:spruce_kitchen_drawer
+- cfm:birch_kitchen_drawer
+- cfm:jungle_kitchen_drawer
+- cfm:acacia_kitchen_drawer
+- cfm:dark_oak_kitchen_drawer
+- cfm:stripped_oak_kitchen_drawer
+- cfm:stripped_spruce_kitchen_drawer
+- cfm:stripped_birch_kitchen_drawer
+- cfm:stripped_jungle_kitchen_drawer
+- cfm:stripped_acacia_kitchen_drawer
+- cfm:stripped_dark_oak_kitchen_drawer
+- cfm:white_kitchen_drawer
+- cfm:orange_kitchen_drawer
+- cfm:magenta_kitchen_drawer
+- cfm:light_blue_kitchen_drawer
+- cfm:yellow_kitchen_drawer
+- cfm:lime_kitchen_drawer
+- cfm:pink_kitchen_drawer
+- cfm:gray_kitchen_drawer
+- cfm:light_gray_kitchen_drawer
+- cfm:cyan_kitchen_drawer
+- cfm:purple_kitchen_drawer
+- cfm:blue_kitchen_drawer
+- cfm:brown_kitchen_drawer
+- cfm:green_kitchen_drawer
+- cfm:red_kitchen_drawer
+- cfm:black_kitchen_drawer
+
 #forge:plates/silver
 - immersiveengineering:plate_silver
 - thermal:silver_plate
@@ -804,6 +922,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 #computercraft:turtle
 - computercraft:turtle_normal
 - computercraft:turtle_advanced
+
+#cfm:fences
+- #cfm:fences/picket
+- #cfm:fences/upgraded
 
 #forge:nuggets/brass
 - create:brass_nugget
@@ -1230,6 +1352,24 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - minecraft:stripped_crimson_stem
 - minecraft:crimson_hyphae
 - minecraft:stripped_crimson_hyphae
+
+#cfm:trampoline
+- cfm:white_trampoline
+- cfm:orange_trampoline
+- cfm:magenta_trampoline
+- cfm:light_blue_trampoline
+- cfm:yellow_trampoline
+- cfm:lime_trampoline
+- cfm:pink_trampoline
+- cfm:gray_trampoline
+- cfm:light_gray_trampoline
+- cfm:cyan_trampoline
+- cfm:purple_trampoline
+- cfm:blue_trampoline
+- cfm:brown_trampoline
+- cfm:green_trampoline
+- cfm:red_trampoline
+- cfm:black_trampoline
 
 #forge:tool_mixingbowl/mixingbowl
 - pamhc2foodcore:mixingbowlitem
@@ -2693,6 +2833,105 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - structurize:horizontal_plain_warped_brick_timber_frame
 - structurize:side_framed_horizontal_warped_brick_timber_frame
 
+#cfm:kitchen
+- cfm:oak_kitchen_counter
+- cfm:spruce_kitchen_counter
+- cfm:birch_kitchen_counter
+- cfm:jungle_kitchen_counter
+- cfm:acacia_kitchen_counter
+- cfm:dark_oak_kitchen_counter
+- cfm:stripped_oak_kitchen_counter
+- cfm:stripped_spruce_kitchen_counter
+- cfm:stripped_birch_kitchen_counter
+- cfm:stripped_jungle_kitchen_counter
+- cfm:stripped_acacia_kitchen_counter
+- cfm:stripped_dark_oak_kitchen_counter
+- cfm:white_kitchen_counter
+- cfm:orange_kitchen_counter
+- cfm:magenta_kitchen_counter
+- cfm:light_blue_kitchen_counter
+- cfm:yellow_kitchen_counter
+- cfm:lime_kitchen_counter
+- cfm:pink_kitchen_counter
+- cfm:gray_kitchen_counter
+- cfm:light_gray_kitchen_counter
+- cfm:cyan_kitchen_counter
+- cfm:purple_kitchen_counter
+- cfm:blue_kitchen_counter
+- cfm:brown_kitchen_counter
+- cfm:green_kitchen_counter
+- cfm:red_kitchen_counter
+- cfm:black_kitchen_counter
+- cfm:oak_kitchen_drawer
+- cfm:spruce_kitchen_drawer
+- cfm:birch_kitchen_drawer
+- cfm:jungle_kitchen_drawer
+- cfm:acacia_kitchen_drawer
+- cfm:dark_oak_kitchen_drawer
+- cfm:stripped_oak_kitchen_drawer
+- cfm:stripped_spruce_kitchen_drawer
+- cfm:stripped_birch_kitchen_drawer
+- cfm:stripped_jungle_kitchen_drawer
+- cfm:stripped_acacia_kitchen_drawer
+- cfm:stripped_dark_oak_kitchen_drawer
+- cfm:white_kitchen_drawer
+- cfm:orange_kitchen_drawer
+- cfm:magenta_kitchen_drawer
+- cfm:light_blue_kitchen_drawer
+- cfm:yellow_kitchen_drawer
+- cfm:lime_kitchen_drawer
+- cfm:pink_kitchen_drawer
+- cfm:gray_kitchen_drawer
+- cfm:light_gray_kitchen_drawer
+- cfm:cyan_kitchen_drawer
+- cfm:purple_kitchen_drawer
+- cfm:blue_kitchen_drawer
+- cfm:brown_kitchen_drawer
+- cfm:green_kitchen_drawer
+- cfm:red_kitchen_drawer
+- cfm:black_kitchen_drawer
+- cfm:spatula
+- cfm:oak_kitchen_sink_light
+- cfm:spruce_kitchen_sink_light
+- cfm:birch_kitchen_sink_light
+- cfm:jungle_kitchen_sink_light
+- cfm:acacia_kitchen_sink_light
+- cfm:dark_oak_kitchen_sink_light
+- cfm:stripped_oak_kitchen_sink_light
+- cfm:stripped_spruce_kitchen_sink_light
+- cfm:stripped_birch_kitchen_sink_light
+- cfm:stripped_jungle_kitchen_sink_light
+- cfm:stripped_acacia_kitchen_sink_light
+- cfm:stripped_dark_oak_kitchen_sink_light
+- cfm:oak_kitchen_sink_dark
+- cfm:spruce_kitchen_sink_dark
+- cfm:birch_kitchen_sink_dark
+- cfm:jungle_kitchen_sink_dark
+- cfm:acacia_kitchen_sink_dark
+- cfm:dark_oak_kitchen_sink_dark
+- cfm:stripped_oak_kitchen_sink_dark
+- cfm:stripped_spruce_kitchen_sink_dark
+- cfm:stripped_birch_kitchen_sink_dark
+- cfm:stripped_jungle_kitchen_sink_dark
+- cfm:stripped_acacia_kitchen_sink_dark
+- cfm:stripped_dark_oak_kitchen_sink_dark
+- cfm:white_kitchen_sink
+- cfm:orange_kitchen_sink
+- cfm:magenta_kitchen_sink
+- cfm:light_blue_kitchen_sink
+- cfm:yellow_kitchen_sink
+- cfm:lime_kitchen_sink
+- cfm:pink_kitchen_sink
+- cfm:gray_kitchen_sink
+- cfm:light_gray_kitchen_sink
+- cfm:cyan_kitchen_sink
+- cfm:purple_kitchen_sink
+- cfm:blue_kitchen_sink
+- cfm:brown_kitchen_sink
+- cfm:green_kitchen_sink
+- cfm:red_kitchen_sink
+- cfm:black_kitchen_sink
+
 #forge:blackpepper
 - #forge:blackpepper/blackpepper
 
@@ -3140,6 +3379,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - structurize:horizontal_plain_acacia_blue_terracotta_timber_frame
 - structurize:side_framed_horizontal_acacia_blue_terracotta_timber_frame
 
+#cfm:items
+- cfm:spatula
+
 #forge:crops/garlic
 - pamhc2crops:garlicitem
 
@@ -3308,6 +3550,11 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - structurize:one_crossed_rl_cactus_black_terracotta_timber_frame
 - structurize:horizontal_plain_cactus_black_terracotta_timber_frame
 - structurize:side_framed_horizontal_cactus_black_terracotta_timber_frame
+
+#silentgear:starlight_charger_catalysts
+- #silentgear:starlight_charger_catalysts/tier1
+- #silentgear:starlight_charger_catalysts/tier2
+- #silentgear:starlight_charger_catalysts/tier3
 
 #modularrouters:filters
 - modularrouters:bulk_item_filter
@@ -4205,6 +4452,147 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 #forge:rawmeats/rawtropicalfish
 - minecraft:tropical_fish
 
+#cfm:outdoors
+- cfm:oak_upgraded_fence
+- cfm:spruce_upgraded_fence
+- cfm:birch_upgraded_fence
+- cfm:jungle_upgraded_fence
+- cfm:acacia_upgraded_fence
+- cfm:dark_oak_upgraded_fence
+- cfm:stripped_oak_upgraded_fence
+- cfm:stripped_spruce_upgraded_fence
+- cfm:stripped_birch_upgraded_fence
+- cfm:stripped_jungle_upgraded_fence
+- cfm:stripped_acacia_upgraded_fence
+- cfm:stripped_dark_oak_upgraded_fence
+- cfm:oak_upgraded_gate
+- cfm:spruce_upgraded_gate
+- cfm:birch_upgraded_gate
+- cfm:jungle_upgraded_gate
+- cfm:acacia_upgraded_gate
+- cfm:dark_oak_upgraded_gate
+- cfm:stripped_oak_upgraded_gate
+- cfm:stripped_spruce_upgraded_gate
+- cfm:stripped_birch_upgraded_gate
+- cfm:stripped_jungle_upgraded_gate
+- cfm:stripped_acacia_upgraded_gate
+- cfm:stripped_dark_oak_upgraded_gate
+- cfm:white_picket_fence
+- cfm:orange_picket_fence
+- cfm:magenta_picket_fence
+- cfm:light_blue_picket_fence
+- cfm:yellow_picket_fence
+- cfm:lime_picket_fence
+- cfm:pink_picket_fence
+- cfm:gray_picket_fence
+- cfm:light_gray_picket_fence
+- cfm:cyan_picket_fence
+- cfm:purple_picket_fence
+- cfm:blue_picket_fence
+- cfm:brown_picket_fence
+- cfm:green_picket_fence
+- cfm:red_picket_fence
+- cfm:black_picket_fence
+- cfm:white_picket_gate
+- cfm:orange_picket_gate
+- cfm:magenta_picket_gate
+- cfm:light_blue_picket_gate
+- cfm:yellow_picket_gate
+- cfm:lime_picket_gate
+- cfm:pink_picket_gate
+- cfm:gray_picket_gate
+- cfm:light_gray_picket_gate
+- cfm:cyan_picket_gate
+- cfm:purple_picket_gate
+- cfm:blue_picket_gate
+- cfm:brown_picket_gate
+- cfm:green_picket_gate
+- cfm:red_picket_gate
+- cfm:black_picket_gate
+- cfm:oak_park_bench
+- cfm:spruce_park_bench
+- cfm:birch_park_bench
+- cfm:jungle_park_bench
+- cfm:acacia_park_bench
+- cfm:dark_oak_park_bench
+- cfm:stripped_oak_park_bench
+- cfm:stripped_spruce_park_bench
+- cfm:stripped_birch_park_bench
+- cfm:stripped_jungle_park_bench
+- cfm:stripped_acacia_park_bench
+- cfm:stripped_dark_oak_park_bench
+- cfm:post_box
+- cfm:oak_mail_box
+- cfm:spruce_mail_box
+- cfm:birch_mail_box
+- cfm:jungle_mail_box
+- cfm:acacia_mail_box
+- cfm:dark_oak_mail_box
+- cfm:stripped_oak_mail_box
+- cfm:stripped_spruce_mail_box
+- cfm:stripped_birch_mail_box
+- cfm:stripped_jungle_mail_box
+- cfm:stripped_acacia_mail_box
+- cfm:stripped_dark_oak_mail_box
+- cfm:oak_hedge
+- cfm:spruce_hedge
+- cfm:birch_hedge
+- cfm:jungle_hedge
+- cfm:acacia_hedge
+- cfm:dark_oak_hedge
+- cfm:rock_path
+- cfm:white_trampoline
+- cfm:orange_trampoline
+- cfm:magenta_trampoline
+- cfm:light_blue_trampoline
+- cfm:yellow_trampoline
+- cfm:lime_trampoline
+- cfm:pink_trampoline
+- cfm:gray_trampoline
+- cfm:light_gray_trampoline
+- cfm:cyan_trampoline
+- cfm:purple_trampoline
+- cfm:blue_trampoline
+- cfm:brown_trampoline
+- cfm:green_trampoline
+- cfm:red_trampoline
+- cfm:black_trampoline
+- cfm:white_cooler
+- cfm:orange_cooler
+- cfm:magenta_cooler
+- cfm:light_blue_cooler
+- cfm:yellow_cooler
+- cfm:lime_cooler
+- cfm:pink_cooler
+- cfm:gray_cooler
+- cfm:light_gray_cooler
+- cfm:cyan_cooler
+- cfm:purple_cooler
+- cfm:blue_cooler
+- cfm:brown_cooler
+- cfm:green_cooler
+- cfm:red_cooler
+- cfm:black_cooler
+- cfm:white_grill
+- cfm:orange_grill
+- cfm:magenta_grill
+- cfm:light_blue_grill
+- cfm:yellow_grill
+- cfm:lime_grill
+- cfm:pink_grill
+- cfm:gray_grill
+- cfm:light_gray_grill
+- cfm:cyan_grill
+- cfm:purple_grill
+- cfm:blue_grill
+- cfm:brown_grill
+- cfm:green_grill
+- cfm:red_grill
+- cfm:black_grill
+- cfm:door_mat
+- cfm:diving_board
+- cfm:spatula
+
 #structurize:timber_frames/cream_brick/oak
 - structurize:plain_oak_cream_brick_timber_frame
 - structurize:double_crossed_oak_cream_brick_timber_frame
@@ -4646,6 +5034,68 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 
 #silents_mechanisms:chunks/crimson_iron
 - silentgear:crimson_iron_chunks
+
+#cfm:bedroom
+- cfm:oak_bedside_cabinet
+- cfm:spruce_bedside_cabinet
+- cfm:birch_bedside_cabinet
+- cfm:jungle_bedside_cabinet
+- cfm:acacia_bedside_cabinet
+- cfm:dark_oak_bedside_cabinet
+- cfm:stone_bedside_cabinet
+- cfm:granite_bedside_cabinet
+- cfm:diorite_bedside_cabinet
+- cfm:andesite_bedside_cabinet
+- cfm:stripped_oak_bedside_cabinet
+- cfm:stripped_spruce_bedside_cabinet
+- cfm:stripped_birch_bedside_cabinet
+- cfm:stripped_jungle_bedside_cabinet
+- cfm:stripped_acacia_bedside_cabinet
+- cfm:stripped_dark_oak_bedside_cabinet
+- cfm:oak_desk
+- cfm:spruce_desk
+- cfm:birch_desk
+- cfm:jungle_desk
+- cfm:acacia_desk
+- cfm:dark_oak_desk
+- cfm:stone_desk
+- cfm:granite_desk
+- cfm:diorite_desk
+- cfm:andesite_desk
+- cfm:stripped_oak_desk
+- cfm:stripped_spruce_desk
+- cfm:stripped_birch_desk
+- cfm:stripped_jungle_desk
+- cfm:stripped_acacia_desk
+- cfm:stripped_dark_oak_desk
+- cfm:oak_desk_cabinet
+- cfm:spruce_desk_cabinet
+- cfm:birch_desk_cabinet
+- cfm:jungle_desk_cabinet
+- cfm:acacia_desk_cabinet
+- cfm:dark_oak_desk_cabinet
+- cfm:stone_desk_cabinet
+- cfm:granite_desk_cabinet
+- cfm:diorite_desk_cabinet
+- cfm:andesite_desk_cabinet
+- cfm:stripped_oak_desk_cabinet
+- cfm:stripped_spruce_desk_cabinet
+- cfm:stripped_birch_desk_cabinet
+- cfm:stripped_jungle_desk_cabinet
+- cfm:stripped_acacia_desk_cabinet
+- cfm:stripped_dark_oak_desk_cabinet
+- cfm:oak_blinds
+- cfm:spruce_blinds
+- cfm:birch_blinds
+- cfm:jungle_blinds
+- cfm:acacia_blinds
+- cfm:dark_oak_blinds
+- cfm:stripped_oak_blinds
+- cfm:stripped_spruce_blinds
+- cfm:stripped_birch_blinds
+- cfm:stripped_jungle_blinds
+- cfm:stripped_acacia_blinds
+- cfm:stripped_dark_oak_blinds
 
 #pneumaticcraft:plastic_sheets
 - pneumaticcraft:plastic
@@ -5287,6 +5737,8 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 
 #minecolonies:stonemason_product_excluded
 - #minecolonies:mechanic_product
+- #minecraft:wooden_slabs
+- #minecraft:wooden_stairs
 
 #refinedstorage:storage_blocks/items/16384k
 - extrastorage:block_16384k
@@ -5464,6 +5916,8 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 
 #thermal:crafting/casts
 - thermal:chiller_ball_cast
+- thermal:chiller_ingot_cast
+- thermal:chiller_rod_cast
 
 #envirocore:kyronite_stairs
 - envirocore:kyronite_stairs
@@ -5487,6 +5941,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - minecraft:honeycomb
 - resourcefulbees:catnip_honeycomb
 - resourcefulbees:rocky_honeycomb
+- resourcefulbees:soul_lava_honeycomb
 - resourcefulbees:obsidian_honeycomb
 - resourcefulbees:dragonic_honeycomb
 - resourcefulbees:blazing_honeycomb
@@ -5519,13 +5974,16 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - resourcefulbees:coal_honeycomb
 - resourcefulbees:icey_honeycomb
 - resourcefulbees:leafcutter_honeycomb
+- resourcefulbees:cropy_honeycomb
 - resourcefulbees:lava_honeycomb
 - resourcefulbees:cobbee_honeycomb
 - resourcefulbees:mana_honeycomb
 - resourcefulbees:glowing_honeycomb
 - resourcefulbees:water_honeycomb
+- resourcefulbees:gravely_honeycomb
 - resourcefulbees:rgbee_honeycomb
 - resourcefulbees:sandy_honeycomb
+- resourcefulbees:mystical_honeycomb
 - resourcefulbees:mason_honeycomb
 - resourcefulbees:lumber_honeycomb
 - resourcefulbees:skeleton_honeycomb
@@ -6238,6 +6696,22 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 #forge:seeds/coffee
 - thermal:coffee_seeds
 
+#cfm:fences/picket
+- cfm:white_picket_fence
+- cfm:orange_picket_fence
+- cfm:magenta_picket_fence
+- cfm:light_blue_picket_fence
+- cfm:yellow_picket_fence
+- cfm:lime_picket_fence
+- cfm:pink_picket_fence
+- cfm:gray_picket_fence
+- cfm:light_gray_picket_fence
+- cfm:cyan_picket_fence
+- cfm:purple_picket_fence
+- cfm:blue_picket_fence
+- cfm:brown_picket_fence
+- cfm:green_picket_fence
+
 #forge:crops/amaranth
 - pamhc2crops:amaranthitem
 
@@ -6413,6 +6887,12 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - #forge:butter/butter
 - #forge:butter/silkentofu
 
+#forge:tools/diamond
+- minecraft:diamond_axe
+- minecraft:diamond_pickaxe
+- minecraft:diamond_shovel
+- minecraft:diamond_sword
+
 #forge:gears/bronze
 - thermal:bronze_gear
 
@@ -6465,6 +6945,44 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - pamhc2foodextended:bananajellyitem
 
 #quark:vertical_slab
+- buildersaddition:stone_vertical_slab
+- buildersaddition:acacia_vertical_slab
+- buildersaddition:birch_vertical_slab
+- buildersaddition:dark_oak_vertical_slab
+- buildersaddition:oak_vertical_slab
+- buildersaddition:spruce_vertical_slab
+- buildersaddition:jungle_vertical_slab
+- buildersaddition:sandstone_vertical_slab
+- buildersaddition:red_sandstone_vertical_slab
+- buildersaddition:cobblestone_vertical_slab
+- buildersaddition:bricks_vertical_slab
+- buildersaddition:stone_bricks_vertical_slab
+- buildersaddition:nether_bricks_vertical_slab
+- buildersaddition:quartz_vertical_slab
+- buildersaddition:purpur_vertical_slab
+- buildersaddition:prismarine_vertical_slab
+- buildersaddition:prismarine_bricks_vertical_slab
+- buildersaddition:dark_prismarine_vertical_slab
+- buildersaddition:andesite_vertical_slab
+- buildersaddition:polished_andesite_vertical_slab
+- buildersaddition:diorite_vertical_slab
+- buildersaddition:polished_diorite_vertical_slab
+- buildersaddition:granite_vertical_slab
+- buildersaddition:polished_granite_vertical_slab
+- buildersaddition:mossy_stone_bricks_vertical_slab
+- buildersaddition:mossy_cobblestone_vertical_slab
+- buildersaddition:smooth_quartz_vertical_slab
+- buildersaddition:red_nether_bricks_vertical_slab
+- buildersaddition:end_stone_bricks_vertical_slab
+- buildersaddition:smooth_sandstone_vertical_slab
+- buildersaddition:smooth_red_sandstone_vertical_slab
+- buildersaddition:cut_sandstone_vertical_slab
+- buildersaddition:cut_red_sandstone_vertical_slab
+- buildersaddition:crimson_vertical_slab
+- buildersaddition:warped_vertical_slab
+- buildersaddition:blackstone_vertical_slab
+- buildersaddition:polished_blackstone_vertical_slab
+- buildersaddition:polished_blackstone_bricks_vertical_slab
 - quark:acacia_vertical_slab
 - quark:andesite_bricks_vertical_slab
 - quark:andesite_vertical_slab
@@ -6778,6 +7296,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - minecraft:brown_mushroom
 
 #minecolonies:fletcher_product
+- #forge:string
 
 #ctiers:sextuple_compressed_iron_blocks
 - ctiers:sextuple_compressed_iron_block
@@ -8794,6 +9313,20 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - alltheores:ore_osmium
 - mekanism:osmium_ore
 
+#cfm:fences/upgraded
+- cfm:oak_upgraded_fence
+- cfm:spruce_upgraded_fence
+- cfm:birch_upgraded_fence
+- cfm:jungle_upgraded_fence
+- cfm:acacia_upgraded_fence
+- cfm:dark_oak_upgraded_fence
+- cfm:stripped_oak_upgraded_fence
+- cfm:stripped_spruce_upgraded_fence
+- cfm:stripped_birch_upgraded_fence
+- cfm:stripped_jungle_upgraded_fence
+- cfm:stripped_acacia_upgraded_fence
+- cfm:stripped_dark_oak_upgraded_fence
+
 #forge:groundmeats/groundbeef
 - pamhc2foodcore:groundbeefitem
 
@@ -9175,6 +9708,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - #forge:dusts/azure_silver
 - #forge:dusts/azure_electrum
 - #forge:dusts/tyrian_steel
+- #forge:dusts/starmetal
 - #forge:dusts/mana
 - mekanism:dust_iron
 - mekanism:dust_gold
@@ -9597,6 +10131,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - minecraft:honeycomb_block
 - resourcefulbees:catnip_honeycomb_block
 - resourcefulbees:rocky_honeycomb_block
+- resourcefulbees:soul_lava_honeycomb_block
 - resourcefulbees:obsidian_honeycomb_block
 - resourcefulbees:dragonic_honeycomb_block
 - resourcefulbees:blazing_honeycomb_block
@@ -9629,13 +10164,16 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - resourcefulbees:coal_honeycomb_block
 - resourcefulbees:icey_honeycomb_block
 - resourcefulbees:leafcutter_honeycomb_block
+- resourcefulbees:cropy_honeycomb_block
 - resourcefulbees:lava_honeycomb_block
 - resourcefulbees:cobbee_honeycomb_block
 - resourcefulbees:mana_honeycomb_block
 - resourcefulbees:glowing_honeycomb_block
 - resourcefulbees:water_honeycomb_block
+- resourcefulbees:gravely_honeycomb_block
 - resourcefulbees:rgbee_honeycomb_block
 - resourcefulbees:sandy_honeycomb_block
+- resourcefulbees:mystical_honeycomb_block
 - resourcefulbees:mason_honeycomb_block
 - resourcefulbees:lumber_honeycomb_block
 - resourcefulbees:skeleton_honeycomb_block
@@ -9982,6 +10520,14 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - bloodmagic:primitive_explosive_cell
 
 #quark:planks_vertical_slab
+- buildersaddition:acacia_vertical_slab
+- buildersaddition:birch_vertical_slab
+- buildersaddition:dark_oak_vertical_slab
+- buildersaddition:oak_vertical_slab
+- buildersaddition:spruce_vertical_slab
+- buildersaddition:jungle_vertical_slab
+- buildersaddition:crimson_vertical_slab
+- buildersaddition:warped_vertical_slab
 - quark:black_stained_planks_vertical_slab
 - quark:blue_stained_planks_vertical_slab
 - quark:brown_stained_planks_vertical_slab
@@ -10056,6 +10602,12 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 #forge:cracker
 - #forge:cracker/cracker
 
+#silentgear:starlight_charger_catalysts/tier1
+- #forge:dusts/blaze_gold
+
+#silentgear:starlight_charger_catalysts/tier2
+- #forge:dusts/azure_silver
+
 #forge:fruits/peach
 - pamhc2trees:peachitem
 
@@ -10073,6 +10625,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - immersiveengineering:ingot_silver
 - iceandfire:silver_ingot
 - thermal:silver_ingot
+
+#silentgear:starlight_charger_catalysts/tier3
+- #forge:dusts/starmetal
 
 #enviromats:alabaster_brown_blocks
 - enviromats:alabaster_brown
@@ -10644,6 +11199,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 #forge:rods/iron
 - silentgear:iron_rod
 - immersiveengineering:stick_iron
+- buildersaddition:iron_rod
 
 #forge:coins/tin
 - thermal:tin_coin
@@ -12737,6 +13293,12 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - mekanismadditions:orange_plastic_transparent_stairs
 - mekanismadditions:white_plastic_transparent_stairs
 
+#forge:armor/gold
+- minecraft:golden_boots
+- minecraft:golden_chestplate
+- minecraft:golden_helmet
+- minecraft:golden_leggings
+
 #structurize:timber_frames/white_terracotta/oak
 - structurize:plain_oak_white_terracotta_timber_frame
 - structurize:double_crossed_oak_white_terracotta_timber_frame
@@ -12770,6 +13332,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 
 #forge:juices/pearjuice
 - pamhc2foodextended:pearjuiceitem
+
+#forge:dusts/starmetal
+- silentgear:starmetal_dust
 
 #silentgear:netherwood_logs
 - silentgear:netherwood_log
@@ -13214,6 +13779,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - #forge:rods/aluminum
 - #forge:rods/iron
 - #forge:rods/steel
+- #forge:rods/iron
 
 #structurize:timber_frames/brown_brick/spruce
 - structurize:plain_spruce_brown_brick_timber_frame
@@ -13584,6 +14150,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - #silentgear:blueprints/dagger
 - #silentgear:blueprints/elytra
 - #silentgear:blueprints/excavator
+- #silentgear:blueprints/fishing_rod
 - #silentgear:blueprints/fletching
 - #silentgear:blueprints/grip
 - #silentgear:blueprints/hammer
@@ -14644,6 +15211,12 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - envirocore:kyronite_tile_slab
 - envirocore:kyronite_tile_small_slab
 
+#forge:tools/gold
+- minecraft:golden_axe
+- minecraft:golden_pickaxe
+- minecraft:golden_shovel
+- minecraft:golden_sword
+
 #woot:factory_blocks
 - woot:factory_a
 - woot:factory_b
@@ -14669,7 +15242,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - astralsorcery:tome
 - camera:album
 - mana-and-artifice:guide_book
-- mana-and-artifice:cantrip_book
 
 #forge:fruits/raspberries
 - pamhc2crops:raspberryitem
@@ -15586,6 +16158,8 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - minecraft:cake
 - minecraft:rabbit_foot
 - minecraft:fermented_spider_eye
+- minecraft:nether_wart_block
+- minecraft:warped_wart_block
 
 #forge:crops/soybean
 - pamhc2crops:soybeanitem
@@ -15610,6 +16184,12 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - enviromats:alabaster_light_blue_polished_stairs
 - enviromats:alabaster_light_blue_tile_stairs
 - enviromats:alabaster_light_blue_tile_small_stairs
+
+#forge:armor/diamond
+- minecraft:diamond_boots
+- minecraft:diamond_chestplate
+- minecraft:diamond_helmet
+- minecraft:diamond_leggings
 
 #enviromats:alabaster_cyan_blocks
 - enviromats:alabaster_cyan
@@ -16002,6 +16582,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 
 #forge:gears/enderium
 - thermal:enderium_gear
+
+#silentgear:blueprints/fishing_rod
+- silentgear:fishing_rod_blueprint
+- silentgear:fishing_rod_template
 
 #byg:red_dye
 - byg:amaranth
@@ -16753,6 +17337,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - biomesoplenty:magic_fence
 - biomesoplenty:umbran_fence
 - biomesoplenty:hellbark_fence
+- #cfm:fences/upgraded
 - structurize:blockcactusfence
 - minecraft:oak_fence
 - minecraft:spruce_fence
@@ -19071,6 +19656,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - #forge:storage_blocks
 - minecraft:sea_lantern
 - minecraft:stone_pressure_plate
+- minecraft:polished_blackstone_pressure_plate
 - #minecraft:wooden_pressure_plates
 - minecraft:light_weighted_pressure_plate
 - minecraft:heavy_weighted_pressure_plate
@@ -19375,6 +19961,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 
 #forge:silicon
 - refinedstorage:silicon
+- tinyredstone:silicon
 - appliedenergistics2:silicon
 
 #rftoolsutility:living/averageyield
@@ -19392,6 +19979,72 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 
 #forge:ingots/drenched_iron
 - elementalcraft:drenched_iron_ingot
+
+#cfm:general
+- cfm:oak_table
+- cfm:spruce_table
+- cfm:birch_table
+- cfm:jungle_table
+- cfm:acacia_table
+- cfm:dark_oak_table
+- cfm:stone_table
+- cfm:granite_table
+- cfm:diorite_table
+- cfm:andesite_table
+- cfm:stripped_oak_table
+- cfm:stripped_spruce_table
+- cfm:stripped_birch_table
+- cfm:stripped_jungle_table
+- cfm:stripped_acacia_table
+- cfm:stripped_dark_oak_table
+- cfm:oak_chair
+- cfm:spruce_chair
+- cfm:birch_chair
+- cfm:jungle_chair
+- cfm:acacia_chair
+- cfm:dark_oak_chair
+- cfm:stone_chair
+- cfm:granite_chair
+- cfm:diorite_chair
+- cfm:andesite_chair
+- cfm:stripped_oak_chair
+- cfm:stripped_spruce_chair
+- cfm:stripped_birch_chair
+- cfm:stripped_jungle_chair
+- cfm:stripped_acacia_chair
+- cfm:stripped_dark_oak_chair
+- cfm:oak_coffee_table
+- cfm:spruce_coffee_table
+- cfm:birch_coffee_table
+- cfm:jungle_coffee_table
+- cfm:acacia_coffee_table
+- cfm:dark_oak_coffee_table
+- cfm:stone_coffee_table
+- cfm:granite_coffee_table
+- cfm:diorite_coffee_table
+- cfm:andesite_coffee_table
+- cfm:stripped_oak_coffee_table
+- cfm:stripped_spruce_coffee_table
+- cfm:stripped_birch_coffee_table
+- cfm:stripped_jungle_coffee_table
+- cfm:stripped_acacia_coffee_table
+- cfm:stripped_dark_oak_coffee_table
+- cfm:white_sofa
+- cfm:orange_sofa
+- cfm:magenta_sofa
+- cfm:light_blue_sofa
+- cfm:yellow_sofa
+- cfm:lime_sofa
+- cfm:pink_sofa
+- cfm:gray_sofa
+- cfm:light_gray_sofa
+- cfm:cyan_sofa
+- cfm:purple_sofa
+- cfm:blue_sofa
+- cfm:brown_sofa
+- cfm:green_sofa
+- cfm:red_sofa
+- cfm:black_sofa
 
 #forge:jellies/cantaloupejelly
 - pamhc2foodextended:cantaloupejellyitem
@@ -20444,6 +21097,12 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 
 #silentgear:grader_catalysts/tier4
 
+#forge:armor/iron
+- minecraft:iron_boots
+- minecraft:iron_chestplate
+- minecraft:iron_helmet
+- minecraft:iron_leggings
+
 #mekanism:dirty_dusts/iron
 - mekanism:dirty_dust_iron
 
@@ -20716,6 +21375,8 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - structurize:side_framed_horizontal_crimson_beige_brick_timber_frame
 
 #forge:fences
+- #cfm:fences/picket
+- #cfm:fences/upgraded
 - #forge:fences/nether_brick
 - #forge:fences/wooden
 - #forge:fences/plastic
@@ -20734,6 +21395,13 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 
 #forge:vinegar_ingredients/barley
 - pamhc2crops:barleyitem
+
+#forge:tools/iron
+- minecraft:iron_axe
+- minecraft:iron_pickaxe
+- minecraft:iron_shovel
+- minecraft:iron_sword
+- minecraft:shears
 
 #mekanism:dirty_dusts/osmium
 - alltheores:dirty_osmium_dust

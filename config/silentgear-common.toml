@@ -81,6 +81,10 @@
 	#Allow parts to be crafted with mixed materials in a crafting grid, just like all recent versions.
 	#In 1.17, mixing will only be allowed in compound-crafting blocks.
 	allowClassicMaterialMixing = true
+	#If set to false all conversion recipes (type 'silentgear:conversion') will be disabled
+	#An example of a conversion recipe is placing a vanilla stone pickaxe into a crafting grid to make a Silent Gear stone pickaxe
+	#Note: This also affects conversion recipes added by data packs and other mods
+	allowConversionRecipes = true
 	#Displays a message in chat, notifying the player that an item broke and hinting that it can be repaired
 	sendBrokenMessage = true
 	#How frequently gear will recalcute stats as damaged
@@ -143,7 +147,7 @@
 		extraPartAndTraitInfo = false
 		#Log information on construction of gear and part models, as well as textures they attempt to load.
 		#This is intended to help find and fix rare issues that some users are experiencing.
-		modelAndTexture = true
+		modelAndTexture = false
 
 #World generation options (REQUIRES GAME RESTART)
 [world]

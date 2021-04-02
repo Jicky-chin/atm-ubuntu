@@ -151,4 +151,6 @@
 		#Defines (for each individual cow) the minimum time between milking.
 		#Range: 1000 ~ 24000
 		milking_machine_milking_delay = 4000
+		#Defines (as comma separated list of full registry names) which items are allowed as external heaters in the Aux slot for powered speed boosting.
+		furnace_accepted_heaters = "immersiveengineering:furnace_heater"
 

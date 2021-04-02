@@ -1,4 +1,4 @@
-To refresh this file, delete it and run /reload command again! Last updated: Mar 22, 2021 4:55:04 PM
+To refresh this file, delete it and run /reload command again! Last updated: Mar 23, 2021 9:18:00 PM
 
 #iceandfire:dragon_targets
 - minecraft:cow
@@ -77,6 +77,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - resourcefulbees:emerald_bee
 - resourcefulbees:redstone_bee
 - resourcefulbees:creeper_bee
+- resourcefulbees:cropy_bee
 - resourcefulbees:crimson_iron_bee
 - resourcefulbees:unobtainium_bee
 - resourcefulbees:aquamarine_bee
@@ -84,6 +85,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - resourcefulbees:allthemodium_bee
 - resourcefulbees:rocky_bee
 - resourcefulbees:gold_bee
+- resourcefulbees:mystical_bee
 - resourcefulbees:lava_bee
 - resourcefulbees:ghost_bee
 - resourcefulbees:mason_bee
@@ -97,6 +99,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - resourcefulbees:lumber_bee
 - resourcefulbees:osmium_bee
 - resourcefulbees:quartz_bee
+- resourcefulbees:gravely_bee
 - resourcefulbees:lead_bee
 - resourcefulbees:uraninite_bee
 - resourcefulbees:diamond_bee
@@ -109,6 +112,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - resourcefulbees:iron_bee
 - resourcefulbees:wither_bee
 - resourcefulbees:spider_bee
+- resourcefulbees:soul_lava_bee
 - resourcefulbees:icey_bee
 
 #forge:creepers
