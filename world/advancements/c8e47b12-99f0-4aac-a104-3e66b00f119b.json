@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "silentgear:recipes/silentgear/crimson_iron_dust": {
+    "criteria": {
+      "has_item": "2021-04-03 15:38:06 -0400"
+    },
+    "done": true
+  },
   "botania:recipes/botania/invisibility_cloak": {
     "criteria": {
       "has_item": "2021-02-17 21:48:04 -0500"
@@ -1226,6 +1232,12 @@
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2021-02-01 16:58:11 -0500"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tools/modifiers/reinforcement": {
+    "criteria": {
+      "has_center": "2021-04-03 15:46:26 -0400"
     },
     "done": true
   },
@@ -2548,6 +2560,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_silver_to_nugget_silver": {
+    "criteria": {
+      "has_ingot_silver": "2021-04-03 15:48:00 -0400"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/diorite_pillar": {
     "criteria": {
       "has_ingredient": "2021-03-03 15:19:40 -0500"
@@ -3100,12 +3118,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2021-02-01 17:57:46 -0500"
-    },
-    "done": true
-  },
   "botania:recipes/botania/runic_altar": {
     "criteria": {
       "has_item": "2021-02-17 21:48:04 -0500"
@@ -3115,6 +3127,12 @@
   "create:root": {
     "criteria": {
       "0": "2021-01-31 03:00:23 -0500"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/nugget_silver_to_ingot_silver": {
+    "criteria": {
+      "has_nugget_silver": "2021-04-03 15:48:00 -0400"
     },
     "done": true
   },
@@ -4012,6 +4030,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/tools/modifiers/silky_cloth": {
+    "criteria": {
+      "has_item": "2021-04-03 15:46:26 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
     "criteria": {
       "has_flower": "2021-02-08 18:25:09 -0500"
@@ -4483,6 +4507,12 @@
   "botania:recipes/botania/livingwood_bow": {
     "criteria": {
       "has_twig": "2021-02-17 20:38:27 -0500"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_nickel_to_nugget_nickel": {
+    "criteria": {
+      "has_ingot_nickel": "2021-04-03 15:47:52 -0400"
     },
     "done": true
   },
@@ -6605,6 +6635,12 @@
     },
     "done": true
   },
+  "mcwfences:recipes/modern_andesite_wall": {
+    "criteria": {
+      "has_planks": "2021-04-03 16:06:51 -0400"
+    },
+    "done": true
+  },
   "botania:recipes/botania/glimmering_dreamwood": {
     "criteria": {
       "has_item": "2021-02-19 18:40:07 -0500"
@@ -6911,6 +6947,12 @@
     },
     "done": true
   },
+  "allthemodium:uaalloy_ingot": {
+    "criteria": {
+      "soullava": "2021-04-03 14:57:56 -0400"
+    },
+    "done": true
+  },
   "woot:recipes/woot/headless_2": {
     "criteria": {
       "cobblestone": "2021-01-31 03:11:10 -0500"
@@ -7082,6 +7124,12 @@
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2021-02-01 23:36:18 -0500"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/charging_module": {
+    "criteria": {
+      "has_charging_station": "2021-04-03 16:10:18 -0400"
     },
     "done": true
   },
@@ -7394,6 +7442,12 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2021-02-01 17:53:24 -0500"
+    },
+    "done": true
+  },
+  "allthemodium:avalloy_ingot": {
+    "criteria": {
+      "soullava": "2021-04-03 14:57:56 -0400"
     },
     "done": true
   },
@@ -7805,6 +7859,12 @@
     },
     "done": true
   },
+  "mcwfences:recipes/modern_stone_brick_wall": {
+    "criteria": {
+      "has_planks": "2021-04-03 15:37:15 -0400"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/crimson_iron_dust_blasting": {
     "criteria": {
       "has_item": "2021-02-01 22:50:11 -0500"
@@ -7862,6 +7922,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/sorter": {
     "criteria": {
       "has_conveyor_basic": "2021-03-04 00:10:11 -0500"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/upgrade_rudders": {
+    "criteria": {
+      "has_iron_rod": "2021-04-03 15:48:32 -0400"
     },
     "done": true
   },
@@ -7988,6 +8054,12 @@
   "silentgear:recipes/silentgear/boots_blueprint": {
     "criteria": {
       "has_item": "2021-02-01 23:17:01 -0500"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/throwball/glow_ball": {
+    "criteria": {
+      "has_item": "2021-04-03 15:51:21 -0400"
     },
     "done": true
   },
@@ -8144,6 +8216,12 @@
   "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2021-02-09 21:40:37 -0500"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/strip_curtain": {
+    "criteria": {
+      "has_metal_rod": "2021-04-03 15:47:52 -0400"
     },
     "done": true
   },
@@ -8456,6 +8534,12 @@
   "extradisks:recipes/extradisks/advanced_storage_housing": {
     "criteria": {
       "has_processor": "2021-02-08 00:02:49 -0500"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/throwball/efln_ball": {
+    "criteria": {
+      "has_item": "2021-04-03 15:51:21 -0400"
     },
     "done": true
   },
@@ -8897,6 +8981,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:pneumatic_wrench": {
+    "criteria": {
+      "pressure_tube": "2021-04-03 16:10:09 -0400"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_mystic_trapdoor": {
     "criteria": {
       "has_planks": "2021-01-31 18:07:05 -0500"
@@ -9038,6 +9128,12 @@
   "botania:recipes/botania/conversions/light_gray_petal_block_deconstruct": {
     "criteria": {
       "has_item": "2021-02-17 21:23:27 -0500"
+    },
+    "done": true
+  },
+  "pneumaticcraft:pneumatic_wrench_charged": {
+    "criteria": {
+      "equipped": "2021-04-03 16:10:09 -0400"
     },
     "done": true
   },
@@ -9200,6 +9296,12 @@
   "allthemodium:root": {
     "criteria": {
       "requirement": "2021-02-18 20:50:37 -0500"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/metal_ladder_none": {
+    "criteria": {
+      "has_metal_rod": "2021-04-03 15:47:52 -0400"
     },
     "done": true
   },
@@ -10459,6 +10561,12 @@
     },
     "done": true
   },
+  "mcwfences:recipes/railing_andesite_wall": {
+    "criteria": {
+      "has_planks": "2021-04-03 16:06:51 -0400"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/blue_dye_from_flax_flowers": {
     "criteria": {
       "has_item": "2021-01-31 22:47:01 -0500"
@@ -10810,6 +10918,12 @@
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_brick_block": "2021-02-05 03:06:17 -0500"
+    },
+    "done": true
+  },
+  "allthemodium:alloy_shovel": {
+    "criteria": {
+      "soullava": "2021-04-03 14:57:56 -0400"
     },
     "done": true
   },
@@ -11455,6 +11569,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/piggy_backpack": {
+    "criteria": {
+      "has_item": "2021-04-03 15:48:00 -0400"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/cyan_striped_awning": {
     "criteria": {
       "has_planks": "2021-01-31 03:47:39 -0500"
@@ -11866,6 +11986,12 @@
     },
     "done": true
   },
+  "allthemodium:uvalloy_ingot": {
+    "criteria": {
+      "soullava": "2021-04-03 14:57:56 -0400"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/tip_template": {
     "criteria": {
       "has_item": "2021-02-01 23:18:46 -0500"
@@ -12070,6 +12196,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/gadgets/fancy_frame/gold_item_frame": {
+    "criteria": {
+      "has_item": "2021-04-03 15:38:06 -0400"
+    },
+    "done": true
+  },
   "botania:recipes/misc/dye_blue": {
     "criteria": {
       "has_item": "2021-02-17 21:30:49 -0500"
@@ -12193,6 +12325,12 @@
   "create:recipes/create.base/smelting/zinc_ingot_from_ore": {
     "criteria": {
       "has_item": "2021-01-31 17:20:27 -0500"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/nugget_nickel_to_ingot_nickel": {
+    "criteria": {
+      "has_nugget_nickel": "2021-04-03 15:47:52 -0400"
     },
     "done": true
   },
@@ -13199,6 +13337,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/gunpart_barrel": {
+    "criteria": {
+      "has_stick_steel": "2021-04-03 15:47:52 -0400"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/parapet/diorite_parapet": {
     "criteria": {
       "has_planks": "2021-03-03 15:19:40 -0500"
@@ -13886,6 +14030,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2021-01-31 21:02:57 -0500"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/railing_stone_brick_wall": {
+    "criteria": {
+      "has_planks": "2021-04-03 15:37:15 -0400"
     },
     "done": true
   },
@@ -14636,6 +14786,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_aluminum_to_storage_aluminum": {
+    "criteria": {
+      "has_ingot_aluminum": "2021-04-03 15:47:52 -0400"
+    },
+    "done": true
+  },
   "botania:recipes/botania/terra_pick": {
     "criteria": {
       "has_item": "2021-02-19 15:03:23 -0500"
@@ -15073,6 +15229,7 @@
       "minecraft:wooded_mountains": "2021-02-04 18:46:28 -0500",
       "minecraft:stone_shore": "2021-02-04 18:45:37 -0500",
       "minecraft:swamp": "2021-02-01 16:57:07 -0500",
+      "minecraft:savanna": "2021-04-03 15:39:02 -0400",
       "minecraft:plains": "2021-01-31 03:00:24 -0500"
     },
     "done": false
@@ -15551,6 +15708,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/storage_aluminum_to_ingot_aluminum": {
+    "criteria": {
+      "has_storage_aluminum": "2021-04-03 15:47:52 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2021-01-31 03:11:10 -0500"
@@ -15980,6 +16143,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/dynamo": {
     "criteria": {
       "has_coil_lv": "2021-03-09 14:54:06 -0500"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/earmuffs": {
+    "criteria": {
+      "has_iron_rod": "2021-04-03 15:48:32 -0400"
     },
     "done": true
   },
@@ -16601,6 +16770,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/common/flint": {
+    "criteria": {
+      "has_item": "2021-04-03 15:37:26 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2021-02-01 22:06:53 -0500"
@@ -16706,6 +16881,12 @@
   "botania:recipes/botania/petal_brown_double": {
     "criteria": {
       "has_alt_item": "2021-02-17 21:23:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2021-04-03 16:07:30 -0400"
     },
     "done": true
   },
@@ -17480,6 +17661,12 @@
   "botania:recipes/botania/petal_light_blue": {
     "criteria": {
       "has_item": "2021-02-17 20:29:41 -0500"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tables/pattern": {
+    "criteria": {
+      "has_item": "2021-04-03 15:48:00 -0400"
     },
     "done": true
   },

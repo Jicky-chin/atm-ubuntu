@@ -48,6 +48,13 @@
 		experience_boost = true
 
 	#####################################################################################
+	# Worldgen settings  
+	#####################################################################################
+	[cyclic.worldgen]
+		#Does this generate in the world
+		flower_cyan = true
+
+	#####################################################################################
 	# Edit the permissions of all commands added by the mod.  false means anyone can use, true means only OP players can use  
 	#####################################################################################
 	[cyclic.command]

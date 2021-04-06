@@ -1,8 +1,12 @@
-To refresh this file, delete it and run /reload command again! Last updated: Mar 23, 2021 9:18:00 PM
+To refresh this file, delete it and run /reload command again! Last updated: Apr 3, 2021 1:01:34 PM
 
 #forge:oxygen
 - mekanism:oxygen
 - mekanism:flowing_oxygen
+
+#tconstruct:sky_slime
+- tconstruct:sky_slime
+- tconstruct:flowing_sky_slime
 
 #minecraft:water
 - minecraft:water
@@ -44,14 +48,23 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - mekanismgenerators:flowing_fusion_fuel
 
 #forge:xpjuice
-- cyclic:xpjuice
+- mob_grinding_utils:fluid_xp
 
 #forge:sewage
 - industrialforegoing:sewage
 - industrialforegoing:sewage_fluid
 
+#tconstruct:earth_slime
+- tconstruct:earth_slime
+- tconstruct:flowing_earth_slime
+
 #forge:xp_juice
 - xreliquary:xp_juice_still
+
+#tconstruct:slime
+- #tconstruct:earth_slime
+- #tconstruct:sky_slime
+- #tconstruct:ender_slime
 
 #forge:steam
 - mekanism:steam
@@ -59,7 +72,13 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - biggerreactors:fluid_irradiated_steam
 
 #forge:experience
+- pneumaticcraft:memory_essence
 - cofh_core:experience
+- mob_grinding_utils:fluid_xp
+- industrialforegoing:essence?
+- pneumaticcraft:memory_essence?
+- cofh_core:experience?
+- cyclic:xpjuice
 
 #forge:slime
 - cyclic:slime
@@ -157,6 +176,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - mekanism:chlorine
 - mekanism:flowing_chlorine
 
+#tconstruct:ender_slime
+- tconstruct:ender_slime
+- tconstruct:flowing_ender_slime
+
 #forge:sodium
 - mekanism:sodium
 - mekanism:flowing_sodium
@@ -183,6 +206,13 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 #forge:sulfuric_acid
 - mekanism:sulfuric_acid
 - mekanism:flowing_sulfuric_acid
+
+#tconstruct:slimelike
+- tconstruct:magma_cream
+- tconstruct:flowing_magma_cream
+- tconstruct:blood
+- tconstruct:flowing_blood
+- #tconstruct:slime
 
 #forge:gasoline
 - pneumaticcraft:gasoline

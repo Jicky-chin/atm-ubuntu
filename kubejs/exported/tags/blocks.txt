@@ -1,4 +1,4 @@
-To refresh this file, delete it and run /reload command again! Last updated: Mar 23, 2021 9:17:55 PM
+To refresh this file, delete it and run /reload command again! Last updated: Apr 3, 2021 1:01:29 PM
 
 #darkutils:trap
 - darkutils:rune_slowness
@@ -90,6 +90,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 
 #forge:glass_panes/white
 - minecraft:white_stained_glass_pane
+- tconstruct:white_clear_stained_glass_pane
 
 #biomesoplenty:hellbark_logs
 - biomesoplenty:hellbark_log
@@ -128,10 +129,17 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - structurize:white_clay_cactus_shingle
 - structurize:yellow_clay_cactus_shingle
 
+#tconstruct:slimy_leaves
+- tconstruct:sky_slime_leaves
+- tconstruct:ichor_slime_leaves
+- tconstruct:ender_slime_leaves
+- tconstruct:blood_slime_leaves
+
 #resourcefulbees:resourceful_honey_block
 
 #forge:glass_panes/light_gray
 - minecraft:light_gray_stained_glass_pane
+- tconstruct:light_gray_clear_stained_glass_pane
 
 #structurize:timber_frames/magenta_terracotta/birch
 - structurize:plain_birch_magenta_terracotta_timber_frame
@@ -211,6 +219,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 
 #forge:glass/pink
 - minecraft:pink_stained_glass
+- tconstruct:pink_clear_stained_glass
 
 #forge:chests
 - #forge:chests/electric
@@ -387,6 +396,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - immersiveengineering:storage_copper
 - thermal:copper_block
 - create:copper_block
+- tconstruct:copper_block
 
 #structurize:timber_frames/stone_brick/crimson
 - structurize:plain_crimson_stone_brick_timber_frame
@@ -644,9 +654,11 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 
 #forge:glass/white
 - minecraft:white_stained_glass
+- tconstruct:white_clear_stained_glass
 
 #forge:glass_panes/red
 - minecraft:red_stained_glass_pane
+- tconstruct:red_clear_stained_glass_pane
 
 #biomesoplenty:willow_logs
 - biomesoplenty:willow_log
@@ -1518,6 +1530,8 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - bloodmagic:dungeon_polished_wall
 - mysticalagriculture:soulstone_cobble_wall
 - mysticalagriculture:soulstone_bricks_wall
+- tconstruct:seared_bricks_wall
+- tconstruct:seared_cobble_wall
 - forbidden_arcanus:darkstone_wall
 - forbidden_arcanus:polished_darkstone_wall
 - forbidden_arcanus:polished_darkstone_brick_wall
@@ -1526,6 +1540,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - quark:andesite_bricks_wall
 - quark:basalt_bricks_wall
 - quark:basalt_wall
+- quark:blackstone_bricks_wall
 - quark:blue_nether_bricks_wall
 - quark:brimstone_bricks_wall
 - quark:brimstone_wall
@@ -1533,6 +1548,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - quark:cobbedstone_wall
 - quark:cobblestone_bricks_wall
 - quark:diorite_bricks_wall
+- quark:dirt_bricks_wall
 - quark:elder_prismarine_wall
 - quark:granite_bricks_wall
 - quark:jasper_bricks_wall
@@ -1545,6 +1561,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - quark:mossy_cobblestone_bricks_wall
 - quark:myalite_bricks_wall
 - quark:myalite_wall
+- quark:netherrack_bricks_wall
+- quark:paper_wall
+- quark:paper_wall_big
+- quark:paper_wall_sakura
 - quark:permafrost_bricks_wall
 - quark:permafrost_wall
 - quark:red_sandstone_bricks_wall
@@ -1556,6 +1576,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - quark:soul_sandstone_bricks_wall
 - quark:soul_sandstone_wall
 - quark:twisted_blackstone_bricks_wall
+- quark:vanilla_basalt_bricks_wall
 - quark:weeping_blackstone_bricks_wall
 - engineersdecor:clinker_brick_wall
 - engineersdecor:slag_brick_wall
@@ -1750,6 +1771,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 #minecraft:infiniburn_nether
 - #minecraft:infiniburn_overworld
 
+#forge:ores/cobalt
+- tconstruct:cobalt_ore
+
 #structurize:timber_frames/blackstone/cactus
 - structurize:plain_cactus_blackstone_timber_frame
 - structurize:double_crossed_cactus_blackstone_timber_frame
@@ -1764,6 +1788,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 
 #forge:glass/blue
 - minecraft:blue_stained_glass
+- tconstruct:blue_clear_stained_glass
 
 #ars_nouveau:harvest/foliage
 - #minecraft:leaves
@@ -1949,6 +1974,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 
 #forge:glass/light_blue
 - minecraft:light_blue_stained_glass
+- tconstruct:light_blue_clear_stained_glass
 
 #botania:special_floating_flowers
 - botania:floating_agricarnation
@@ -2285,6 +2311,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 
 #forge:glass/purple
 - minecraft:purple_stained_glass
+- tconstruct:purple_clear_stained_glass
 
 #minecraft:fences/wooden
 - ars_nouveau:archwood_fence
@@ -2768,6 +2795,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 
 #forge:glass/lime
 - minecraft:lime_stained_glass
+- tconstruct:lime_clear_stained_glass
 
 #forge:chests/wooden
 - minecraft:chest
@@ -2850,6 +2878,11 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - minecraft:granite
 - minecraft:diorite
 - minecraft:andesite
+- create:limestone
+- create:weathered_limestone
+- create:dolomite
+- create:gabbro
+- create:natural_scoria
 - quark:jasper
 - quark:limestone
 - quark:marble
@@ -2923,6 +2956,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 
 #forge:glass/orange
 - minecraft:orange_stained_glass
+- tconstruct:orange_clear_stained_glass
 
 #structurize:shingle_slabs
 - #structurize:shingle_slabs/clay
@@ -3435,6 +3469,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - quark:basalt_bricks_slab
 - quark:basalt_slab
 - quark:biotite_block_slab
+- quark:blackstone_bricks_slab
 - quark:black_shingles_slab
 - quark:black_stained_planks_slab
 - quark:blue_nether_bricks_slab
@@ -3452,6 +3487,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - quark:cyan_stained_planks_slab
 - quark:dark_elder_prismarine_slab
 - quark:diorite_bricks_slab
+- quark:dirt_bricks_slab
 - quark:duskbound_block_slab
 - quark:elder_prismarine_bricks_slab
 - quark:elder_prismarine_slab
@@ -3480,6 +3516,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - quark:mossy_cobblestone_bricks_slab
 - quark:myalite_bricks_slab
 - quark:myalite_slab
+- quark:netherrack_bricks_slab
 - quark:orange_shingles_slab
 - quark:orange_stained_planks_slab
 - quark:permafrost_bricks_slab
@@ -3511,6 +3548,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - quark:thatch_slab
 - quark:turf_slab
 - quark:twisted_blackstone_bricks_slab
+- quark:vanilla_basalt_bricks_slab
 - quark:weeping_blackstone_bricks_slab
 - quark:white_shingles_slab
 - quark:white_stained_planks_slab
@@ -3566,6 +3604,13 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 #bloodmagic:ritual_stones/water_or_earth
 - bloodmagic:waterritualstone
 - bloodmagic:earthritualstone
+
+#tconstruct:congealed_slime
+- tconstruct:earth_congealed_slime
+- tconstruct:sky_congealed_slime
+- tconstruct:ichor_congealed_slime
+- tconstruct:ender_congealed_slime
+- tconstruct:blood_congealed_slime
 
 #botania:misc_special_flowers
 - botania:manastar
@@ -3686,6 +3731,8 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - create:cart_assembler
 - create:reinforced_rail
 - create:controller_rail
+- tconstruct:wooden_rail
+- tconstruct:wooden_dropper_rail
 
 #structurize:timber_frames/dark_oak/jungle
 - structurize:plain_jungle_dark_oak_timber_frame
@@ -4147,6 +4194,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 
 #forge:glass_panes/light_blue
 - minecraft:light_blue_stained_glass_pane
+- tconstruct:light_blue_clear_stained_glass_pane
 
 #minecolonies:indestructible
 - minecraft:bedrock
@@ -4282,8 +4330,14 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - create:red_seat
 - create:black_seat
 
+#tconstruct:smeltery/tanks
+- tconstruct:seared_tank
+- tconstruct:seared_gauge
+- tconstruct:seared_window
+
 #forge:glass_panes/brown
 - minecraft:brown_stained_glass_pane
+- tconstruct:brown_clear_stained_glass_pane
 
 #forge:ores/sapphire
 - thermal:sapphire_ore
@@ -4323,6 +4377,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - byg:imparius_vine
 - byg:imparius_vine_plant
 - platforms:frame
+- tconstruct:seared_ladder
 - quark:acacia_ladder
 - quark:birch_ladder
 - quark:dark_oak_ladder
@@ -5059,6 +5114,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - iceandfire:copper_ore
 - thermal:copper_ore
 - create:copper_ore
+- tconstruct:copper_ore
 
 #minecraft:unstable_bottom_center
 - #minecraft:fence_gates
@@ -5283,6 +5339,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 
 #forge:glass/magenta
 - minecraft:magenta_stained_glass
+- tconstruct:magenta_clear_stained_glass
 
 #structurize:timber_frames/green_terracotta/warped
 - structurize:plain_warped_green_terracotta_timber_frame
@@ -5563,6 +5620,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 #minecraft:trapdoors
 - #minecraft:wooden_trapdoors
 - minecraft:iron_trapdoor
+- framedblocks:framed_trapdoor
 - structurize:blockcactustrapdoor
 - byg:aspen_trapdoor
 - byg:baobab_trapdoor
@@ -5594,8 +5652,12 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - byg:nightshade_trapdoor
 - byg:imparius_trapdoor
 
+#tconstruct:smeltery/floor
+- #tconstruct:seared_blocks
+
 #forge:glass/cyan
 - minecraft:cyan_stained_glass
+- tconstruct:cyan_clear_stained_glass
 
 #botania:shiny_flowers
 - botania:black_shiny_flower
@@ -5733,6 +5795,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - byg:baobab_wood
 - byg:stripped_baobab_wood
 
+#forge:storage_blocks/rose_gold
+- tconstruct:rose_gold_block
+
 #forge:storage_blocks/brass
 - create:brass_block
 
@@ -5768,6 +5833,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 #forge:ores/ruby
 - thermal:ruby_ore
 
+#forge:storage_blocks/silicon_bronze
+- tconstruct:tinkers_bronze_block
+
 #byg:mahogany_logs
 - byg:mahogany_log
 - byg:stripped_mahogany_log
@@ -5791,6 +5859,22 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - minecraft:green_stained_glass_pane
 - minecraft:red_stained_glass_pane
 - minecraft:black_stained_glass_pane
+- tconstruct:white_clear_stained_glass_pane
+- tconstruct:orange_clear_stained_glass_pane
+- tconstruct:magenta_clear_stained_glass_pane
+- tconstruct:light_blue_clear_stained_glass_pane
+- tconstruct:yellow_clear_stained_glass_pane
+- tconstruct:lime_clear_stained_glass_pane
+- tconstruct:pink_clear_stained_glass_pane
+- tconstruct:gray_clear_stained_glass_pane
+- tconstruct:light_gray_clear_stained_glass_pane
+- tconstruct:cyan_clear_stained_glass_pane
+- tconstruct:purple_clear_stained_glass_pane
+- tconstruct:blue_clear_stained_glass_pane
+- tconstruct:brown_clear_stained_glass_pane
+- tconstruct:green_clear_stained_glass_pane
+- tconstruct:red_clear_stained_glass_pane
+- tconstruct:black_clear_stained_glass_pane
 
 #forbidden_arcanus:hanging_candelabras
 - forbidden_arcanus:hanging_stone_candelabra
@@ -5813,6 +5897,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - structurize:one_crossed_rl_birch_green_terracotta_timber_frame
 - structurize:horizontal_plain_birch_green_terracotta_timber_frame
 - structurize:side_framed_horizontal_birch_green_terracotta_timber_frame
+
+#forge:storage_blocks/queens_slime
+- tconstruct:queens_slime_block
 
 #structurize:timber_frames/blackstone/spruce
 - structurize:plain_spruce_blackstone_timber_frame
@@ -5849,6 +5936,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 
 #forge:workbenches
 - cyclic:workbench
+- minecraft:crafting_table
+- tconstruct:crafting_station
+- #forge:workbench?
 
 #refinedstorage:storage_blocks/items/1048576k
 - extradisks:1048576k_storage_block
@@ -5907,6 +5997,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 
 #forge:glass/gray
 - minecraft:gray_stained_glass
+- tconstruct:gray_clear_stained_glass
 
 #structurize:timber_frames/acacia/spruce
 - structurize:plain_spruce_acacia_timber_frame
@@ -5996,6 +6087,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 
 #forge:glass_panes/black
 - minecraft:black_stained_glass_pane
+- tconstruct:black_clear_stained_glass_pane
 
 #structurize:timber_frames/warped/oak
 - structurize:plain_oak_warped_timber_frame
@@ -6011,6 +6103,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 
 #forge:glass_panes/blue
 - minecraft:blue_stained_glass_pane
+- tconstruct:blue_clear_stained_glass_pane
 
 #structurize:timber_frames/red_terracotta/warped
 - structurize:plain_warped_red_terracotta_timber_frame
@@ -6053,6 +6146,11 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - silentgear:green_fluffy_block
 - silentgear:red_fluffy_block
 - silentgear:black_fluffy_block
+
+#tconstruct:tables
+- tconstruct:crafting_station
+- tconstruct:part_builder
+- tconstruct:tinker_station
 
 #byg:redwood_logs
 - byg:redwood_log
@@ -6201,6 +6299,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 
 #forge:glass_panes/yellow
 - minecraft:yellow_stained_glass_pane
+- tconstruct:yellow_clear_stained_glass_pane
 
 #buildinggadgets:whitelist/destruction
 
@@ -6217,6 +6316,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - structurize:side_framed_horizontal_dark_oak_acacia_timber_frame
 
 #resourcefulbees:valid_apiary
+- creativeapiary:tcreative_apiary
+- creativeapiary:creative_apiary_storage
+- creativeapiary:creative_apiary_breeder
 - resourcefulbees:t1_apiary
 - resourcefulbees:t2_apiary
 - resourcefulbees:t3_apiary
@@ -6372,6 +6474,8 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - minecraft:campfire
 - minecraft:lava
 - minecraft:fire
+- minecraft:soul_fire
+- minecraft:soul_campfire
 
 #byg:bookshelves
 - byg:aspen_bookshelf
@@ -6558,6 +6662,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - structurize:one_crossed_rl_birch_light_gray_terracotta_timber_frame
 - structurize:horizontal_plain_birch_light_gray_terracotta_timber_frame
 - structurize:side_framed_horizontal_birch_light_gray_terracotta_timber_frame
+
+#forge:storage_blocks/slimesteel
+- tconstruct:slimesteel_block
 
 #forge:stairs/plastic
 - mekanismadditions:black_plastic_stairs
@@ -6827,6 +6934,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 
 #forge:glass_panes/lime
 - minecraft:lime_stained_glass_pane
+- tconstruct:lime_clear_stained_glass_pane
 
 #bagofyurting:replaceable
 
@@ -6930,6 +7038,15 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - structurize:one_crossed_rl_oak_pink_terracotta_timber_frame
 - structurize:horizontal_plain_oak_pink_terracotta_timber_frame
 - structurize:side_framed_horizontal_oak_pink_terracotta_timber_frame
+
+#tconstruct:smeltery/wall
+- #tconstruct:smeltery/floor
+- #tconstruct:smeltery/tanks
+- tconstruct:seared_glass
+- tconstruct:seared_ladder
+- tconstruct:seared_drain
+- tconstruct:seared_chute
+- tconstruct:seared_duct
 
 #structurize:timber_frames/birch/acacia
 - structurize:plain_acacia_birch_timber_frame
@@ -7037,6 +7154,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 #minecraft:flowers
 - #minecraft:small_flowers
 - #minecraft:tall_flowers
+
+#forge:storage_blocks/cobalt
+- tconstruct:cobalt_block
 
 #structurize:timber_frames/stone_brick/oak
 - structurize:plain_oak_stone_brick_timber_frame
@@ -7286,6 +7406,8 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - #forge:ores/inferium
 - #forge:ores/prosperity
 - #forge:ores/soulium
+- #forge:ores/cobalt
+- #forge:ores/copper
 - mana-and-artifice:vinteum_ore
 - #forge:ores/arcane_crystal
 - #forge:ores/dark_runestone
@@ -7449,6 +7571,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 
 #forge:glass_panes/magenta
 - minecraft:magenta_stained_glass_pane
+- tconstruct:magenta_clear_stained_glass_pane
 
 #structurize:timber_frames/terracotta/crimson
 - structurize:plain_crimson_terracotta_timber_frame
@@ -7659,6 +7782,11 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - mob_grinding_utils:entity_conveyor
 - mob_grinding_utils:ender_inhibitor_on
 - mob_grinding_utils:ender_inhibitor_off
+- mob_grinding_utils:tinted_glass
+- mob_grinding_utils:jumbo_tank
+- mob_grinding_utils:xpsolidifier
+- mob_grinding_utils:dreadful_dirt
+- mob_grinding_utils:solid_xp_block
 - mysticalagriculture:witherproof_block
 - mysticalagriculture:witherproof_bricks
 - mysticalagriculture:witherproof_glass
@@ -7681,6 +7809,23 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - quark:basalt_bricks_vertical_slab
 - quark:basalt_bricks_wall
 - quark:basalt_pillar
+- quark:myalite
+- quark:polished_myalite
+- quark:myalite_stairs
+- quark:polished_myalite_stairs
+- quark:myalite_slab
+- quark:polished_myalite_slab
+- quark:myalite_vertical_slab
+- quark:polished_myalite_vertical_slab
+- quark:myalite_wall
+- quark:myalite_bricks
+- quark:myalite_pavement
+- quark:chiseled_myalite_bricks
+- quark:myalite_bricks_slab
+- quark:myalite_bricks_stairs
+- quark:myalite_bricks_vertical_slab
+- quark:myalite_bricks_wall
+- quark:myalite_pillar
 - quark:duskbound_lantern
 - quark:duskbound_block
 - quark:duskbound_block_stairs
@@ -7764,6 +7909,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 
 #forge:glass/red
 - minecraft:red_stained_glass
+- tconstruct:red_clear_stained_glass
 
 #chiselsandbits:chiselable/forced
 - minecraft:grass_block
@@ -7831,6 +7977,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 
 #forge:glass_panes/green
 - minecraft:green_stained_glass_pane
+- tconstruct:green_clear_stained_glass_pane
 
 #structurize:timber_frames/cactus/spruce
 - structurize:plain_spruce_cactus_timber_frame
@@ -8043,6 +8190,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 
 #forge:glass_panes/colorless
 - minecraft:glass_pane
+- tconstruct:clear_glass_pane
 - #forge:glass_panes/arcane
 - #forge:glass_panes/dark_runic
 - #forge:glass_panes/runic
@@ -8077,6 +8225,12 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 
 #structurize:shingles/moss_slate/oak
 - structurize:moss_slate_oak_shingle
+
+#tconstruct:melter_tanks
+- tconstruct:seared_heater
+- tconstruct:seared_tank
+- tconstruct:seared_gauge
+- tconstruct:seared_window
 
 #forge:storage_blocks/cinnabar
 - thermal:cinnabar_block
@@ -8160,12 +8314,18 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - structurize:white_clay_jungle_shingle
 - structurize:yellow_clay_jungle_shingle
 
+#tconstruct:seared_bricks
+- tconstruct:seared_bricks
+- tconstruct:seared_fancy_bricks
+- tconstruct:seared_triangle_bricks
+
 #forge:ores/diamond
 - minecraft:diamond_ore
 
 #minecraft:doors
 - #minecraft:wooden_doors
 - minecraft:iron_door
+- framedblocks:framed_door
 - #pneumaticcraft:doors
 - integrateddynamics:menril_door
 - structurize:blockcactusdoor
@@ -8761,6 +8921,13 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 #structurize:shingle_slabs/thatched
 - structurize:thatched_shingle_slab
 
+#tconstruct:slimy_logs
+- tconstruct:earth_congealed_slime
+- tconstruct:sky_congealed_slime
+- tconstruct:ichor_congealed_slime
+- tconstruct:ender_congealed_slime
+- tconstruct:blood_congealed_slime
+
 #structurize:shingles/gilded_blackstone/acacia
 - structurize:gilded_blackstone_acacia_shingle
 
@@ -8791,6 +8958,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 
 #forge:glass/green
 - minecraft:green_stained_glass
+- tconstruct:green_clear_stained_glass
 
 #refinedstorage:storage_blocks/items/4096k
 - extrastorage:block_4096k
@@ -9099,6 +9267,17 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - create:zinc_block
 - create:brass_block
 - #forge:storage_blocks/certus_quartz
+- #forge:storage_blocks/copper
+- #forge:storage_blocks/cobalt
+- #forge:storage_blocks/slimesteel
+- #forge:storage_blocks/silicon_bronze
+- #forge:storage_blocks/rose_gold
+- #forge:storage_blocks/pig_iron
+- #forge:storage_blocks/queens_slime
+- #forge:storage_blocks/manyullyn
+- #forge:storage_blocks/hepatizon
+- #forge:storage_blocks/soulsteel
+- #forge:storage_blocks/knightslime
 - #forge:storage_blocks/arcane_crystal
 - #forge:storage_blocks/arcane_gold
 - #forge:storage_blocks/dark_nether_star
@@ -9122,6 +9301,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 
 #forge:glass_panes/orange
 - minecraft:orange_stained_glass_pane
+- tconstruct:orange_clear_stained_glass_pane
 
 #structurize:timber_frames/cyan_terracotta/warped
 - structurize:plain_warped_cyan_terracotta_timber_frame
@@ -9821,6 +10001,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - quark:basalt_bricks_stairs
 - quark:basalt_stairs
 - quark:biotite_block_stairs
+- quark:blackstone_bricks_stairs
 - quark:black_shingles_stairs
 - quark:black_stained_planks_stairs
 - quark:blue_nether_bricks_stairs
@@ -9837,6 +10018,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - quark:cyan_stained_planks_stairs
 - quark:dark_elder_prismarine_stairs
 - quark:diorite_bricks_stairs
+- quark:dirt_bricks_stairs
 - quark:duskbound_block_stairs
 - quark:elder_prismarine_bricks_stairs
 - quark:elder_prismarine_stairs
@@ -9865,6 +10047,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - quark:mossy_cobblestone_bricks_stairs
 - quark:myalite_bricks_stairs
 - quark:myalite_stairs
+- quark:netherrack_bricks_stairs
 - quark:orange_shingles_stairs
 - quark:orange_stained_planks_stairs
 - quark:permafrost_bricks_stairs
@@ -9896,6 +10079,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - quark:thatch_stairs
 - quark:turf_stairs
 - quark:twisted_blackstone_bricks_stairs
+- quark:vanilla_basalt_bricks_stairs
 - quark:weeping_blackstone_bricks_stairs
 - quark:white_shingles_stairs
 - quark:white_stained_planks_stairs
@@ -10209,6 +10393,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - quark:basalt_vertical_slab
 - quark:biotite_block_vertical_slab
 - quark:birch_vertical_slab
+- quark:blackstone_bricks_vertical_slab
 - quark:blackstone_vertical_slab
 - quark:black_shingles_vertical_slab
 - quark:black_stained_planks_vertical_slab
@@ -10235,6 +10420,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - quark:dark_prismarine_vertical_slab
 - quark:diorite_bricks_vertical_slab
 - quark:diorite_vertical_slab
+- quark:dirt_bricks_vertical_slab
 - quark:duskbound_block_vertical_slab
 - quark:elder_prismarine_bricks_vertical_slab
 - quark:elder_prismarine_vertical_slab
@@ -10268,6 +10454,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - quark:mossy_stone_brick_vertical_slab
 - quark:myalite_bricks_vertical_slab
 - quark:myalite_vertical_slab
+- quark:netherrack_bricks_vertical_slab
 - quark:nether_brick_vertical_slab
 - quark:oak_vertical_slab
 - quark:orange_shingles_vertical_slab
@@ -10320,6 +10507,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - quark:thatch_vertical_slab
 - quark:turf_vertical_slab
 - quark:twisted_blackstone_bricks_vertical_slab
+- quark:vanilla_basalt_bricks_vertical_slab
 - quark:warped_vertical_slab
 - quark:weeping_blackstone_bricks_vertical_slab
 - quark:white_shingles_vertical_slab
@@ -10462,6 +10650,17 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - create:copper_block
 - create:zinc_block
 - create:brass_block
+- #forge:storage_blocks/copper
+- #forge:storage_blocks/cobalt
+- #forge:storage_blocks/slimesteel
+- #forge:storage_blocks/silicon_bronze
+- #forge:storage_blocks/rose_gold
+- #forge:storage_blocks/pig_iron
+- #forge:storage_blocks/queens_slime
+- #forge:storage_blocks/manyullyn
+- #forge:storage_blocks/hepatizon
+- #forge:storage_blocks/soulsteel
+- #forge:storage_blocks/knightslime
 - quark:golden_apple_crate
 
 #repurposed_structures:mossy_well_ores
@@ -10596,6 +10795,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - minecraft:seagrass
 - minecraft:large_fern
 
+#forge:storage_blocks/hepatizon
+- tconstruct:hepatizon_block
+
 #botania:mystical_flowers
 - botania:black_mystical_flower
 - botania:blue_mystical_flower
@@ -10638,6 +10840,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 
 #forge:glass/black
 - minecraft:black_stained_glass
+- tconstruct:black_clear_stained_glass
 
 #structurize:timber_frames/crimson/oak
 - structurize:plain_oak_crimson_timber_frame
@@ -11162,6 +11365,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 
 #forge:glass_panes/pink
 - minecraft:pink_stained_glass_pane
+- tconstruct:pink_clear_stained_glass_pane
 
 #structurize:timber_frames/green_terracotta/acacia
 - structurize:plain_acacia_green_terracotta_timber_frame
@@ -11338,6 +11542,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 
 #forge:glass_panes/cyan
 - minecraft:cyan_stained_glass_pane
+- tconstruct:cyan_clear_stained_glass_pane
 
 #forge:ores/uraninite_poor
 - powah:uraninite_ore_poor
@@ -11406,6 +11611,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - create:framed_glass
 - create:horizontal_framed_glass
 - create:vertical_framed_glass
+- tconstruct:clear_glass
 - #forge:glass/arcane
 - #forge:glass/dark_runic
 - #forge:glass/runic
@@ -11530,6 +11736,22 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - minecraft:green_stained_glass
 - minecraft:red_stained_glass
 - minecraft:black_stained_glass
+- tconstruct:white_clear_stained_glass
+- tconstruct:orange_clear_stained_glass
+- tconstruct:magenta_clear_stained_glass
+- tconstruct:light_blue_clear_stained_glass
+- tconstruct:yellow_clear_stained_glass
+- tconstruct:lime_clear_stained_glass
+- tconstruct:pink_clear_stained_glass
+- tconstruct:gray_clear_stained_glass
+- tconstruct:light_gray_clear_stained_glass
+- tconstruct:cyan_clear_stained_glass
+- tconstruct:purple_clear_stained_glass
+- tconstruct:blue_clear_stained_glass
+- tconstruct:brown_clear_stained_glass
+- tconstruct:green_clear_stained_glass
+- tconstruct:red_clear_stained_glass
+- tconstruct:black_clear_stained_glass
 
 #refinedstorage:storage_blocks/items/infinite
 - extradisks:infinite_storage_block
@@ -11821,6 +12043,13 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 #structurize:shingles/gilded_blackstone/dark_oak
 - structurize:gilded_blackstone_dark_oak_shingle
 
+#tconstruct:seared_blocks
+- tconstruct:seared_stone
+- tconstruct:seared_cracked_bricks
+- tconstruct:seared_cobble
+- tconstruct:seared_paver
+- #tconstruct:seared_bricks
+
 #forge:sand/soulless
 - forbidden_arcanus:soulless_sand
 
@@ -11875,6 +12104,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - byg:nightshade_wood
 - byg:stripped_nightshade_wood
 
+#forge:storage_blocks/soulsteel
+- tconstruct:soulsteel_block
+
 #create:safe_nbt
 - create:creative_motor
 - create:creative_fluid_tank
@@ -11899,6 +12131,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - create:analog_lever
 - create:adjustable_repeater
 - create:adjustable_pulse_repeater
+- #minecraft:signs
 
 #structurize:shingles/blackstone/acacia
 - structurize:blackstone_acacia_shingle
@@ -12025,6 +12258,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - immersiveengineering:storage_electrum
 - thermal:electrum_block
 
+#forge:storage_blocks/knightslime
+- tconstruct:knightslime_block
+
 #structurize:timber_frames/magenta_terracotta/crimson
 - structurize:plain_crimson_magenta_terracotta_timber_frame
 - structurize:double_crossed_crimson_magenta_terracotta_timber_frame
@@ -12065,6 +12301,22 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - structurize:blue_slate_dark_oak_shingle
 - structurize:green_slate_dark_oak_shingle
 - structurize:purple_slate_dark_oak_shingle
+
+#tconstruct:anvil_metal
+- #forge:storage_blocks/slimesteel
+- #forge:storage_blocks/silicon_bronze
+- #forge:storage_blocks/rose_gold
+- #forge:storage_blocks/pig_iron
+- #forge:storage_blocks/queens_slime
+- #forge:storage_blocks/manyullyn
+- #forge:storage_blocks/hepatizon
+- #forge:storage_blocks/netherite
+- #forge:storage_blocks/bronze?
+- #forge:storage_blocks/brass?
+- #forge:storage_blocks/electrum?
+- #forge:storage_blocks/invar?
+- #forge:storage_blocks/constantan?
+- #forge:storage_blocks/steel?
 
 #mekanismadditions:glow_panels
 - mekanismadditions:black_glow_panel
@@ -12334,6 +12586,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - #ars_nouveau:harvest/foliage
 - #ars_nouveau:harvest/stems
 
+#quark:crab_spawnable
+- minecraft:sand
+- minecraft:red_sand
+
 #structurize:timber_frames/jungle/warped
 - structurize:plain_warped_jungle_timber_frame
 - structurize:double_crossed_warped_jungle_timber_frame
@@ -12521,6 +12777,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 
 #forge:glass_panes/gray
 - minecraft:gray_stained_glass_pane
+- tconstruct:gray_clear_stained_glass_pane
 
 #minecraft:wither_immune
 - minecraft:barrier
@@ -12549,6 +12806,11 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - mob_grinding_utils:entity_conveyor
 - mob_grinding_utils:ender_inhibitor_on
 - mob_grinding_utils:ender_inhibitor_off
+- mob_grinding_utils:tinted_glass
+- mob_grinding_utils:jumbo_tank
+- mob_grinding_utils:xpsolidifier
+- mob_grinding_utils:dreadful_dirt
+- mob_grinding_utils:solid_xp_block
 - cyclic:dark_glass
 - cyclic:crate
 - cyclic:unbreakable_block
@@ -12690,6 +12952,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 
 #forge:glass/brown
 - minecraft:brown_stained_glass
+- tconstruct:brown_clear_stained_glass
 
 #structurize:timber_frames/blackstone/oak
 - structurize:plain_oak_blackstone_timber_frame
@@ -12822,6 +13085,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 
 #forge:glass/light_gray
 - minecraft:light_gray_stained_glass
+- tconstruct:light_gray_clear_stained_glass
 
 #structurize:timber_frames/beige_brick/oak
 - structurize:plain_oak_beige_brick_timber_frame
@@ -13202,6 +13466,12 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - structurize:blockbrownbrickslab
 - structurize:blockbeigebrickslab
 
+#tconstruct:slimy_saplings
+- tconstruct:sky_slime_sapling
+- tconstruct:ichor_slime_sapling
+- tconstruct:ender_slime_sapling
+- tconstruct:blood_slime_sapling
+
 #buildinggadgets:blacklist/exchanging
 - #buildinggadgets:blacklist/generic
 - minecraft:torch
@@ -13516,9 +13786,11 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 
 #forge:glass_panes/purple
 - minecraft:purple_stained_glass_pane
+- tconstruct:purple_clear_stained_glass_pane
 
 #forge:glass/yellow
 - minecraft:yellow_stained_glass
+- tconstruct:yellow_clear_stained_glass
 
 #elementalcraft:shrines/upgradables/acceleration
 - elementalcraft:growthshrine
@@ -13628,6 +13900,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - structurize:one_crossed_rl_crimson_brick_timber_frame
 - structurize:horizontal_plain_crimson_brick_timber_frame
 - structurize:side_framed_horizontal_crimson_brick_timber_frame
+
+#forge:storage_blocks/pig_iron
+- tconstruct:pig_iron_block
 
 #structurize:timber_frames/warped/cactus
 - structurize:plain_cactus_warped_timber_frame
@@ -13741,6 +14016,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - structurize:horizontal_plain_acacia_lime_terracotta_timber_frame
 - structurize:side_framed_horizontal_acacia_lime_terracotta_timber_frame
 
+#forge:storage_blocks/manyullyn
+- tconstruct:manyullyn_block
+
 #forge:storage_blocks/azure_silver
 - silentgear:azure_silver_block
 
@@ -13831,6 +14109,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - mysticalagriculture:aluminum_crop
 - mysticalagriculture:copper_crop
 - mysticalagriculture:saltpeter_crop
+- mysticalagriculture:apatite_crop
 - mysticalagriculture:mystical_flower_crop
 - mysticalagriculture:iron_crop
 - mysticalagriculture:nether_quartz_crop
@@ -13902,6 +14181,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - mysticalagriculture:niotic_crystal_crop
 - mysticalagriculture:spirited_crystal_crop
 - mysticalagriculture:uraninite_crop
+- mysticalagriculture:nether_star_crop
+- mysticalagriculture:dragon_egg_crop
+- mysticalagriculture:nitro_crystal_crop
 
 #structurize:timber_frames/spruce/warped
 - structurize:plain_warped_spruce_timber_frame
@@ -13921,63 +14203,63 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 #resourcefulbees:resourceful_honeycomb_block
 - minecraft:honeycomb_block
 - resourcefulbees:catnip_honeycomb_block
-- resourcefulbees:rocky_honeycomb_block
-- resourcefulbees:soul_lava_honeycomb_block
-- resourcefulbees:obsidian_honeycomb_block
-- resourcefulbees:dragonic_honeycomb_block
-- resourcefulbees:blazing_honeycomb_block
-- resourcefulbees:withered_honeycomb_block
-- resourcefulbees:wither_honeycomb_block
-- resourcefulbees:ghost_honeycomb_block
-- resourcefulbees:lead_honeycomb_block
 - resourcefulbees:vibranium_honeycomb_block
-- resourcefulbees:iron_honeycomb_block
-- resourcefulbees:nickel_honeycomb_block
-- resourcefulbees:uranium_honeycomb_block
-- resourcefulbees:tin_honeycomb_block
-- resourcefulbees:osmium_honeycomb_block
-- resourcefulbees:silver_honeycomb_block
-- resourcefulbees:copper_honeycomb_block
-- resourcefulbees:platinum_honeycomb_block
-- resourcefulbees:netherite_honeycomb_block
-- resourcefulbees:uraninite_honeycomb_block
-- resourcefulbees:unobtainium_honeycomb_block
-- resourcefulbees:aluminum_honeycomb_block
-- resourcefulbees:gold_honeycomb_block
-- resourcefulbees:allthemodium_honeycomb_block
 - resourcefulbees:zinc_honeycomb_block
-- resourcefulbees:lapis_honeycomb_block
 - resourcefulbees:emerald_honeycomb_block
-- resourcefulbees:certus_honeycomb_block
-- resourcefulbees:redstone_honeycomb_block
+- resourcefulbees:rocky_honeycomb_block
+- resourcefulbees:silver_honeycomb_block
 - resourcefulbees:fluorite_honeycomb_block
-- resourcefulbees:diamond_honeycomb_block
-- resourcefulbees:coal_honeycomb_block
-- resourcefulbees:icey_honeycomb_block
-- resourcefulbees:leafcutter_honeycomb_block
-- resourcefulbees:cropy_honeycomb_block
-- resourcefulbees:lava_honeycomb_block
-- resourcefulbees:cobbee_honeycomb_block
-- resourcefulbees:mana_honeycomb_block
-- resourcefulbees:glowing_honeycomb_block
-- resourcefulbees:water_honeycomb_block
-- resourcefulbees:gravely_honeycomb_block
-- resourcefulbees:rgbee_honeycomb_block
-- resourcefulbees:sandy_honeycomb_block
-- resourcefulbees:mystical_honeycomb_block
-- resourcefulbees:mason_honeycomb_block
-- resourcefulbees:lumber_honeycomb_block
-- resourcefulbees:skeleton_honeycomb_block
-- resourcefulbees:zombie_honeycomb_block
-- resourcefulbees:magma_honeycomb_block
-- resourcefulbees:creeper_honeycomb_block
-- resourcefulbees:slimy_honeycomb_block
-- resourcefulbees:spider_honeycomb_block
-- resourcefulbees:ender_honeycomb_block
-- resourcefulbees:guardian_honeycomb_block
-- resourcefulbees:crimson_iron_honeycomb_block
-- resourcefulbees:quartz_honeycomb_block
 - resourcefulbees:aquamarine_honeycomb_block
+- resourcefulbees:lead_honeycomb_block
+- resourcefulbees:uraninite_honeycomb_block
+- resourcefulbees:wither_honeycomb_block
+- resourcefulbees:mason_honeycomb_block
+- resourcefulbees:creeper_honeycomb_block
+- resourcefulbees:coal_honeycomb_block
+- resourcefulbees:diamond_honeycomb_block
+- resourcefulbees:redstone_honeycomb_block
+- resourcefulbees:skeleton_honeycomb_block
+- resourcefulbees:iron_honeycomb_block
+- resourcefulbees:spider_honeycomb_block
+- resourcefulbees:mana_honeycomb_block
+- resourcefulbees:unobtainium_honeycomb_block
+- resourcefulbees:glowing_honeycomb_block
+- resourcefulbees:dragonic_honeycomb_block
+- resourcefulbees:osmium_honeycomb_block
+- resourcefulbees:lumber_honeycomb_block
+- resourcefulbees:zombie_honeycomb_block
+- resourcefulbees:uranium_honeycomb_block
+- resourcefulbees:withered_honeycomb_block
+- resourcefulbees:allthemodium_honeycomb_block
+- resourcefulbees:rgbee_honeycomb_block
+- resourcefulbees:crimson_iron_honeycomb_block
+- resourcefulbees:ghost_honeycomb_block
+- resourcefulbees:cropy_honeycomb_block
+- resourcefulbees:tin_honeycomb_block
+- resourcefulbees:magma_honeycomb_block
+- resourcefulbees:slimy_honeycomb_block
+- resourcefulbees:platinum_honeycomb_block
+- resourcefulbees:soul_lava_honeycomb_block
+- resourcefulbees:lapis_honeycomb_block
+- resourcefulbees:cobbee_honeycomb_block
+- resourcefulbees:copper_honeycomb_block
+- resourcefulbees:gold_honeycomb_block
+- resourcefulbees:obsidian_honeycomb_block
+- resourcefulbees:sandy_honeycomb_block
+- resourcefulbees:lava_honeycomb_block
+- resourcefulbees:certus_honeycomb_block
+- resourcefulbees:nickel_honeycomb_block
+- resourcefulbees:quartz_honeycomb_block
+- resourcefulbees:mystical_honeycomb_block
+- resourcefulbees:guardian_honeycomb_block
+- resourcefulbees:netherite_honeycomb_block
+- resourcefulbees:aluminum_honeycomb_block
+- resourcefulbees:gravely_honeycomb_block
+- resourcefulbees:leafcutter_honeycomb_block
+- resourcefulbees:blazing_honeycomb_block
+- resourcefulbees:water_honeycomb_block
+- resourcefulbees:ender_honeycomb_block
+- resourcefulbees:icey_honeycomb_block
 
 #minecraft:planks
 - minecraft:oak_planks

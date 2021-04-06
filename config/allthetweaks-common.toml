@@ -1,6 +1,6 @@
 
 [packmode]
-	#ATM = 0 SLOP = 1 SKY = 2 MAGIC = 3
-	#Range: 0 ~ 3
+	#ATM = 0 SLOP = 1 SKY = 2 MAGIC = 3 EXPERT = 4
+	#Range: 0 ~ 4
 	enable = 0
 

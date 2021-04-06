@@ -16,6 +16,21 @@
 	genTrees = 0.002
 	#Spawn Mana Berry Bushes in the world
 	genBerries = true
+	#How often Wilden Guardians spawn
+	#Range: 0 ~ 200
+	wguardianWeight = 50
+	#How often Wilden Stalkers spawn
+	#Range: 0 ~ 200
+	wstalkerWeight = 50
+	#How often Wilden Hunter spawn
+	#Range: 0 ~ 200
+	whunterWeight = 50
+	#Should the Wilden Hunter attack animals?
+	hunterHuntsAnimals = true
+	#Should the Wilden Stalker attack animals?
+	stalkerHuntsAnimals = false
+	#Should the Wilden Defender attack animals?
+	defenderHuntsAnimals = false
 
 #Mana
 [mana]
@@ -213,7 +228,7 @@
 	smelt_cost = 100
 	#Summon Steed cost
 	#Range: > -2147483648
-	summon_steed_cost = 0
+	summon_steed_cost = 100
 	#Accelerate cost
 	#Range: > -2147483648
 	accelerate_cost = 10
@@ -222,7 +237,7 @@
 	summon_vex_cost = 75
 	#Lightning cost
 	#Range: > -2147483648
-	lightning_cost = 50
+	lightning_cost = 100
 	#Grow cost
 	#Range: > -2147483648
 	grow_cost = 70
@@ -255,7 +270,7 @@
 	place_block_cost = 10
 	#Summon Wolves cost
 	#Range: > -2147483648
-	summon_wolves_cost = 0
+	summon_wolves_cost = 100
 	#Shield cost
 	#Range: > -2147483648
 	shield_cost = 30

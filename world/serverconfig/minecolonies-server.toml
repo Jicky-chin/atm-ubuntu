@@ -208,8 +208,6 @@
 	#Experience multiplier of the enchanter (how much more experience do they get from a citizen than they drain). [Default: 2.000000, min: 1.000000, max: 10.000000]
 	#Range: 1.0 ~ 10.0
 	enchanterexperiencemultiplier = 2.0
-	#The items and item-tags that the Florist can plant. 
-	listofplantables = ["minecraft:sunflower", "minecraft:lilac", "minecraft:rose_bush", "minecraft:peony", "minecraft:tall_grass", "minecraft:large_fern", "minecraft:fern", "biomesoplenty:small_flowers", "minecraft:small_flowers"]
 	#All diseases citizens can get. The name, how common it is, and all ingredients to cure it. 
 	diseases = ["Influenza,100,minecraft:carrot,minecraft:potato", "Measles,10,minecraft:dandelion,minecraft:kelp,minecraft:poppy", "Smallpox,1,minecraft:honeycomb,minecraft:golden_apple"]
 	#Items consumed by citizens in the Library. 

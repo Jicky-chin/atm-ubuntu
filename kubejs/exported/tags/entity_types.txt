@@ -1,49 +1,6 @@
-To refresh this file, delete it and run /reload command again! Last updated: Mar 23, 2021 9:18:00 PM
-
-#iceandfire:dragon_targets
-- minecraft:cow
-- minecraft:sheep
-- minecraft:pig
-- minecraft:chicken
-- minecraft:fox
-- minecraft:horse
-- minecraft:mooshroom
-- minecraft:ocelot
-- minecraft:llama
-- minecraft:panda
-- minecraft:parrot
-- minecraft:polar_bear
-- minecraft:rabbit
-- minecraft:trader_llama
-- minecraft:wolf
-- minecraft:cat
-- minecraft:pillager
-- minecraft:cat
-- minecraft:strider
-- minecraft:piglin
-- minecraft:hoglin
-- minecraft:zoglin
-
-#botania:cocoon/common_aquatic
-- minecraft:cod
-- minecraft:salmon
-- minecraft:tropical_fish
-- minecraft:pufferfish
-- minecraft:squid
-- quark:crab?
+To refresh this file, delete it and run /reload command again! Last updated: Apr 3, 2021 1:01:34 PM
 
 #iceandfire:scares_cockatrices
-
-#minecraft:impact_projectiles
-- #minecraft:arrows
-- minecraft:snowball
-- minecraft:fireball
-- minecraft:small_fireball
-- minecraft:egg
-- minecraft:trident
-- minecraft:dragon_fireball
-- minecraft:wither_skull
-- mekanism:flame
 
 #botania:cocoon/common
 - minecraft:pig
@@ -51,84 +8,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - minecraft:chicken
 - minecraft:rabbit
 - minecraft:sheep
-
-#minecraft:beehive_inhabitors
-- minecraft:bee
-- resourcefulbees:blazing_bee
-- resourcefulbees:magma_bee
-- resourcefulbees:ender_bee
-- resourcefulbees:dragonic_bee
-- resourcefulbees:vibranium_bee
-- resourcefulbees:netherite_bee
-- resourcefulbees:skeleton_bee
-- resourcefulbees:platinum_bee
-- resourcefulbees:kitten_bee
-- resourcefulbees:tin_bee
-- resourcefulbees:fluorite_bee
-- resourcefulbees:lapis_bee
-- resourcefulbees:zinc_bee
-- resourcefulbees:obsidian_bee
-- resourcefulbees:withered_bee
-- resourcefulbees:water_bee
-- resourcefulbees:warm_bee
-- resourcefulbees:coal_bee
-- resourcefulbees:silver_bee
-- resourcefulbees:uranium_bee
-- resourcefulbees:emerald_bee
-- resourcefulbees:redstone_bee
-- resourcefulbees:creeper_bee
-- resourcefulbees:cropy_bee
-- resourcefulbees:crimson_iron_bee
-- resourcefulbees:unobtainium_bee
-- resourcefulbees:aquamarine_bee
-- resourcefulbees:aluminum_bee
-- resourcefulbees:allthemodium_bee
-- resourcefulbees:rocky_bee
-- resourcefulbees:gold_bee
-- resourcefulbees:mystical_bee
-- resourcefulbees:lava_bee
-- resourcefulbees:ghost_bee
-- resourcefulbees:mason_bee
-- resourcefulbees:zombie_bee
-- resourcefulbees:copper_bee
-- resourcefulbees:rgbee_bee
-- resourcefulbees:slimy_bee
-- resourcefulbees:guardian_bee
-- resourcefulbees:leafcutter_bee
-- resourcefulbees:nickel_bee
-- resourcefulbees:lumber_bee
-- resourcefulbees:osmium_bee
-- resourcefulbees:quartz_bee
-- resourcefulbees:gravely_bee
-- resourcefulbees:lead_bee
-- resourcefulbees:uraninite_bee
-- resourcefulbees:diamond_bee
-- resourcefulbees:mana_bee
-- resourcefulbees:glowing_bee
-- resourcefulbees:cobbee_bee
-- resourcefulbees:certus_bee
-- resourcefulbees:sandy_bee
-- resourcefulbees:oreo_bee
-- resourcefulbees:iron_bee
-- resourcefulbees:wither_bee
-- resourcefulbees:spider_bee
-- resourcefulbees:soul_lava_bee
-- resourcefulbees:icey_bee
-
-#forge:creepers
-- minecraft:creeper
-- mekanismadditions:baby_creeper
-
-#iceandfire:chickens
-- minecraft:chicken
-
-#minecraft:skeletons
-- minecraft:skeleton
-- minecraft:stray
-- minecraft:wither_skeleton
-- mekanismadditions:baby_skeleton
-- mekanismadditions:baby_stray
-- mekanismadditions:baby_wither_skeleton
 
 #iceandfire:fear_dragons
 - minecraft:cow
@@ -164,14 +43,11 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 #botania:cocoon/rare_aquatic
 - minecraft:dolphin
 
-#forbidden_arcanus:quantum_catcher_blacklisted
-- minecraft:wither
-- minecraft:elder_guardian
-- minecraft:ender_dragon
-
-#minecraft:arrows
-- minecraft:arrow
-- minecraft:spectral_arrow
+#tconstruct:melting/show_in_default
+- minecraft:iron_golem
+- minecraft:snow_golem
+- minecraft:villager
+- minecraft:player
 
 #botania:cocoon/rare
 - minecraft:horse
@@ -188,9 +64,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 
 #iceandfire:sheep
 - minecraft:sheep
-
-#iceandfire:fire_dragon_targets
-- #iceandfire:dragon_targets
 
 #botania:shaded_mesa_blacklist
 - minecraft:ender_dragon
@@ -217,6 +90,145 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - minecraft:witch
 
 #industrialforegoing:mob_imprisonment_tool_blacklist
+
+#tconstruct:melting/hide_in_default
+- minecraft:giant
+
+#iceandfire:dragon_targets
+- minecraft:cow
+- minecraft:sheep
+- minecraft:pig
+- minecraft:chicken
+- minecraft:fox
+- minecraft:horse
+- minecraft:mooshroom
+- minecraft:ocelot
+- minecraft:llama
+- minecraft:panda
+- minecraft:parrot
+- minecraft:polar_bear
+- minecraft:rabbit
+- minecraft:trader_llama
+- minecraft:wolf
+- minecraft:cat
+- minecraft:pillager
+- minecraft:cat
+- minecraft:strider
+- minecraft:piglin
+- minecraft:hoglin
+- minecraft:zoglin
+
+#forge:slimes
+- tconstruct:sky_slime
+
+#botania:cocoon/common_aquatic
+- minecraft:cod
+- minecraft:salmon
+- minecraft:tropical_fish
+- minecraft:pufferfish
+- minecraft:squid
+- quark:crab?
+
+#minecraft:impact_projectiles
+- #minecraft:arrows
+- minecraft:snowball
+- minecraft:fireball
+- minecraft:small_fireball
+- minecraft:egg
+- minecraft:trident
+- minecraft:dragon_fireball
+- minecraft:wither_skull
+- mekanism:flame
+
+#minecraft:beehive_inhabitors
+- minecraft:bee
+- resourcefulbees:lead_bee
+- resourcefulbees:kitten_bee
+- resourcefulbees:diamond_bee
+- resourcefulbees:slimy_bee
+- resourcefulbees:crimson_iron_bee
+- resourcefulbees:tin_bee
+- resourcefulbees:water_bee
+- resourcefulbees:redstone_bee
+- resourcefulbees:rgbee_bee
+- resourcefulbees:glowing_bee
+- resourcefulbees:lava_bee
+- resourcefulbees:blazing_bee
+- resourcefulbees:osmium_bee
+- resourcefulbees:soul_lava_bee
+- resourcefulbees:iron_bee
+- resourcefulbees:ender_bee
+- resourcefulbees:allthemodium_bee
+- resourcefulbees:cobbee_bee
+- resourcefulbees:wither_bee
+- resourcefulbees:mana_bee
+- resourcefulbees:withered_bee
+- resourcefulbees:lumber_bee
+- resourcefulbees:lapis_bee
+- resourcefulbees:aquamarine_bee
+- resourcefulbees:ghost_bee
+- resourcefulbees:gravely_bee
+- resourcefulbees:copper_bee
+- resourcefulbees:nickel_bee
+- resourcefulbees:aluminum_bee
+- resourcefulbees:oreo_bee
+- resourcefulbees:fluorite_bee
+- resourcefulbees:emerald_bee
+- resourcefulbees:uraninite_bee
+- resourcefulbees:uranium_bee
+- resourcefulbees:coal_bee
+- resourcefulbees:warm_bee
+- resourcefulbees:silver_bee
+- resourcefulbees:obsidian_bee
+- resourcefulbees:unobtainium_bee
+- resourcefulbees:zombie_bee
+- resourcefulbees:zinc_bee
+- resourcefulbees:mystical_bee
+- resourcefulbees:rocky_bee
+- resourcefulbees:platinum_bee
+- resourcefulbees:guardian_bee
+- resourcefulbees:netherite_bee
+- resourcefulbees:magma_bee
+- resourcefulbees:mason_bee
+- resourcefulbees:leafcutter_bee
+- resourcefulbees:vibranium_bee
+- resourcefulbees:gold_bee
+- resourcefulbees:creeper_bee
+- resourcefulbees:quartz_bee
+- resourcefulbees:skeleton_bee
+- resourcefulbees:spider_bee
+- resourcefulbees:sandy_bee
+- resourcefulbees:cropy_bee
+- resourcefulbees:dragonic_bee
+- resourcefulbees:certus_bee
+- resourcefulbees:icey_bee
+
+#forge:creepers
+- minecraft:creeper
+- mekanismadditions:baby_creeper
+
+#iceandfire:chickens
+- minecraft:chicken
+
+#minecraft:skeletons
+- minecraft:skeleton
+- minecraft:stray
+- minecraft:wither_skeleton
+- mekanismadditions:baby_skeleton
+- mekanismadditions:baby_stray
+- mekanismadditions:baby_wither_skeleton
+
+#forbidden_arcanus:quantum_catcher_blacklisted
+- minecraft:wither
+- minecraft:elder_guardian
+- minecraft:ender_dragon
+
+#minecraft:arrows
+- minecraft:arrow
+- minecraft:spectral_arrow
+
+#iceandfire:fire_dragon_targets
+- #iceandfire:dragon_targets
 
 #iceandfire:ice_dragon_targets
 - #iceandfire:dragon_targets

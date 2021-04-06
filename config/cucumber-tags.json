@@ -26,6 +26,8 @@
   "forge:ingots/uranium": "alltheores:uranium_ingot",
   "forge:ingots/nickel": "alltheores:nickel_ingot",
   "forge:ingots/lumium": "thermal:lumium_ingot",
+  "forge:gems/apatite": "thermal:apatite",
+  "forge:dusts/niter": "thermal:niter_dust",
   "forge:ingots/enderium": "thermal:enderium_ingot",
   "forge:ingots/signalum": "thermal:signalum_ingot"
 }
