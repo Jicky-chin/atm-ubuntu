@@ -132,7 +132,7 @@
 			#
 			# How rare are Nether Cities. 1 for spawning in most chunks and 1001 for none.
 			#Range: 1 ~ 1001
-			citiesNetherMaxChunkDistance = 160
+			citiesNetherMaxChunkDistance = 120
 			#
 			# Add Nether Cities to modded Nether category biomes.
 			addCitiesNetherToModdedBiomes = true

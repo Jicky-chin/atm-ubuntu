@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/foods/sky_slime_drop_campfire": {
+    "criteria": {
+      "has_item": "2021-04-06 15:26:58 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2021-02-02 19:23:47 -0500"
@@ -491,9 +497,21 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/final_castle": {
+    "criteria": {
+      "discover": "2021-04-06 15:02:45 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2021-02-09 18:32:31 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/dark_tower": {
+    "criteria": {
+      "discover": "2021-04-06 15:02:45 -0400"
     },
     "done": true
   },
@@ -1470,6 +1488,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/hollow_hills": {
+    "criteria": {
+      "0": "2021-04-06 15:02:45 -0400"
+    },
+    "done": true
+  },
   "woot:recipes/woot/rate_2": {
     "criteria": {
       "cobblestone": "2021-01-31 03:11:10 -0500"
@@ -2143,6 +2167,12 @@
   "xnet:recipes/xnet/advanced_connector_blue_dye": {
     "criteria": {
       "chest": "2021-01-31 03:21:04 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/mushroom_tower": {
+    "criteria": {
+      "discover": "2021-04-06 15:02:45 -0400"
     },
     "done": true
   },
@@ -3118,6 +3148,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_item": "2021-04-06 15:26:58 -0400"
+    },
+    "done": true
+  },
   "botania:recipes/botania/runic_altar": {
     "criteria": {
       "has_item": "2021-02-17 21:48:04 -0500"
@@ -3244,6 +3280,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/world/common/slime/green/congealed": {
+    "criteria": {
+      "has_item": "2021-04-06 15:26:58 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/honey_block": {
     "criteria": {
       "has_honey_bottle": "2021-02-01 13:30:44 -0500"
@@ -3349,6 +3391,12 @@
   "elementalcraft:pickup/aircrystal": {
     "criteria": {
       "has_aircrystal": "2021-02-16 14:53:24 -0500"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/slimesling/green": {
+    "criteria": {
+      "has_item": "2021-04-06 15:26:58 -0400"
     },
     "done": true
   },
@@ -4030,6 +4078,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/knight_stronghold": {
+    "criteria": {
+      "discover": "2021-04-07 17:57:54 -0400"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/tools/modifiers/silky_cloth": {
     "criteria": {
       "has_item": "2021-04-03 15:46:26 -0400"
@@ -4189,6 +4243,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_pink": {
     "criteria": {
       "has_sheetmetal": "2021-03-04 00:44:41 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/hydra_lair": {
+    "criteria": {
+      "discover": "2021-04-06 15:02:45 -0400"
     },
     "done": true
   },
@@ -4792,6 +4852,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/large_hollow_hill": {
+    "criteria": {
+      "discover": "2021-04-06 15:02:45 -0400"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/treated_wallmount": {
     "criteria": {
       "has_treated_planks": "2021-02-16 22:00:40 -0500"
@@ -5206,6 +5272,12 @@
   "botania:recipes/misc/dye_light_blue": {
     "criteria": {
       "has_item": "2021-02-17 21:29:14 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/giant_cloud": {
+    "criteria": {
+      "discover": "2021-04-06 15:25:54 -0400"
     },
     "done": true
   },
@@ -5807,6 +5879,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/naga_courtyard": {
+    "criteria": {
+      "discover": "2021-04-06 15:02:45 -0400"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/cokebrick": {
     "criteria": {
       "has_cokebrick": "2021-02-16 21:39:05 -0500"
@@ -5882,6 +5960,12 @@
   "elementalcraft:recipes/elementalcraft/containedcrystal": {
     "criteria": {
       "has_inertcrystal": "2021-01-31 03:14:58 -0500"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/slimeboots/sky": {
+    "criteria": {
+      "has_item": "2021-04-06 15:26:58 -0400"
     },
     "done": true
   },
@@ -6050,6 +6134,12 @@
   "create:recipes/create.base/crafting/kinetics/cyan_seat": {
     "criteria": {
       "has_wool": "2021-01-31 03:47:39 -0500"
+    },
+    "done": true
+  },
+  "resourcefulbees:resourcefulbees/beepedia": {
+    "criteria": {
+      "beepedia": "2021-04-07 18:08:02 -0400"
     },
     "done": true
   },
@@ -7337,6 +7427,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/troll_lairs": {
+    "criteria": {
+      "discover": "2021-04-07 17:57:40 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2021-01-31 03:09:23 -0500"
@@ -7772,6 +7868,12 @@
   "mcwdoors:recipes/oak/oak_cottage_door": {
     "criteria": {
       "has_planks": "2021-01-31 20:51:23 -0500"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/slimesling/sky": {
+    "criteria": {
+      "has_item": "2021-04-06 15:26:58 -0400"
     },
     "done": true
   },
@@ -8411,6 +8513,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/lich_tower": {
+    "criteria": {
+      "discover": "2021-04-06 15:02:45 -0400"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/thermo_plant/ethanol_from_sugar": {
     "criteria": {
       "thermopneumatic_processing_plant": "2021-02-23 23:16:23 -0500"
@@ -8654,6 +8762,12 @@
   "computercraft:recipes/computercraft/pocket_advanced/computercraft/wireless_modem_normal": {
     "criteria": {
       "has_items": "2021-03-03 21:35:59 -0500"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/world/common/slime/sky/slimeblock": {
+    "criteria": {
+      "has_item": "2021-04-06 15:26:58 -0400"
     },
     "done": true
   },
@@ -10470,6 +10584,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/slime/sky/slimeball_from_congealed": {
+    "criteria": {
+      "has_item": "2021-04-06 15:28:35 -0400"
+    },
+    "done": true
+  },
   "botania:recipes/botania/incense_plate": {
     "criteria": {
       "has_item": "2021-02-17 20:37:27 -0500"
@@ -11245,6 +11365,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/yeti_lairs": {
+    "criteria": {
+      "discover": "2021-04-06 15:02:45 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2021-02-06 19:12:40 -0500"
@@ -11638,6 +11764,12 @@
   "woot:recipes/woot/pink_dyecasing": {
     "criteria": {
       "cobblestone": "2021-01-31 03:11:10 -0500"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/slimeboots/green": {
+    "criteria": {
+      "has_item": "2021-04-06 15:26:58 -0400"
     },
     "done": true
   },
@@ -12358,6 +12490,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/ice_tower": {
+    "criteria": {
+      "discover": "2021-04-06 15:02:45 -0400"
+    },
+    "done": true
+  },
   "woot:recipes/woot/factory_ctr_base_sec": {
     "criteria": {
       "cobblestone": "2021-01-31 03:11:10 -0500"
@@ -12850,6 +12988,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/medium_hollow_hill": {
+    "criteria": {
+      "discover": "2021-04-06 15:02:45 -0400"
+    },
+    "done": true
+  },
   "botania:recipes/botania/lens_normal": {
     "criteria": {
       "has_item": "2021-02-03 22:26:15 -0500"
@@ -12932,6 +13076,12 @@
   "mcwwindows:recipes/windows/oak_window": {
     "criteria": {
       "has_planks": "2021-03-02 16:32:31 -0500"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/world/common/slime/sky/congealed": {
+    "criteria": {
+      "has_item": "2021-04-06 15:26:58 -0400"
     },
     "done": true
   },
@@ -16152,6 +16302,12 @@
     },
     "done": true
   },
+  "resourcefulbees:resourcefulbees/beepedia_unlock_bee": {
+    "criteria": {
+      "beepedia_unlock_bee": "2021-04-07 18:08:31 -0400"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/saw_blueprint": {
     "criteria": {
       "has_item": "2021-02-01 23:17:01 -0500"
@@ -16611,6 +16767,12 @@
   "immersiveengineering:main/mb_blastfurnace": {
     "criteria": {
       "blastfurnace": "2021-02-01 22:59:42 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/small_hollow_hill": {
+    "criteria": {
+      "discover": "2021-04-06 15:02:45 -0400"
     },
     "done": true
   },
@@ -17274,6 +17436,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/hedge_maze": {
+    "criteria": {
+      "discover": "2021-04-06 15:02:45 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/shulker_box": {
     "criteria": {
       "has_shulker_shell": "2021-02-09 18:30:42 -0500"
@@ -17325,6 +17493,12 @@
   "tombstone:adventure/enchant_voodoo_poppet": {
     "criteria": {
       "has_enchanted_voodoo_poppet": "2021-02-16 20:22:37 -0500"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/slime/earth/slimeball_from_congealed": {
+    "criteria": {
+      "has_item": "2021-04-06 15:28:33 -0400"
     },
     "done": true
   },
@@ -17694,6 +17868,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/quest_grove": {
+    "criteria": {
+      "discover": "2021-04-06 15:02:45 -0400"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_dolomite_from_dolomite_stonecutting": {
     "criteria": {
       "has_dolomite": "2021-02-01 15:06:30 -0500"
@@ -17835,6 +18015,12 @@
   "botania:recipes/botania/super_cloud_pendant": {
     "criteria": {
       "has_alt_item": "2021-03-28 19:46:53 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tconstruct/general/tools/modifiers/slime_crystal/sky": {
+    "criteria": {
+      "has_item": "2021-04-06 15:26:58 -0400"
     },
     "done": true
   },

@@ -1,3 +1,3 @@
-[13:10:38] [INFO] Loaded script startup_scripts:custom_stuff.js in 2.97 s
-[13:10:38] [INFO] Loaded script startup_scripts:custom_items.js in 0.046 s
-[13:10:38] [INFO] Loaded 2/2 KubeJS startup scripts in 7.471 s
+[14:47:17] [INFO] Loaded script startup_scripts:custom_stuff.js in 1.479 s
+[14:47:17] [INFO] Loaded script startup_scripts:custom_items.js in 0.057 s
+[14:47:17] [INFO] Loaded 2/2 KubeJS startup scripts in 2.802 s

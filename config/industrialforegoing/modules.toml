@@ -35,6 +35,9 @@
 		[modules.agriculture.mob_duplicator]
 			enabled = true
 
+		[modules.agriculture.wither_builder]
+			enabled = true
+
 	#Module for all the Industrial Foregoing basic features
 	[modules.core]
 		enabled = true
@@ -101,6 +104,9 @@
 			enabled = true
 
 		[modules.core.laser_lens]
+			enabled = true
+
+		[modules.core.ore_meat]
 			enabled = true
 
 	#All machines that generate power
@@ -233,6 +239,15 @@
 			enabled = true
 
 		[modules.resource_production.dye_mixer]
+			enabled = true
+
+		[modules.resource_production.washing_factory]
+			enabled = true
+
+		[modules.resource_production.fluid_sieving_machine]
+			enabled = true
+
+		[modules.resource_production.fermentation_station]
 			enabled = true
 
 		[modules.resource_production.ore_laser_base]

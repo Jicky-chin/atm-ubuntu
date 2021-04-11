@@ -462,6 +462,9 @@
 	[tweaks.skull_pikes]
 		"Pike Range" = 5.0
 
+	[tweaks.note_block_mob_sounds]
+		"Enable Vocaloid" = true
+
 [world]
 	"Big Dungeon" = true
 	"Big Stone Clusters" = true

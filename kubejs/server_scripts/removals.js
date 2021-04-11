@@ -112,6 +112,7 @@ events.listen('recipes', e => {
         //crative apiary
         'creativeapiary:tcreative_apiary',
         'creativeapiary:creative_apiary_storage',
+        'creativeapiary:creative_apiary_breeder',
 
         'quarryplus:solidquarry',
         'quarryplus:workbenchplus',
@@ -145,7 +146,9 @@ events.listen('recipes', e => {
         'extradisks:part/infinite_fluid_storage_part',
         'extradisks:part/infinite_storage_part',
         'mysticalagriculture:unattuned_augment',
-        'rftoolsbuilder:builder'
+        'rftoolsbuilder:builder',
+        'extrastorage:iron_crafter'
+        
     ];
     idRemove.forEach(iR => {
         e.remove({
