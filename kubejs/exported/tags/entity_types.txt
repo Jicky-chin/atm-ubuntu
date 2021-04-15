@@ -1,4 +1,4 @@
-To refresh this file, delete it and run /reload command again! Last updated: Apr 6, 2021, 2:31:16 PM
+To refresh this file, delete it and run /reload command again! Last updated: Apr 11, 2021, 3:57:51 PM
 
 #iceandfire:scares_cockatrices
 
@@ -141,7 +141,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - mekanism:flame
 
 #minecraft:beehive_inhabitors
-- minecraft:bee
 - resourcefulbees:lead_bee
 - resourcefulbees:kitten_bee
 - resourcefulbees:diamond_bee
@@ -202,6 +201,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - resourcefulbees:dragonic_bee
 - resourcefulbees:certus_bee
 - resourcefulbees:icey_bee
+- minecraft:bee
 
 #forge:creepers
 - minecraft:creeper

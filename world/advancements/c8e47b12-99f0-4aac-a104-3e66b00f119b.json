@@ -2080,6 +2080,12 @@
     },
     "done": true
   },
+  "resourcefulbees:resourcefulbees/fifty_shades_of_bees": {
+    "criteria": {
+      "fifty_shades_of_bees": "2021-04-13 20:14:32 -0400"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2021-01-31 03:38:01 -0500"
@@ -3148,12 +3154,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/slime_block": {
-    "criteria": {
-      "has_item": "2021-04-06 15:26:58 -0400"
-    },
-    "done": true
-  },
   "botania:recipes/botania/runic_altar": {
     "criteria": {
       "has_item": "2021-02-17 21:48:04 -0500"
@@ -3280,12 +3280,6 @@
     },
     "done": true
   },
-  "tconstruct:recipes/tconstruct/world/common/slime/green/congealed": {
-    "criteria": {
-      "has_item": "2021-04-06 15:26:58 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/honey_block": {
     "criteria": {
       "has_honey_bottle": "2021-02-01 13:30:44 -0500"
@@ -3391,12 +3385,6 @@
   "elementalcraft:pickup/aircrystal": {
     "criteria": {
       "has_aircrystal": "2021-02-16 14:53:24 -0500"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/tconstruct/gadgets/gadgets/slimesling/green": {
-    "criteria": {
-      "has_item": "2021-04-06 15:26:58 -0400"
     },
     "done": true
   },
@@ -7037,12 +7025,6 @@
     },
     "done": true
   },
-  "allthemodium:uaalloy_ingot": {
-    "criteria": {
-      "soullava": "2021-04-03 14:57:56 -0400"
-    },
-    "done": true
-  },
   "woot:recipes/woot/headless_2": {
     "criteria": {
       "cobblestone": "2021-01-31 03:11:10 -0500"
@@ -7421,6 +7403,12 @@
     },
     "done": true
   },
+  "resourcefulbees:resourcefulbees/centrifuge": {
+    "criteria": {
+      "centrifuge": "2021-04-13 20:12:38 -0400"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/birch/birch_japanese_door": {
     "criteria": {
       "has_planks": "2021-01-31 20:50:28 -0500"
@@ -7538,12 +7526,6 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2021-02-01 17:53:24 -0500"
-    },
-    "done": true
-  },
-  "allthemodium:avalloy_ingot": {
-    "criteria": {
-      "soullava": "2021-04-03 14:57:56 -0400"
     },
     "done": true
   },
@@ -11041,12 +11023,6 @@
     },
     "done": true
   },
-  "allthemodium:alloy_shovel": {
-    "criteria": {
-      "soullava": "2021-04-03 14:57:56 -0400"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/jungle/jungle_classic_trapdoor": {
     "criteria": {
       "has_planks": "2021-02-01 16:58:11 -0500"
@@ -11767,12 +11743,6 @@
     },
     "done": true
   },
-  "tconstruct:recipes/tconstruct/gadgets/gadgets/slimeboots/green": {
-    "criteria": {
-      "has_item": "2021-04-06 15:26:58 -0400"
-    },
-    "done": true
-  },
   "botania:recipes/botania/elementium_hoe": {
     "criteria": {
       "has_item": "2021-03-27 15:13:02 -0400"
@@ -12115,12 +12085,6 @@
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2021-02-05 21:26:13 -0500"
-    },
-    "done": true
-  },
-  "allthemodium:uvalloy_ingot": {
-    "criteria": {
-      "soullava": "2021-04-03 14:57:56 -0400"
     },
     "done": true
   },
@@ -13904,6 +13868,12 @@
   "create:recipes/create.palettes/paved_limestone_from_limestone_stonecutting": {
     "criteria": {
       "has_limestone": "2021-02-11 18:19:55 -0500"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/shuriken/quartz_shuriken": {
+    "criteria": {
+      "has_item": "2021-04-15 14:23:33 -0400"
     },
     "done": true
   },

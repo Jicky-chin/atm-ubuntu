@@ -1,4 +1,4 @@
-To refresh this file, delete it and run /reload command again! Last updated: Apr 6, 2021, 2:31:11 PM
+To refresh this file, delete it and run /reload command again! Last updated: Apr 11, 2021, 3:57:49 PM
 
 #darkutils:trap
 - darkutils:rune_slowness
@@ -2005,7 +2005,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - botania:sunny_quartz_slab
 - botania:white_pavement_slab
 - botania:yellow_pavement_slab
-- framedblocks:framed_slab
 - naturesaura:ancient_slab
 - naturesaura:infused_slab
 - naturesaura:infused_brick_slab
@@ -2057,7 +2056,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - byg:ether_stone_slab
 - byg:purpur_stone_slab
 - byg:imparius_slab
-- twilightforest:aurora_slab
 - #forge:slabs/plastic
 - #forge:slabs/plastic/glow
 - #forge:slabs/plastic/transparent
@@ -2217,6 +2215,8 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - engineersdecor:rebar_concrete_tile_slab
 - engineersdecor:gas_concrete_slab
 - engineersdecor:panzerglass_slab
+- framedblocks:framed_slab
+- twilightforest:aurora_slab
 
 #forge:seeds/hops
 - thermal:hops_seeds
@@ -2408,6 +2408,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - byg:bulbis_pressure_plate
 - byg:nightshade_pressure_plate
 - byg:imparius_pressure_plate
+- forbidden_arcanus:edelwood_pressure_plate
+- forbidden_arcanus:cherrywood_pressure_plate
+- forbidden_arcanus:mysterywood_pressure_plate
 - twilightforest:twilight_oak_plate
 - twilightforest:canopy_plate
 - twilightforest:mangrove_plate
@@ -2416,9 +2419,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - twilightforest:trans_plate
 - twilightforest:mine_plate
 - twilightforest:sort_plate
-- forbidden_arcanus:edelwood_pressure_plate
-- forbidden_arcanus:cherrywood_pressure_plate
-- forbidden_arcanus:mysterywood_pressure_plate
 
 #forge:ores/arcane_crystal
 - forbidden_arcanus:arcane_crystal_ore
@@ -2519,10 +2519,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - refinedstorage:green_crafter
 - refinedstorage:blue_crafter
 - refinedstorage:yellow_crafter
-
-#ctiers:quadruple_compressed_diamond_blocks
-- ctiers:quadruple_compressed_diamond_block
-- compressium:diamond_4?
 
 #botania:petals/green
 - botania:green_petal
@@ -3116,8 +3112,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - #structurize:shingles/thatched/warped
 - #structurize:shingles/thatched/cactus
 
-#resourcefulbees:resourceful_honey_bottle
-
 #forge:fruits/mango
 - pamhc2trees:mangoitem
 
@@ -3213,16 +3207,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - byg:withering_oak_sapling
 - byg:ether_sapling
 - byg:nightshade_sapling
-- twilightforest:twilight_oak_sapling
-- twilightforest:canopy_sapling
-- twilightforest:mangrove_sapling
-- twilightforest:darkwood_sapling
-- twilightforest:time_sapling
-- twilightforest:transformation_sapling
-- twilightforest:mining_sapling
-- twilightforest:sorting_sapling
-- twilightforest:hollow_oak_sapling
-- twilightforest:rainboak_sapling
 - ars_nouveau:blue_archwood_sapling
 - ars_nouveau:red_archwood_sapling
 - ars_nouveau:green_archwood_sapling
@@ -3235,6 +3219,16 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - quark:pink_blossom_sapling
 - quark:yellow_blossom_sapling
 - quark:red_blossom_sapling
+- twilightforest:twilight_oak_sapling
+- twilightforest:canopy_sapling
+- twilightforest:mangrove_sapling
+- twilightforest:darkwood_sapling
+- twilightforest:time_sapling
+- twilightforest:transformation_sapling
+- twilightforest:mining_sapling
+- twilightforest:sorting_sapling
+- twilightforest:hollow_oak_sapling
+- twilightforest:rainboak_sapling
 
 #elementalcraft:improved_receptacles
 - elementalcraft:receptacle_improved_empty
@@ -3360,6 +3354,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - byg:bulbis_fence
 - byg:nightshade_fence
 - byg:imparius_fence
+- ars_nouveau:archwood_fence
+- forbidden_arcanus:edelwood_fence
+- forbidden_arcanus:cherrywood_fence
+- forbidden_arcanus:mysterywood_fence
 - twilightforest:twilight_oak_fence
 - twilightforest:canopy_fence
 - twilightforest:mangrove_fence
@@ -3368,10 +3366,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - twilightforest:trans_fence
 - twilightforest:mine_fence
 - twilightforest:sort_fence
-- ars_nouveau:archwood_fence
-- forbidden_arcanus:edelwood_fence
-- forbidden_arcanus:cherrywood_fence
-- forbidden_arcanus:mysterywood_fence
 
 #forge:vegetables/leek
 - pamhc2crops:leekitem
@@ -3736,13 +3730,13 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 
 #forge:tools/wrench
 - mekanism:configurator
-- pipez:wrench
 - integrateddynamics:wrench
 - thermal:wrench
 - cyclic:cable_wrench
 - biggerreactors:wrench
 - rftoolsbase:smartwrench
 - rftoolsbase:smartwrench_select
+- pipez:wrench
 
 #forge:furnaces/vibranium
 - ironfurnaces:vibranium_furnace
@@ -3893,6 +3887,14 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 
 #byg:gray_dye
 
+#ftbultimine:excluded_tools/strict
+- mininggadgets:mininggadget?
+- ars_nouveau:wand?
+- ars_nouveau:novice_spell_book?
+- ars_nouveau:creative_spell_book?
+- ars_nouveau:archmage_spell_book?
+- ars_nouveau:apprentice_spell_book?
+
 #forge:ores/mana
 - ars_nouveau:arcane_ore
 
@@ -3973,10 +3975,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - envirocore:nanorite_polished_stairs
 - envirocore:nanorite_tile_stairs
 - envirocore:nanorite_tile_small_stairs
-
-#ctiers:sextuple_compressed_diamond_blocks_2
-- compressium:diamond_6
-- ctiers:sextuple_compressed_diamond_block?
 
 #forge:juices/elderberryjuice
 - pamhc2foodextended:elderberryjuiceitem
@@ -5457,6 +5455,17 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 #forge:rawbeef/rawtofeakitem
 - pamhc2foodextended:rawtofeakitem
 
+#tconstruct:parts
+- tconstruct:pickaxe_head
+- tconstruct:hammer_head
+- tconstruct:axe_head
+- tconstruct:kama_head
+- tconstruct:sword_blade
+- tconstruct:tool_binding
+- tconstruct:large_plate
+- tconstruct:tool_rod
+- tconstruct:tough_tool_rod
+
 #forge:dusts/lead
 - alltheores:lead_dust
 - mekanism:dust_lead
@@ -5604,6 +5613,8 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - create:copper_nugget
 - create:zinc_nugget
 - create:brass_nugget
+- #forge:nuggets/arcane_gold
+- #forge:nuggets/ender_pearl
 - #forge:nuggets/copper
 - #forge:nuggets/cobalt
 - #forge:nuggets/slimesteel
@@ -5615,8 +5626,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - #forge:nuggets/hepatizon
 - #forge:nuggets/soulsteel
 - #forge:nuggets/knightslime
-- #forge:nuggets/arcane_gold
-- #forge:nuggets/ender_pearl
 
 #mekanismadditions:plastic_blocks/transparent
 - mekanismadditions:black_plastic_transparent
@@ -5956,10 +5965,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - extrastorage:block_16384k
 - extradisks:16384k_storage_block
 
-#ctiers:quadruple_compressed_emerald_blocks_2
-- compressium:emerald_4
-- ctiers:quadruple_compressed_emerald_block?
-
 #forge:ender_pearls
 - minecraft:ender_pearl
 
@@ -6151,8 +6156,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - pamhc2crops:rhubarbseeditem
 
 #resourcefulbees:resourceful_honeycomb
-- minecraft:honeycomb
-- resourcefulbees:catnip_honeycomb
 - resourcefulbees:uraninite_honeycomb
 - resourcefulbees:platinum_honeycomb
 - resourcefulbees:iron_honeycomb
@@ -6210,6 +6213,8 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - resourcefulbees:sandy_honeycomb
 - resourcefulbees:icey_honeycomb
 - resourcefulbees:fluorite_honeycomb
+- minecraft:honeycomb
+- resourcefulbees:catnip_honeycomb
 
 #forge:ingots/osmium
 - alltheores:osmium_ingot
@@ -6315,7 +6320,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 #minecraft:doors
 - #minecraft:wooden_doors
 - minecraft:iron_door
-- framedblocks:framed_door
 - #pneumaticcraft:doors
 - integrateddynamics:menril_door
 - structurize:blockcactusdoor
@@ -6330,6 +6334,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - ars_nouveau:archwood_door
 - forbidden_arcanus:arcane_gold_door
 - engineersdecor:metal_sliding_door
+- framedblocks:framed_door
 
 #botania:petals/red
 - botania:red_petal
@@ -6915,11 +6920,11 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - mekanism:ingot_refined_obsidian
 - mekanism:ingot_refined_glowstone
 - mekanism:ingot_steel
-- byg:ametrine_gems
-- byg:pendorite_scraps
 - allthemodium:allthemodium_ingot
 - allthemodium:vibranium_ingot
 - allthemodium:unobtainium_ingot
+- byg:ametrine_gems
+- byg:pendorite_scraps
 - ars_nouveau:mana_gem
 
 #forge:ores/quartz
@@ -7104,7 +7109,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - rats:stripped_pirat_log
 - rats:pirat_wood
 - rats:stripped_pirat_wood
-- #twilightforest:logs
 - ars_nouveau:blue_archwood_log
 - ars_nouveau:red_archwood_log
 - ars_nouveau:green_archwood_log
@@ -7123,6 +7127,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - ars_nouveau:stripped_purple_archwood_wood
 - #forbidden_arcanus:cherrywood_logs
 - #forbidden_arcanus:mysterywood_logs
+- #twilightforest:logs
 
 #structurize:timber_frames/jungle/jungle
 - structurize:plain_jungle_jungle_timber_frame
@@ -7226,44 +7231,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - pamhc2foodextended:bananajellyitem
 
 #quark:vertical_slab
-- buildersaddition:stone_vertical_slab
-- buildersaddition:acacia_vertical_slab
-- buildersaddition:birch_vertical_slab
-- buildersaddition:dark_oak_vertical_slab
-- buildersaddition:oak_vertical_slab
-- buildersaddition:spruce_vertical_slab
-- buildersaddition:jungle_vertical_slab
-- buildersaddition:sandstone_vertical_slab
-- buildersaddition:red_sandstone_vertical_slab
-- buildersaddition:cobblestone_vertical_slab
-- buildersaddition:bricks_vertical_slab
-- buildersaddition:stone_bricks_vertical_slab
-- buildersaddition:nether_bricks_vertical_slab
-- buildersaddition:quartz_vertical_slab
-- buildersaddition:purpur_vertical_slab
-- buildersaddition:prismarine_vertical_slab
-- buildersaddition:prismarine_bricks_vertical_slab
-- buildersaddition:dark_prismarine_vertical_slab
-- buildersaddition:andesite_vertical_slab
-- buildersaddition:polished_andesite_vertical_slab
-- buildersaddition:diorite_vertical_slab
-- buildersaddition:polished_diorite_vertical_slab
-- buildersaddition:granite_vertical_slab
-- buildersaddition:polished_granite_vertical_slab
-- buildersaddition:mossy_stone_bricks_vertical_slab
-- buildersaddition:mossy_cobblestone_vertical_slab
-- buildersaddition:smooth_quartz_vertical_slab
-- buildersaddition:red_nether_bricks_vertical_slab
-- buildersaddition:end_stone_bricks_vertical_slab
-- buildersaddition:smooth_sandstone_vertical_slab
-- buildersaddition:smooth_red_sandstone_vertical_slab
-- buildersaddition:cut_sandstone_vertical_slab
-- buildersaddition:cut_red_sandstone_vertical_slab
-- buildersaddition:crimson_vertical_slab
-- buildersaddition:warped_vertical_slab
-- buildersaddition:blackstone_vertical_slab
-- buildersaddition:polished_blackstone_vertical_slab
-- buildersaddition:polished_blackstone_bricks_vertical_slab
 - quark:acacia_vertical_slab
 - quark:andesite_bricks_vertical_slab
 - quark:andesite_vertical_slab
@@ -7383,6 +7350,45 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - quark:white_stained_planks_vertical_slab
 - quark:yellow_shingles_vertical_slab
 - quark:yellow_stained_planks_vertical_slab
+- buildersaddition:stone_vertical_slab
+- buildersaddition:acacia_vertical_slab
+- buildersaddition:birch_vertical_slab
+- buildersaddition:dark_oak_vertical_slab
+- buildersaddition:oak_vertical_slab
+- buildersaddition:spruce_vertical_slab
+- buildersaddition:jungle_vertical_slab
+- buildersaddition:sandstone_vertical_slab
+- buildersaddition:red_sandstone_vertical_slab
+- buildersaddition:cobblestone_vertical_slab
+- buildersaddition:bricks_vertical_slab
+- buildersaddition:stone_bricks_vertical_slab
+- buildersaddition:nether_bricks_vertical_slab
+- buildersaddition:quartz_vertical_slab
+- buildersaddition:purpur_vertical_slab
+- buildersaddition:prismarine_vertical_slab
+- buildersaddition:prismarine_bricks_vertical_slab
+- buildersaddition:dark_prismarine_vertical_slab
+- buildersaddition:andesite_vertical_slab
+- buildersaddition:polished_andesite_vertical_slab
+- buildersaddition:diorite_vertical_slab
+- buildersaddition:polished_diorite_vertical_slab
+- buildersaddition:granite_vertical_slab
+- buildersaddition:polished_granite_vertical_slab
+- buildersaddition:mossy_stone_bricks_vertical_slab
+- buildersaddition:mossy_cobblestone_vertical_slab
+- buildersaddition:smooth_quartz_vertical_slab
+- buildersaddition:red_nether_bricks_vertical_slab
+- buildersaddition:end_stone_bricks_vertical_slab
+- buildersaddition:smooth_sandstone_vertical_slab
+- buildersaddition:smooth_red_sandstone_vertical_slab
+- buildersaddition:cut_sandstone_vertical_slab
+- buildersaddition:cut_red_sandstone_vertical_slab
+- buildersaddition:crimson_vertical_slab
+- buildersaddition:warped_vertical_slab
+- buildersaddition:blackstone_vertical_slab
+- buildersaddition:polished_blackstone_vertical_slab
+- buildersaddition:polished_blackstone_bricks_vertical_slab
+- buildersaddition:smooth_stone_vertical_slab
 
 #structurize:shingles/slate/oak
 - structurize:slate_oak_shingle
@@ -7589,10 +7595,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 #minecolonies:fletcher_product
 - #forge:string
 
-#ctiers:sextuple_compressed_iron_blocks
-- ctiers:sextuple_compressed_iron_block
-- compressium:iron_6?
-
 #forge:nuggets/pewter
 - eidolon:pewter_nugget
 
@@ -7739,6 +7741,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - byg:bulbis_button
 - byg:nightshade_button
 - byg:imparius_button
+- forbidden_arcanus:edelwood_button
+- forbidden_arcanus:cherrywood_button
+- forbidden_arcanus:mysterywood_button
 - twilightforest:twilight_oak_button
 - twilightforest:canopy_button
 - twilightforest:mangrove_button
@@ -7747,9 +7752,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - twilightforest:trans_button
 - twilightforest:mine_button
 - twilightforest:sort_button
-- forbidden_arcanus:edelwood_button
-- forbidden_arcanus:cherrywood_button
-- forbidden_arcanus:mysterywood_button
 
 #quark:crystal
 - quark:red_crystal
@@ -8187,10 +8189,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - create:framed_glass
 - create:horizontal_framed_glass
 - create:vertical_framed_glass
-- tconstruct:clear_glass
 - #forge:glass/arcane
 - #forge:glass/dark_runic
 - #forge:glass/runic
+- tconstruct:clear_glass
 
 #enviromats:hardened_stone_stairs
 - enviromats:hardened_stone_stairs
@@ -8221,10 +8223,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 #refinedstorage:disks/fluids/16384k
 - extrastorage:disk_16384k_fluid
 - extradisks:16384k_fluid_storage_disk
-
-#ctiers:sextuple_compressed_emerald_blocks
-- ctiers:sextuple_compressed_emerald_block
-- compressium:emerald_6?
 
 #minecraft:beehives
 - minecraft:beehive
@@ -8609,10 +8607,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 #forge:storage_blocks/vibranium
 - allthemodium:vibranium_block
 
-#ctiers:quadruple_compressed_diamond_blocks_2
-- compressium:diamond_4
-- ctiers:quadruple_compressed_diamond_block?
-
 #structurize:timber_frames/jungle/acacia
 - structurize:plain_acacia_jungle_timber_frame
 - structurize:double_crossed_acacia_jungle_timber_frame
@@ -8835,6 +8829,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - #forge:storage_blocks/electrum?
 - #forge:storage_blocks/invar?
 - #forge:storage_blocks/constantan?
+- #forge:storage_blocks/pewter?
 - #forge:storage_blocks/steel?
 
 #forge:groundmeats/groundrabbit
@@ -9225,6 +9220,14 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - byg:ether_leaves
 - byg:nightshade_leaves
 - byg:flowering_nightshade_leaves
+- forbidden_arcanus:cherrywood_leaves
+- forbidden_arcanus:mysterywood_leaves
+- quark:blue_blossom_leaves
+- quark:lavender_blossom_leaves
+- quark:orange_blossom_leaves
+- quark:pink_blossom_leaves
+- quark:yellow_blossom_leaves
+- quark:red_blossom_leaves
 - twilightforest:rainboak_leaves
 - twilightforest:twilight_oak_leaves
 - twilightforest:canopy_leaves
@@ -9236,14 +9239,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - twilightforest:sorting_leaves
 - twilightforest:thorn_leaves
 - twilightforest:beanstalk_leaves
-- forbidden_arcanus:cherrywood_leaves
-- forbidden_arcanus:mysterywood_leaves
-- quark:blue_blossom_leaves
-- quark:lavender_blossom_leaves
-- quark:orange_blossom_leaves
-- quark:pink_blossom_leaves
-- quark:yellow_blossom_leaves
-- quark:red_blossom_leaves
 
 #structurize:shingles/moss_slate/birch
 - structurize:moss_slate_birch_shingle
@@ -9712,12 +9707,12 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - byg:tall_pink_allium
 - byg:thereal_bellflower
 - cyclic:flower_cyan
+- forbidden_arcanus:yellow_orchid
 - mana-and-artifice:aum
 - mana-and-artifice:cerublossom
 - mana-and-artifice:desert_nova
 - mana-and-artifice:wakebloom
 - mana-and-artifice:tarma_root
-- forbidden_arcanus:yellow_orchid
 
 #forge:fruits/pineapple
 - pamhc2crops:pineappleitem
@@ -9896,10 +9891,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - immersiveengineering:nugget_lead
 - eidolon:lead_nugget
 - thermal:lead_nugget
-
-#ctiers:quadruple_compressed_iron_blocks
-- ctiers:quadruple_compressed_iron_block
-- compressium:iron_4?
 
 #structurize:shingles/clay/acacia
 - structurize:clay_acacia_shingle
@@ -10215,14 +10206,14 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - biggerreactors:graphite_dust
 - biggerreactors:ludicrite_dust
 - biggerreactors:yellorium_dust
+- #forge:dusts/arcane_crystal
+- #forge:dusts/mundabitur
+- #forge:dusts/corrupti
 - #mana-and-artifice:dusts/vinteum
 - #mana-and-artifice:dusts/purified_vinteum
 - #mana-and-artifice:dusts/arcane_ash
 - #mana-and-artifice:dusts/bone_ash
 - #mana-and-artifice:dusts/arcane_compound
-- #forge:dusts/arcane_crystal
-- #forge:dusts/mundabitur
-- #forge:dusts/corrupti
 
 #forge:alloys/advanced
 - mekanism:alloy_infused
@@ -10567,8 +10558,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - allthemodium:allthemodium_block
 
 #resourcefulbees:resourceful_honeycomb_block
-- minecraft:honeycomb_block
-- resourcefulbees:catnip_honeycomb_block
 - resourcefulbees:vibranium_honeycomb_block
 - resourcefulbees:zinc_honeycomb_block
 - resourcefulbees:emerald_honeycomb_block
@@ -10626,6 +10615,8 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - resourcefulbees:water_honeycomb_block
 - resourcefulbees:ender_honeycomb_block
 - resourcefulbees:icey_honeycomb_block
+- minecraft:honeycomb_block
+- resourcefulbees:catnip_honeycomb_block
 
 #forge:dusts/quartz
 - mekanism:dust_quartz
@@ -10690,19 +10681,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - byg:imparius_planks
 - eidolon:polished_planks
 - rats:pirat_planks
-- twilightforest:twilight_oak_planks
-- twilightforest:canopy_planks
-- twilightforest:mangrove_planks
-- twilightforest:dark_planks
-- twilightforest:time_planks
-- twilightforest:trans_planks
-- twilightforest:mine_planks
-- twilightforest:sort_planks
-- twilightforest:tower_wood
-- twilightforest:tower_wood_encased
-- twilightforest:tower_wood_cracked
-- twilightforest:tower_wood_mossy
-- twilightforest:tower_wood_infested
 - ars_nouveau:archwood_planks
 - forbidden_arcanus:cherrywood_planks
 - forbidden_arcanus:carved_cherrywood_planks
@@ -10747,6 +10725,19 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - quark:vertical_red_stained_planks
 - quark:vertical_white_stained_planks
 - quark:vertical_yellow_stained_planks
+- twilightforest:twilight_oak_planks
+- twilightforest:canopy_planks
+- twilightforest:mangrove_planks
+- twilightforest:dark_planks
+- twilightforest:time_planks
+- twilightforest:trans_planks
+- twilightforest:mine_planks
+- twilightforest:sort_planks
+- twilightforest:tower_wood
+- twilightforest:tower_wood_encased
+- twilightforest:tower_wood_cracked
+- twilightforest:tower_wood_mossy
+- twilightforest:tower_wood_infested
 
 #structurize:timber_frames/pink_terracotta
 - #structurize:timber_frames/pink_terracotta/oak
@@ -10979,14 +10970,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - bloodmagic:primitive_explosive_cell
 
 #quark:planks_vertical_slab
-- buildersaddition:acacia_vertical_slab
-- buildersaddition:birch_vertical_slab
-- buildersaddition:dark_oak_vertical_slab
-- buildersaddition:oak_vertical_slab
-- buildersaddition:spruce_vertical_slab
-- buildersaddition:jungle_vertical_slab
-- buildersaddition:crimson_vertical_slab
-- buildersaddition:warped_vertical_slab
 - quark:black_stained_planks_vertical_slab
 - quark:blue_stained_planks_vertical_slab
 - quark:brown_stained_planks_vertical_slab
@@ -11003,6 +10986,14 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - quark:red_stained_planks_vertical_slab
 - quark:white_stained_planks_vertical_slab
 - quark:yellow_stained_planks_vertical_slab
+- buildersaddition:acacia_vertical_slab
+- buildersaddition:birch_vertical_slab
+- buildersaddition:dark_oak_vertical_slab
+- buildersaddition:oak_vertical_slab
+- buildersaddition:spruce_vertical_slab
+- buildersaddition:jungle_vertical_slab
+- buildersaddition:crimson_vertical_slab
+- buildersaddition:warped_vertical_slab
 
 #forge:alloys
 - #forge:alloys/advanced
@@ -11293,6 +11284,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - structurize:green_slate_crimson_shingle
 - structurize:purple_slate_crimson_shingle
 
+#elementalcraft:infusable/focus
+- elementalcraft:focus
+
 #forge:fence_gates
 - byg:aspen_fence_gate
 - byg:baobab_fence_gate
@@ -11401,6 +11395,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - #forge:ingots/swift_alloy
 - #forge:ingots/fireite
 - #create:create_ingots
+- #forge:ingots/arcane_gold
+- #forge:ingots/obsidian
+- #mana-and-artifice:ingots/vinteum
+- #mana-and-artifice:ingots/purified_vinteum
 - tconstruct:dried_brick
 - tconstruct:seared_brick
 - #forge:ingots/copper
@@ -11414,10 +11412,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - #forge:ingots/hepatizon
 - #forge:ingots/soulsteel
 - #forge:ingots/knightslime
-- #mana-and-artifice:ingots/vinteum
-- #mana-and-artifice:ingots/purified_vinteum
-- #forge:ingots/arcane_gold
-- #forge:ingots/obsidian
 
 #structurize:timber_frames/orange_terracotta/cactus
 - structurize:plain_cactus_orange_terracotta_timber_frame
@@ -11533,10 +11527,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 
 #forge:vegetables/asparagus
 - pamhc2crops:asparagusitem
-
-#ctiers:quadruple_compressed_iron_blocks_2
-- compressium:iron_4
-- ctiers:quadruple_compressed_iron_block?
 
 #forge:salad_ingredients/cauliflower
 - pamhc2crops:caulifloweritem
@@ -12069,7 +12059,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - botania:metamorphic_taiga_bricks_wall
 - botania:metamorphic_taiga_cobblestone_wall
 - botania:mossy_livingrock_bricks_wall
-- framedblocks:framed_wall
 - #pneumaticcraft:walls
 - structurize:blockbrownbrickwall
 - structurize:blockbeigebrickwall
@@ -12194,6 +12183,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - engineersdecor:slag_brick_wall
 - engineersdecor:rebar_concrete_wall
 - engineersdecor:gas_concrete_wall
+- framedblocks:framed_wall
 
 #forge:dusts/mana
 - botania:mana_powder
@@ -12308,8 +12298,8 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - #forge:gems/sulfur
 - ars_nouveau:mana_gem
 - #elementalcraft:gems/input
-- #mana-and-artifice:gems/chimerite
 - #forge:gems/arcane_crystal
+- #mana-and-artifice:gems/chimerite
 
 #forge:ores/soulium
 - mysticalagriculture:soulium_ore
@@ -12529,6 +12519,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - byg:bulbis_trapdoor
 - byg:nightshade_trapdoor
 - byg:imparius_trapdoor
+- forbidden_arcanus:edelwood_trapdoor
+- forbidden_arcanus:cherrywood_trapdoor
+- forbidden_arcanus:mysterywood_trapdoor
 - twilightforest:twilight_oak_trapdoor
 - twilightforest:canopy_trapdoor
 - twilightforest:mangrove_trapdoor
@@ -12537,9 +12530,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - twilightforest:trans_trapdoor
 - twilightforest:mine_trapdoor
 - twilightforest:sort_trapdoor
-- forbidden_arcanus:edelwood_trapdoor
-- forbidden_arcanus:cherrywood_trapdoor
-- forbidden_arcanus:mysterywood_trapdoor
 
 #enviromats:alabaster_red_slabs
 - enviromats:alabaster_red_slab
@@ -12915,6 +12905,11 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - mcwdoors:acacia_nether_door
 - mcwdoors:dark_oak_nether_door
 - mcwdoors:warped_nether_door
+- ars_nouveau:archwood_door
+- forbidden_arcanus:edelwood_door
+- forbidden_arcanus:cherrywood_door
+- forbidden_arcanus:mysterywood_door
+- engineersdecor:old_industrial_wood_door
 - twilightforest:twilight_oak_door
 - twilightforest:canopy_door
 - twilightforest:mangrove_door
@@ -12923,11 +12918,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - twilightforest:trans_door
 - twilightforest:mine_door
 - twilightforest:sort_door
-- ars_nouveau:archwood_door
-- forbidden_arcanus:edelwood_door
-- forbidden_arcanus:cherrywood_door
-- forbidden_arcanus:mysterywood_door
-- engineersdecor:old_industrial_wood_door
 
 #tconstruct:duct_containers
 - minecraft:bucket
@@ -13288,10 +13278,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - minecraft:glowstone
 - minecraft:sea_lantern
 
-#ctiers:quadruple_compressed_emerald_blocks
-- ctiers:quadruple_compressed_emerald_block
-- compressium:emerald_4?
-
 #forge:storage_blocks/glowstone
 - minecraft:glowstone
 
@@ -13486,12 +13472,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - quark:iron_button
 
 #ftbultimine:excluded_tools
-- mininggadgets:mininggadget?
-- ars_nouveau:wand?
-- ars_nouveau:novice_spell_book?
-- ars_nouveau:creative_spell_book?
-- ars_nouveau:archmage_spell_book?
-- ars_nouveau:apprentice_spell_book?
+- #ftbultimine:excluded_tools/strict?
 
 #structurize:timber_frames/cactus/acacia
 - structurize:plain_acacia_cactus_timber_frame
@@ -14343,8 +14324,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - minecraft:nether_brick_fence
 - botania:dreamwood_fence
 - botania:livingwood_fence
-- framedblocks:framed_fence
 - #forge:fences/plastic
+- ars_nouveau:archwood_fence
+- elementalcraft:whiterock_fence
 - #minecraft:wooden_fences
 - minecraft:nether_brick_fence
 - mcwfences:oak_picket_fence
@@ -14397,8 +14379,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - mcwfences:railing_blackstone_wall
 - mcwfences:railing_sandstone_wall
 - mcwfences:railing_red_sandstone_wall
-- ars_nouveau:archwood_fence
-- elementalcraft:whiterock_fence
+- framedblocks:framed_fence
 
 #minecolonies:cook_ingredient_excluded
 - #forge:crops/wheat
@@ -14550,10 +14531,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - enviromats:alabaster_lime_tile_stairs
 - enviromats:alabaster_lime_tile_small_stairs
 
-#ctiers:sextuple_compressed_gold_blocks
-- ctiers:sextuple_compressed_gold_block
-- compressium:gold_6?
-
 #forge:nuggets/refined_glowstone
 - mekanism:nugget_refined_glowstone
 
@@ -14652,7 +14629,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 #minecraft:trapdoors
 - #minecraft:wooden_trapdoors
 - minecraft:iron_trapdoor
-- framedblocks:framed_trapdoor
 - structurize:blockcactustrapdoor
 - byg:aspen_trapdoor
 - byg:baobab_trapdoor
@@ -14686,6 +14662,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - forbidden_arcanus:cherrywood_trapdoor
 - forbidden_arcanus:edelwood_trapdoor
 - forbidden_arcanus:mysterywood_trapdoor
+- framedblocks:framed_trapdoor
 
 #forge:ingots/gold
 - minecraft:gold_ingot
@@ -15271,9 +15248,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - pamhc2foodextended:jackfruitjuiceitem
 
 #resourcefulbees:valid_apiary
-- creativeapiary:tcreative_apiary
-- creativeapiary:creative_apiary_storage
-- creativeapiary:creative_apiary_breeder
 - resourcefulbees:t1_apiary
 - resourcefulbees:t2_apiary
 - resourcefulbees:t3_apiary
@@ -15309,6 +15283,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - minecraft:glowstone
 - minecraft:redstone_lamp
 - minecraft:shroomlight
+- creativeapiary:tcreative_apiary
+- creativeapiary:creative_apiary_storage
+- creativeapiary:creative_apiary_breeder
 
 #forge:cream/silkentofu
 - pamhc2foodextended:silkentofuitem
@@ -15723,10 +15700,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 
 #forge:furnaces/unobtainium
 - ironfurnaces:unobtainium_furnace
-
-#ctiers:sextuple_compressed_emerald_blocks_2
-- compressium:emerald_6
-- ctiers:sextuple_compressed_emerald_block?
 
 #structurize:timber_frames/orange_terracotta
 - #structurize:timber_frames/orange_terracotta/oak
@@ -16291,6 +16264,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - immersiveengineering:ore_silver
 - immersiveengineering:ore_nickel
 - immersiveengineering:ore_uranium
+- #forge:ores/allthemodium
+- #forge:ores/vibranium
+- #forge:ores/unobtainium
 - astralsorcery:starmetal_ore
 - astralsorcery:aquamarine_sand_ore
 - astralsorcery:rock_crystal_ore
@@ -16299,9 +16275,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - iceandfire:sapphire_ore
 - iceandfire:copper_ore
 - iceandfire:amythest_ore
-- #forge:ores/allthemodium
-- #forge:ores/vibranium
-- #forge:ores/unobtainium
 - #forge:ores/coal
 - #forge:ores/diamond
 - #forge:ores/emerald
@@ -16334,15 +16307,15 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - #forge:ores/inferium
 - #forge:ores/prosperity
 - #forge:ores/soulium
-- #forge:ores/cobalt
-- #forge:ores/copper
-- mana-and-artifice:vinteum_ore
 - #forge:ores/arcane_crystal
 - #forge:ores/dark_runestone
 - #forge:ores/runestone
 - #forge:ores/stella_arcanum
 - #forge:ores/xpetrified_ore
 - #forge:ores/biotite
+- mana-and-artifice:vinteum_ore
+- #forge:ores/cobalt
+- #forge:ores/copper
 
 #structurize:timber_frames/lime_terracotta
 - #structurize:timber_frames/lime_terracotta/oak
@@ -17110,10 +17083,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 
 #forge:glass_panes/colorless
 - minecraft:glass_pane
-- tconstruct:clear_glass_pane
 - #forge:glass_panes/arcane
 - #forge:glass_panes/dark_runic
 - #forge:glass_panes/runic
+- tconstruct:clear_glass_pane
 
 #forge:fruits/passionfruit
 - pamhc2trees:passionfruititem
@@ -18016,7 +17989,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - biomesoplenty:magic_fence
 - biomesoplenty:umbran_fence
 - biomesoplenty:hellbark_fence
-- #cfm:fences/upgraded
 - structurize:blockcactusfence
 - minecraft:oak_fence
 - minecraft:spruce_fence
@@ -18026,6 +17998,11 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - minecraft:dark_oak_fence
 - minecraft:crimson_fence
 - minecraft:warped_fence
+- ars_nouveau:archwood_fence
+- forbidden_arcanus:edelwood_fence
+- forbidden_arcanus:cherrywood_fence
+- forbidden_arcanus:mysterywood_fence
+- #cfm:fences/upgraded
 - twilightforest:twilight_oak_fence
 - twilightforest:canopy_fence
 - twilightforest:mangrove_fence
@@ -18034,10 +18011,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - twilightforest:trans_fence
 - twilightforest:mine_fence
 - twilightforest:sort_fence
-- ars_nouveau:archwood_fence
-- forbidden_arcanus:edelwood_fence
-- forbidden_arcanus:cherrywood_fence
-- forbidden_arcanus:mysterywood_fence
 
 #refinedstorage:disks/items/infinite
 - extradisks:infinite_storage_disk
@@ -18087,6 +18060,12 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - immersiveengineering:storage_constantan
 - immersiveengineering:storage_electrum
 - immersiveengineering:storage_steel
+- #forge:storage_blocks/allthemodium
+- #forge:storage_blocks/vibranium
+- #forge:storage_blocks/unobtainium
+- #forge:storage_blocks/unobtainium_allthemodium_alloy
+- #forge:storage_blocks/unobtainium_vibranium_alloy
+- #forge:storage_blocks/vibranium_allthemodium_alloy
 - integrateddynamics:crystalized_chorus_block
 - integrateddynamics:crystalized_menril_block
 - byg:ametrine_block
@@ -18096,12 +18075,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - eidolon:lead_block
 - eidolon:pewter_block
 - eidolon:arcane_gold_block
-- #forge:storage_blocks/allthemodium
-- #forge:storage_blocks/vibranium
-- #forge:storage_blocks/unobtainium
-- #forge:storage_blocks/unobtainium_allthemodium_alloy
-- #forge:storage_blocks/unobtainium_vibranium_alloy
-- #forge:storage_blocks/vibranium_allthemodium_alloy
 - #forge:storage_blocks/coal
 - #forge:storage_blocks/diamond
 - #forge:storage_blocks/emerald
@@ -18144,6 +18117,12 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - create:zinc_block
 - create:brass_block
 - #forge:storage_blocks/certus_quartz
+- #forge:storage_blocks/arcane_crystal
+- #forge:storage_blocks/arcane_gold
+- #forge:storage_blocks/dark_nether_star
+- #forge:storage_blocks/stellarite
+- #forge:storage_blocks/biotite
+- #forge:storage_blocks/charcoal
 - #forge:storage_blocks/copper
 - #forge:storage_blocks/cobalt
 - #forge:storage_blocks/slimesteel
@@ -18155,12 +18134,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - #forge:storage_blocks/hepatizon
 - #forge:storage_blocks/soulsteel
 - #forge:storage_blocks/knightslime
-- #forge:storage_blocks/arcane_crystal
-- #forge:storage_blocks/arcane_gold
-- #forge:storage_blocks/dark_nether_star
-- #forge:storage_blocks/stellarite
-- #forge:storage_blocks/biotite
-- #forge:storage_blocks/charcoal
 
 #mana-and-artifice:gems/chimerite
 - mana-and-artifice:chimerite_gem
@@ -18288,10 +18261,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 
 #forge:stock_ingredients/rawtropicalfish
 - minecraft:tropical_fish
-
-#ctiers:sextuple_compressed_iron_blocks_2
-- compressium:iron_6
-- ctiers:sextuple_compressed_iron_block?
 
 #forge:ingots/oratchalcum
 - rats:oratchalcum_ingot
@@ -18438,7 +18407,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - botania:sunny_quartz_stairs
 - botania:white_pavement_stairs
 - botania:yellow_pavement_stairs
-- framedblocks:framed_stairs
 - naturesaura:ancient_stairs
 - naturesaura:infused_brick_stairs
 - naturesaura:infused_stairs
@@ -18495,18 +18463,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - byg:ether_stone_stairs
 - byg:purpur_stone_stairs
 - byg:imparius_stairs
-- twilightforest:castle_stairs_brick
-- twilightforest:castle_stairs_worn
-- twilightforest:castle_stairs_cracked
-- twilightforest:castle_stairs_mossy
-- twilightforest:castle_stairs_encased
-- twilightforest:castle_stairs_bold
-- twilightforest:nagastone_stairs_left
-- twilightforest:nagastone_stairs_right
-- twilightforest:nagastone_stairs_mossy_left
-- twilightforest:nagastone_stairs_mossy_right
-- twilightforest:nagastone_stairs_weathered_left
-- twilightforest:nagastone_stairs_weathered_right
 - #forge:stairs/plastic
 - #forge:stairs/plastic/glow
 - #forge:stairs/plastic/transparent
@@ -18662,6 +18618,19 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - engineersdecor:rebar_concrete_stairs
 - engineersdecor:rebar_concrete_tile_stairs
 - engineersdecor:gas_concrete_stairs
+- framedblocks:framed_stairs
+- twilightforest:castle_stairs_brick
+- twilightforest:castle_stairs_worn
+- twilightforest:castle_stairs_cracked
+- twilightforest:castle_stairs_mossy
+- twilightforest:castle_stairs_encased
+- twilightforest:castle_stairs_bold
+- twilightforest:nagastone_stairs_left
+- twilightforest:nagastone_stairs_right
+- twilightforest:nagastone_stairs_mossy_left
+- twilightforest:nagastone_stairs_mossy_right
+- twilightforest:nagastone_stairs_weathered_left
+- twilightforest:nagastone_stairs_weathered_right
 
 #appliedenergistics2:quartz_wrench
 - appliedenergistics2:certus_quartz_wrench
@@ -19168,6 +19137,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - byg:bulbis_stairs
 - byg:nightshade_stairs
 - byg:imparius_stairs
+- ars_nouveau:archwood_stairs
+- forbidden_arcanus:edelwood_stairs
+- forbidden_arcanus:cherrywood_stairs
+- forbidden_arcanus:mysterywood_stairs
 - twilightforest:twilight_oak_stairs
 - twilightforest:canopy_stairs
 - twilightforest:mangrove_stairs
@@ -19176,10 +19149,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - twilightforest:trans_stairs
 - twilightforest:mine_stairs
 - twilightforest:sort_stairs
-- ars_nouveau:archwood_stairs
-- forbidden_arcanus:edelwood_stairs
-- forbidden_arcanus:cherrywood_stairs
-- forbidden_arcanus:mysterywood_stairs
 
 #thermal:glass/hardened
 - thermal:obsidian_glass
@@ -19768,10 +19737,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - structurize:one_crossed_rl_dark_oak_blue_terracotta_timber_frame
 - structurize:horizontal_plain_dark_oak_blue_terracotta_timber_frame
 - structurize:side_framed_horizontal_dark_oak_blue_terracotta_timber_frame
-
-#ctiers:sextuple_compressed_gold_blocks_2
-- compressium:gold_6
-- ctiers:sextuple_compressed_gold_block?
 
 #forge:plates/signalum
 - thermal:signalum_plate
@@ -20436,10 +20401,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 #forge:seeds/greengrape
 - pamhc2crops:greengrapeseeditem
 
-#ctiers:quadruple_compressed_gold_blocks_2
-- compressium:gold_4
-- ctiers:quadruple_compressed_gold_block?
-
 #refinedstorage:parts/fluids/1048576k
 - extrastorage:storagepart_1048576k_fluid
 - extradisks:1048576k_fluid_storage_part
@@ -20727,8 +20688,8 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 
 #forge:silicon
 - refinedstorage:silicon
-- tinyredstone:silicon
 - appliedenergistics2:silicon
+- tinyredstone:silicon
 
 #rftoolsutility:living/averageyield
 - minecraft:melon
@@ -21239,6 +21200,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - byg:nightshade_slab
 - byg:imparius_slab
 - rats:pirat_slab
+- ars_nouveau:archwood_slab
+- forbidden_arcanus:edelwood_slab
+- forbidden_arcanus:cherrywood_slab
+- forbidden_arcanus:mysterywood_slab
 - twilightforest:twilight_oak_slab
 - twilightforest:canopy_slab
 - twilightforest:mangrove_slab
@@ -21247,10 +21212,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - twilightforest:trans_slab
 - twilightforest:mine_slab
 - twilightforest:sort_slab
-- ars_nouveau:archwood_slab
-- forbidden_arcanus:edelwood_slab
-- forbidden_arcanus:cherrywood_slab
-- forbidden_arcanus:mysterywood_slab
 
 #astralsorcery:stardust
 - astralsorcery:stardust
@@ -21449,10 +21410,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 
 #forge:nuggets/allthemodium
 - allthemodium:allthemodium_nugget
-
-#ctiers:sextuple_compressed_diamond_blocks
-- ctiers:sextuple_compressed_diamond_block
-- compressium:diamond_6?
 
 #forge:seeds/spinach
 - pamhc2crops:spinachseeditem
@@ -22060,10 +22017,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - structurize:horizontal_plain_dark_oak_light_gray_terracotta_timber_frame
 - structurize:side_framed_horizontal_dark_oak_light_gray_terracotta_timber_frame
 
-#ctiers:quadruple_compressed_gold_blocks
-- ctiers:quadruple_compressed_gold_block
-- compressium:gold_4?
-
 #structurize:timber_frames/pink_terracotta/crimson
 - structurize:plain_crimson_pink_terracotta_timber_frame
 - structurize:double_crossed_crimson_pink_terracotta_timber_frame
@@ -22179,12 +22132,12 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - structurize:side_framed_horizontal_crimson_beige_brick_timber_frame
 
 #forge:fences
-- #cfm:fences/picket
-- #cfm:fences/upgraded
 - #forge:fences/nether_brick
 - #forge:fences/wooden
 - #forge:fences/plastic
 - ars_nouveau:archwood_fence
+- #cfm:fences/picket
+- #cfm:fences/upgraded
 
 #structurize:timber_frames/brown_terracotta
 - #structurize:timber_frames/brown_terracotta/oak
