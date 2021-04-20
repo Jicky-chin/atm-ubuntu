@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Jicky_Chin",
+      "uniqueId": "c8e47b12-99f0-4aac-a104-3e66b00f119b"
+    },
+    "time": 1618532238698,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/WpK1RwrK5I"
+    }
+  }
+]

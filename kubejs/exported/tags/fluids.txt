@@ -1,4 +1,4 @@
-To refresh this file, delete it and run /reload command again! Last updated: Apr 11, 2021, 3:57:51 PM
+To refresh this file, delete it and run /reload command again! Last updated: Apr 15, 2021, 7:29:47 PM
 
 #tconstruct:molten_manyullyn
 - tconstruct:molten_manyullyn
@@ -66,9 +66,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 #tconstruct:earth_slime
 - tconstruct:earth_slime
 - tconstruct:flowing_earth_slime
-
-#forge:xp_juice
-- xreliquary:xp_juice_still
 
 #tconstruct:liquid_soul
 - tconstruct:liquid_soul
@@ -252,6 +249,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - tconstruct:flowing_blood
 
 #forge:experience
+- xreliquary:xp_juice_still
 - industrialforegoing:essence
 - industrialforegoing:essence_fluid
 - pneumaticcraft:memory_essence

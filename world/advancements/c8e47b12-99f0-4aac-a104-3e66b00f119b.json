@@ -1157,6 +1157,12 @@
     },
     "done": true
   },
+  "xreliquary:recipes/brewing/uncrafting/ghast_tear": {
+    "criteria": {
+      "has_catalyzing_gland": "2021-04-18 17:57:16 -0400"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pressure_chamber/empty_pcb": {
     "criteria": {
       "pressure_chamber_valve": "2021-02-06 12:38:52 -0500"
@@ -6347,6 +6353,12 @@
     },
     "done": true
   },
+  "xreliquary:recipes/xreliquary/mob_charm_fragments/creeper": {
+    "criteria": {
+      "has_catalyzing_gland": "2021-04-18 17:57:16 -0400"
+    },
+    "done": true
+  },
   "silentgear:root": {
     "criteria": {
       "get_item": "2021-01-31 03:10:00 -0500"
@@ -6416,6 +6428,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2021-03-03 15:19:40 -0500"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/metal/metal_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-04-17 21:18:30 -0400"
     },
     "done": true
   },
@@ -9785,6 +9803,12 @@
     },
     "done": true
   },
+  "xreliquary:recipes/misc/uncrafting/gunpowder_creeper_gland": {
+    "criteria": {
+      "has_catalyzing_gland": "2021-04-18 17:57:16 -0400"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/antenna_base": {
     "criteria": {
       "block": "2021-02-01 22:06:53 -0500"
@@ -10732,6 +10756,12 @@
   "mcwtrpdoors:recipes/warped/warped_barn_trapdoor": {
     "criteria": {
       "has_planks": "2021-02-01 22:36:24 -0500"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/oak_bark_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-04-17 17:45:37 -0400"
     },
     "done": true
   },
@@ -13463,6 +13493,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/metal/metal_full_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-04-17 21:18:30 -0400"
+    },
+    "done": true
+  },
   "rftoolsbuilder:recipes/rftoolsbuilder/yellow_shield_template_block": {
     "criteria": {
       "glass": "2021-01-31 21:24:34 -0500"
@@ -15999,6 +16035,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/logistics_configurator": {
     "criteria": {
       "has_ingot_iron_compressed": "2021-02-06 12:13:29 -0500"
+    },
+    "done": true
+  },
+  "xreliquary:recipes/xreliquary/mob_charm_fragments/ghast": {
+    "criteria": {
+      "has_catalyzing_gland": "2021-04-18 17:57:16 -0400"
     },
     "done": true
   },

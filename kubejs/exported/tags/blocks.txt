@@ -1,4 +1,4 @@
-To refresh this file, delete it and run /reload command again! Last updated: Apr 11, 2021, 3:57:48 PM
+To refresh this file, delete it and run /reload command again! Last updated: Apr 15, 2021, 7:29:43 PM
 
 #darkutils:trap
 - darkutils:rune_slowness
@@ -251,6 +251,11 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 
 #forge:ores/redstone
 - minecraft:redstone_ore
+
+#tconstruct:harvestable
+- #minecraft:crops
+- #tconstruct:harvestable/block_crops
+- minecraft:nether_wart
 
 #forge:storage_blocks/uranium
 - alltheores:uranium_block
@@ -1905,6 +1910,14 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - mcwtrpdoors:warped_glass_trapdoor
 - mcwtrpdoors:warped_paper_trapdoor
 - mcwtrpdoors:warped_tropical_trapdoor
+- mcwtrpdoors:oak_bark_trapdoor
+- mcwtrpdoors:spruce_bark_trapdoor
+- mcwtrpdoors:birch_bark_trapdoor
+- mcwtrpdoors:jungle_bark_trapdoor
+- mcwtrpdoors:acacia_bark_trapdoor
+- mcwtrpdoors:dark_oak_bark_trapdoor
+- mcwtrpdoors:crimson_bark_trapdoor
+- mcwtrpdoors:warped_bark_trapdoor
 - silentgear:netherwood_trapdoor
 - structurize:blockcactustrapdoor
 - byg:aspen_trapdoor
@@ -2522,6 +2535,13 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - structurize:one_crossed_rl_crimson_blackstone_timber_frame
 - structurize:horizontal_plain_crimson_blackstone_timber_frame
 - structurize:side_framed_horizontal_crimson_blackstone_timber_frame
+
+#tconstruct:slime_block
+- minecraft:slime_block
+- tconstruct:sky_slime
+- tconstruct:ichor_slime
+- tconstruct:ender_slime
+- tconstruct:blood_slime
 
 #structurize:shingles/gilded_blackstone/warped
 - structurize:gilded_blackstone_warped_shingle
@@ -4824,6 +4844,8 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - mekanism:block_refined_glowstone
 
 #forge:mushrooms
+- minecraft:brown_mushroom
+- minecraft:red_mushroom
 - minecraft:red_mushroom
 - minecraft:brown_mushroom
 - minecraft:warped_fungus
@@ -5681,6 +5703,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 #minecraft:trapdoors
 - #minecraft:wooden_trapdoors
 - minecraft:iron_trapdoor
+- #minecraft:wooden_trapdoors
+- minecraft:iron_trapdoor
+- mcwtrpdoors:metal_trapdoor
+- mcwtrpdoors:metal_full_trapdoor
 - structurize:blockcactustrapdoor
 - byg:aspen_trapdoor
 - byg:baobab_trapdoor
@@ -14160,6 +14186,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Apr
 - byg:stripped_jacaranda_log
 - byg:jacaranda_wood
 - byg:stripped_jacaranda_wood
+
+#tconstruct:harvestable/block_crops
+- minecraft:sugar_cane
+- minecraft:kelp_plant
 
 #structurize:timber_frames/jungle/crimson
 - structurize:plain_crimson_jungle_timber_frame

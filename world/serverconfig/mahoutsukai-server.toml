@@ -129,6 +129,11 @@
 	#This is the cooldown between teleports (so you don't get shot back and forth rapidly)
 	#Range: 0 ~ 100000000
 	EQUIVALENT_DISPLACEMENT_RECEIVE_COOLDOWN = 15
+	#Max Distance for Equivalent Displacement
+	#Range: -1.0E7 ~ 1.0E7
+	EQUIVALENT_DISPLACEMENT_MAX_DISTANCE = -1.0
+	#Whether Equivalent Displacement can traverse dimensions
+	EQUIVALENT_DISPLACEMENT_DIMENSIONAL_TRAVEL = true
 
 [projection]
 	#This is the range for pulling undead mobs with Caliburn
@@ -357,6 +362,14 @@
 	CLARENT_BLACKLIST_TOGGLE = true
 	#Disable Emrys
 	DISABLE_EMRYS = false
+	#How much damage chains do on contact
+	#Range: 0.0 ~ 1.0E8
+	TREASURY_PROJECTION_CHAINS_DAMAGE = 1.0
+	#Max Strengthening Cap
+	#Range: 0 ~ 100000000
+	STRENGTHENING_CAP = 50
+	#If False, PROJECTION_BLACKLIST will be considered a whitelist
+	PROJECTION_IS_BLACKLIST = true
 
 [exchange]
 	#How far down gets changed by the Alchemical Exchange
@@ -435,6 +448,9 @@
 	#This is how often the circle checks for catalysts on top to change
 	#Range: 0 ~ 100000000
 	CATALYST_EXCHANGE_BLOCK_CYCLE = 4
+	#Damage Exchange Cap
+	#Range: 0 ~ 1000000000
+	DAMAGE_EXCHANGE_CAP = 100
 
 [mystic]
 	#This is the effect that is applied when the network has multiples of 11.
@@ -555,6 +571,8 @@
 	MYSTIC_STAFF_SCALING_MANA = 0.0
 	#Mystic Staff World Damage
 	MYSTIC_STAFF_WORLD_DAMAGE = true
+	#Mystic Staff Beam Block Whitelist
+	MYSTIC_STAFF_BEAM_BLOCK_WHITELIST = []
 
 [eyes]
 	#Entities must be this close to the user's look vector to be affected
@@ -767,9 +785,6 @@
 	#Gandr Black Particles Spawned on Hit
 	#Range: 0 ~ 100000000
 	GANDR_BLACK_PARTICLES_HIT = 150
-	#Gandr Red Particles Spawned on Hit
-	#Range: 0 ~ 100000000
-	GANDR_RED_PARTICLES_HI = 40
 	#Gandr Red Particles Spawned on Launch
 	#Range: 0 ~ 100000000
 	GANDR_RED_PARTICLES_LAUNCH = 25
@@ -808,6 +823,28 @@
 	#Geas Mana Regen
 	#Range: 0.0 ~ 1.0E8
 	MANA_REGEN_PER_GEAS = 0.5
+	#Gandr Red Particles Spawned on Hit
+	#Range: 0 ~ 100000000
+	GANDR_RED_PARTICLES_HIT = 40
+	#Fallen Down Block Break Per Tick
+	#Range: 0 ~ 100000000
+	FALLEN_DOWN_BLOCK_BREAK_PER_TICK = 800
+	#Fallen Down Radius
+	#Range: 0 ~ 100000000
+	FALLEN_DOWN_RADIUS = 30
+	#Fallen Down Mana Per Tick
+	#Range: 0 ~ 100000000
+	FALLEN_DOWN_MANA_COST = 2000
+	#Fallen Down Beam Mode Blocks In
+	FALLEN_DOWN_BEAM_IN = ["minecraft:grass_block", "minecraft:sand", "minecraft:red_sand", "minecraft:cobblestone", "minecraft:clay", "minecraft:ice", "minecraft:packed_ice", "minecraft:blue_ice"]
+	#Fallen Down Beam Mode Blocks Out
+	FALLEN_DOWN_BEAM_OUT = ["minecraft:dirt", "minecraft:glass", "minecraft:red_stained_glass", "minecraft:stone", "minecraft:terracotta", "minecraft:water", "minecraft:water", "minecraft:water"]
+	#Fallen Down Beam Damage
+	#Range: 0.0 ~ 1.0E9
+	FALLEN_DOWN_BEAM_DAMAGE = 2.0
+	#Fallen Down Beam Growth
+	#Range: 0.0 ~ 1.0E9
+	FALLEN_DOWN_BEAM_GROWTH = 0.12
 
 [kodoku]
 	#mahoutsukai.config.kodoku_tool_divisor.comment
@@ -919,4 +956,6 @@
 	#Scaling factor for how much hunger affects regen
 	#Range: -1.0E7 ~ 1.0E7
 	MANA_REGEN_HUNGER_FACTOR = 1.0
+	#Mystic Code First Sorcery Blacklist
+	MYSTIC_CODE_FIRST_SORCERY_BLACKLIST = []
 
